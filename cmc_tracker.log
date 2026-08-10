@@ -220,3 +220,9 @@
 2026-08-10 08:22:15,951 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-10 08:22:16,057 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-08-10 08:22:16,058 [INFO] === Run finished ===
+2026-08-10 09:55:29,587 [INFO] === Run started 2026-08-10T09:55:29.587365+00:00 ===
+2026-08-10 09:55:29,863 [INFO] Fetched 200 listings sorted by date_added
+2026-08-10 09:55:29,864 [INFO] NEW LISTING: DAPPOS (DOS) - $0.22709507, mcap $45,419,014, platform Ethereum, contract 0x951f086a127e280724fd93ccc543f65065afeb5e, added 2026-08-06T12:44:08.000Z (93.2h ago)
+2026-08-10 09:55:29,866 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-10 09:55:30,076 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-10 09:55:30,076 [INFO] === Run finished ===
