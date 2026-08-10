@@ -231,3 +231,10 @@
 2026-08-10 11:01:21,629 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-10 11:01:21,732 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-08-10 11:01:21,732 [INFO] === Run finished ===
+2026-08-10 11:57:42,516 [INFO] === Run started 2026-08-10T11:57:42.516475+00:00 ===
+2026-08-10 11:57:42,730 [INFO] Fetched 200 listings sorted by date_added
+2026-08-10 11:57:42,732 [INFO] NEW LISTING: GraniteShares 2x Short SK Hynix Daily ETF(Derivatives) (SKDD) - $15.946236, mcap $n/a, platform own chain, contract n/a, added 2026-08-10T10:58:00.000Z (1.0h ago)
+2026-08-10 11:57:42,732 [INFO] NEW LISTING: GraniteShares 2x Long SK Hynix Daily ETF (Derivatives) (SKUU) - $16.545213, mcap $n/a, platform own chain, contract n/a, added 2026-08-10T10:58:00.000Z (1.0h ago)
+2026-08-10 11:57:42,734 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-10 11:57:42,872 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-08-10 11:57:42,872 [INFO] === Run finished ===
