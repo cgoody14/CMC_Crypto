@@ -10,7 +10,7 @@ Uses the official CoinMarketCap API instead of scraping. Two endpoints:
 
   2. /v2/cryptocurrency/quotes/latest?id=...
      -> TRACKING. Batched lookup by CMC numeric ID for coins still inside
-        their 24h post-listing window. Run every cycle, only for coins
+        their 48h post-listing window. Run every cycle, only for coins
         we're actively tracking (cheap - a handful of IDs per call).
 
 Requires a free CMC API key: https://pro.coinmarketcap.com -> Account -> API Key
@@ -43,7 +43,7 @@ LISTINGS_ENDPOINT = f"{API_BASE}/v1/cryptocurrency/listings/latest"
 QUOTES_ENDPOINT = f"{API_BASE}/v2/cryptocurrency/quotes/latest"
 
 DETECTION_LIMIT = 200        # coins per detection call (1 credit per 200 data points)
-TRACK_WINDOW_HOURS = 24      # how long to keep polling a coin after listing
+TRACK_WINDOW_HOURS = 48      # how long to keep polling a coin after listing
 REQUEST_TIMEOUT = 15
 QUOTES_BATCH_SIZE = 100      # CMC allows batching many IDs in one quotes call
 
@@ -123,6 +123,7 @@ def init_db():
             name TEXT,
             symbol TEXT,
             platform TEXT,           -- e.g. 'Solana', 'Ethereum', NULL if own chain
+            contract_address TEXT,   -- token contract on that platform, NULL if own chain
             added_at TEXT,           -- exact date_added from the API (UTC ISO)
             first_seen_at TEXT,      -- when our tracker first saw it (UTC ISO)
             first_price REAL,
@@ -146,6 +147,10 @@ def init_db():
         CREATE INDEX IF NOT EXISTS idx_snapshots_coin ON price_snapshots(coin_id);
         """
     )
+    # idempotent migration: add contract_address to DBs created before it existed
+    existing_cols = {r[1] for r in conn.execute("PRAGMA table_info(coins)")}
+    if "contract_address" not in existing_cols:
+        conn.execute("ALTER TABLE coins ADD COLUMN contract_address TEXT")
     conn.commit()
     conn.close()
 
@@ -179,6 +184,7 @@ def parse_listing_row(item: dict) -> dict:
         "name": item.get("name"),
         "symbol": item.get("symbol"),
         "platform": platform.get("name") if platform else None,
+        "contract_address": platform.get("token_address") if platform else None,
         "added_at": item.get("date_added"),  # ISO 8601 string, exact
         "price": quote.get("price"),
         "pct_change_1h": quote.get("percent_change_1h"),
@@ -241,19 +247,23 @@ def ingest_new_listings(rows: list[dict], now: datetime):
 
         cur.execute(
             """INSERT INTO coins
-               (cmc_id, slug, name, symbol, platform, added_at, first_seen_at,
-                first_price, first_mcap, first_volume)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+               (cmc_id, slug, name, symbol, platform, contract_address, added_at,
+                first_seen_at, first_price, first_mcap, first_volume)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             (
                 row["cmc_id"], row["slug"], row["name"], row["symbol"],
-                row["platform"], added_at.isoformat(), now.isoformat(),
-                row["price"], row["mcap"], row["volume"],
+                row["platform"], row["contract_address"], added_at.isoformat(),
+                now.isoformat(), row["price"], row["mcap"], row["volume"],
             ),
         )
         new_count += 1
         log.info(
-            "NEW LISTING: %s (%s) - $%.8g, added %s (%.1fh ago)",
+            "NEW LISTING: %s (%s) - $%.8g, mcap $%s, platform %s, contract %s, "
+            "added %s (%.1fh ago)",
             row["name"], row["symbol"], row["price"] or 0,
+            f"{row['mcap']:,.0f}" if row["mcap"] else "n/a",
+            row["platform"] or "own chain",
+            row["contract_address"] or "n/a",
             row["added_at"], hours_since,
         )
 
@@ -285,7 +295,7 @@ def track_active_coins(now: datetime):
 
     if not active:
         conn.close()
-        log.info("No coins currently inside their 24h tracking window")
+        log.info("No coins currently inside their %dh tracking window", TRACK_WINDOW_HOURS)
         return
 
     still_active = []
@@ -303,7 +313,7 @@ def track_active_coins(now: datetime):
 
     if not still_active:
         conn.close()
-        log.info("All previously-tracked coins have completed their 24h window")
+        log.info("All previously-tracked coins have completed their %dh window", TRACK_WINDOW_HOURS)
         return
 
     ids = [cmc_id for _, cmc_id, _ in still_active]
