@@ -1,0 +1,33 @@
+name: CMC Tracker
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
+        run: python3 cmc_tracker.py
+
+      - name: Commit updated database
+        run: |
+          git config user.name "cmc-tracker-bot"
+          git config user.email "actions@github.com"
+          git add cmc_tracker.db cmc_tracker.log
+          git diff --staged --quiet || git commit -m "Update tracker data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
+          git push

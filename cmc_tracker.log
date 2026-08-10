@@ -1,0 +1,316 @@
+2026-08-04 21:18:42,433 [INFO] === Run started 2026-08-05T02:18:42.433147+00:00 ===
+2026-08-04 21:18:42,762 [INFO] Fetched 200 listings sorted by date_added
+2026-08-04 21:18:42,765 [INFO] NEW LISTING: LOXI (LOXI) - $0.004976575, added 2026-08-04T13:57:01.000Z (12.4h ago)
+2026-08-04 21:18:42,766 [INFO] NEW LISTING: iShares 0-3 Month Tokenized Treasury Bond ETF (Robinhood) (SGOV) - $100.68837, added 2026-08-04T07:32:05.000Z (18.8h ago)
+2026-08-04 21:18:42,766 [INFO] NEW LISTING: Nano Nuclear Energy Tokenized Stock (Robinhood) (NNE) - $18.95679, added 2026-08-04T07:32:04.000Z (18.8h ago)
+2026-08-04 21:18:42,767 [INFO] NEW LISTING: Meta Platforms Tokenized Stock (Robinhood) (META) - $590.57923, added 2026-08-04T07:32:04.000Z (18.8h ago)
+2026-08-04 21:18:42,767 [INFO] NEW LISTING: Reddit Tokenized Stock (Robinhood) (RDDT) - $157.44764, added 2026-08-04T07:32:03.000Z (18.8h ago)
+2026-08-04 21:18:42,767 [INFO] NEW LISTING: Nu Tokenized Stock (Robinhood) (NU) - $14.626808, added 2026-08-04T07:32:02.000Z (18.8h ago)
+2026-08-04 21:18:42,769 [INFO] NEW LISTING: MaxLinear Tokenized Stock (Robinhood) (MXL) - $72.762919, added 2026-08-04T07:32:01.000Z (18.8h ago)
+2026-08-04 21:18:42,769 [INFO] NEW LISTING: Super Micro Computer Tokenized Stock (Robinhood) (SMCI) - $31.688104, added 2026-08-04T07:32:01.000Z (18.8h ago)
+2026-08-04 21:18:42,769 [INFO] NEW LISTING: Oracle Tokenized Stock (Robinhood) (ORCL) - $141.6239, added 2026-08-04T07:32:01.000Z (18.8h ago)
+2026-08-04 21:18:42,770 [INFO] NEW LISTING: TSMC Tokenized Stock (Robinhood) (TSM) - $410.93991, added 2026-08-04T07:31:59.000Z (18.8h ago)
+2026-08-04 21:18:42,770 [INFO] NEW LISTING: Costco Tokenized Stock (Robinhood) (COST) - $947.85826, added 2026-08-04T07:31:56.000Z (18.8h ago)
+2026-08-04 21:18:42,770 [INFO] NEW LISTING: Bloom Energy Tokenized Stock (Robinhood) (BE) - $214.62467, added 2026-08-04T07:31:55.000Z (18.8h ago)
+2026-08-04 21:18:42,771 [INFO] NEW LISTING: Alphabet Class A Tokenized Stock (Robinhood) (GOOGL) - $379.8514, added 2026-08-04T07:31:54.000Z (18.8h ago)
+2026-08-04 21:18:42,771 [INFO] NEW LISTING: Take-Two Interactive Software Tokenized Stock (Robinhood) (TTWO) - $229.39007, added 2026-08-04T07:31:52.000Z (18.8h ago)
+2026-08-04 21:18:42,771 [INFO] NEW LISTING: Lumentum Tokenized Stock (Robinhood) (LITE) - $830.09617, added 2026-08-04T07:31:51.000Z (18.8h ago)
+2026-08-04 21:18:42,771 [INFO] NEW LISTING: Applied Digital Tokenized Stock (Robinhood) (APLD) - $31.215985, added 2026-08-04T07:31:50.000Z (18.8h ago)
+2026-08-04 21:18:42,771 [INFO] NEW LISTING: Strategy Inc. Tokenized Stock (Robinhood) (MSTR) - $96.362837, added 2026-08-04T07:31:49.000Z (18.8h ago)
+2026-08-04 21:18:42,772 [INFO] NEW LISTING: Quantum Computing Tokenized Stock (Robinhood) (QUBT) - $9.297415, added 2026-08-04T07:31:48.000Z (18.8h ago)
+2026-08-04 21:18:42,772 [INFO] NEW LISTING: Dell Tokenized Stock (Robinhood) (DELL) - $468.2095, added 2026-08-04T07:31:48.000Z (18.8h ago)
+2026-08-04 21:18:42,772 [INFO] NEW LISTING: Boeing Tokenized Stock (Robinhood) (BA) - $235.70463, added 2026-08-04T07:31:47.000Z (18.8h ago)
+2026-08-04 21:18:42,772 [INFO] NEW LISTING: ServiceNow Tokenized Stock (Robinhood) (NOW) - $117.99743, added 2026-08-04T07:31:47.000Z (18.8h ago)
+2026-08-04 21:18:42,773 [INFO] NEW LISTING: Alibaba Tokenized Stock (Robinhood) (BABA) - $123.40349, added 2026-08-04T07:31:46.000Z (18.8h ago)
+2026-08-04 21:18:42,773 [INFO] NEW LISTING: United States Oil Fund Tokenized Commodity (Robinhood) (USO) - $115.17757, added 2026-08-04T07:31:45.000Z (18.8h ago)
+2026-08-04 21:18:42,773 [INFO] NEW LISTING: IREN Limited Tokenized Stock (Robinhood) (IREN) - $40.90763, added 2026-08-04T07:31:43.000Z (18.8h ago)
+2026-08-04 21:18:42,773 [INFO] NEW LISTING: Shopify Tokenized Stock (Robinhood) (SHOP) - $130.27977, added 2026-08-04T07:31:41.000Z (18.8h ago)
+2026-08-04 21:18:42,774 [INFO] NEW LISTING: ASML Holding NV Tokenized Stock (Robinhood) (ASML) - $1702.008, added 2026-08-04T07:31:41.000Z (18.8h ago)
+2026-08-04 21:18:42,774 [INFO] NEW LISTING: AST SpaceMobile Tokenized Stock (Robinhood) (ASTS) - $70.204925, added 2026-08-04T07:31:40.000Z (18.8h ago)
+2026-08-04 21:18:42,774 [INFO] NEW LISTING: Coinbase Tokenized Stock (Robinhood) (COIN) - $152.07104, added 2026-08-04T07:31:40.000Z (18.8h ago)
+2026-08-04 21:18:42,774 [INFO] NEW LISTING: Amazon Tokenized Stock (Robinhood) (AMZN) - $277.45247, added 2026-08-04T07:31:38.000Z (18.8h ago)
+2026-08-04 21:18:42,775 [INFO] NEW LISTING: Circle Internet Group Tokenized Stock (Robinhood) (CRCL) - $63.004301, added 2026-08-04T07:31:34.000Z (18.8h ago)
+2026-08-04 21:18:42,775 [INFO] NEW LISTING: Redwire Tokenized Stock (Robinhood) (RDW) - $10.402616, added 2026-08-04T07:31:33.000Z (18.8h ago)
+2026-08-04 21:18:42,775 [INFO] NEW LISTING: iShares Silver Trust Tokenized Commodity (Robinhood) (SLV) - $53.414504, added 2026-08-04T07:31:33.000Z (18.8h ago)
+2026-08-04 21:18:42,776 [INFO] NEW LISTING: GameStop Tokenized Stock (Robinhood) (GME) - $19.458184, added 2026-08-04T07:31:32.000Z (18.8h ago)
+2026-08-04 21:18:42,776 [INFO] NEW LISTING: Apple Tokenized Stock (Robinhood) (AAPL) - $310.22523, added 2026-08-04T07:31:32.000Z (18.8h ago)
+2026-08-04 21:18:42,776 [INFO] NEW LISTING: Roblox Tokenized Stock (Robinhood) (RBLX) - $37.510574, added 2026-08-04T07:31:31.000Z (18.8h ago)
+2026-08-04 21:18:42,776 [INFO] NEW LISTING: Sandisk Corporation Tokenized Stock (Robinhood) (SNDK) - $1430.7687, added 2026-08-04T07:31:31.000Z (18.8h ago)
+2026-08-04 21:18:42,776 [INFO] NEW LISTING: Applied Optoelectronics Tokenized Stock (Robinhood) (AAOI) - $132.45962, added 2026-08-04T07:31:30.000Z (18.8h ago)
+2026-08-04 21:18:42,777 [INFO] NEW LISTING: Intel Tokenized Stock (Robinhood) (INTC) - $97.305884, added 2026-08-04T07:31:29.000Z (18.8h ago)
+2026-08-04 21:18:42,777 [INFO] NEW LISTING: Micron Technology Tokenized Stock (Robinhood) (MU) - $877.14624, added 2026-08-04T07:31:29.000Z (18.8h ago)
+2026-08-04 21:18:42,777 [INFO] NEW LISTING: Microsoft Tokenized Stock (Robinhood) (MSFT) - $492.17306, added 2026-08-04T07:31:28.000Z (18.8h ago)
+2026-08-04 21:18:42,777 [INFO] NEW LISTING: SPDR S&P 500 Trust Tokenized ETF (Robinhood) (SPY) - $770.01814, added 2026-08-04T07:31:28.000Z (18.8h ago)
+2026-08-04 21:18:42,777 [INFO] NEW LISTING: CoreWeave Tokenized Stock (Robinhood) (CRWV) - $84.808362, added 2026-08-04T07:31:27.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: Tesla Tokenized Stock (Robinhood) (TSLA) - $324.65376, added 2026-08-04T07:31:27.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: Netflix Tokenized ETF (Robinhood) (NFLX) - $73.699295, added 2026-08-04T07:31:26.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: Palantir Technologies Tokenized Stock (Robinhood) (PLTR) - $161.38559, added 2026-08-04T07:31:26.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: Invesco QQQ Tokenized ETF (Robinhood) (QQQ) - $725.59238, added 2026-08-04T07:31:25.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: AMD Tokenized Stock (Robinhood) (AMD) - $469.52433, added 2026-08-04T07:31:25.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: NVIDIA Tokenized Stock (Robinhood) (NVDA) - $216.51718, added 2026-08-04T07:31:24.000Z (18.8h ago)
+2026-08-04 21:18:42,778 [INFO] NEW LISTING: Catecoin (catecoin.shop) (CATE) - $3.1952153e-14, added 2026-08-04T02:22:13.000Z (23.9h ago)
+2026-08-04 21:18:42,779 [INFO] NEW LISTING: BOT Chain (BOT) - $9.6552556, added 2026-08-03T16:57:23.000Z (33.4h ago)
+2026-08-04 21:18:42,779 [INFO] NEW LISTING: WISHBONE (WISHBONE) - $0.002909665, added 2026-08-03T16:06:47.000Z (34.2h ago)
+2026-08-04 21:18:42,779 [INFO] NEW LISTING: The Juggernaut (JUGGERNAUT) - $0.0020783928, added 2026-08-03T15:18:50.000Z (35.0h ago)
+2026-08-04 21:18:42,780 [INFO] NEW LISTING: Mumu The Bull (mumuthatbull) (MUMU) - $0.00076314318, added 2026-08-03T12:08:00.000Z (38.2h ago)
+2026-08-04 21:18:42,780 [INFO] NEW LISTING: Liluni (LILUNI) - $0.0030593315, added 2026-08-03T11:29:03.000Z (38.8h ago)
+2026-08-04 21:18:42,780 [INFO] NEW LISTING: Squid (QUID) - $0.11116256, added 2026-08-03T11:26:55.000Z (38.9h ago)
+2026-08-04 21:18:42,780 [INFO] NEW LISTING: AIW3.ai (AIW3) - $0.04151158, added 2026-08-03T11:11:22.000Z (39.1h ago)
+2026-08-04 21:18:42,780 [INFO] NEW LISTING: Shibinhood (WOOF) - $3.9562538e-06, added 2026-08-03T10:58:30.000Z (39.3h ago)
+2026-08-04 21:18:42,781 [INFO] NEW LISTING: Gigadevice Semiconductor Inc (Derivatives) (GIGADEV) - $60.662483, added 2026-08-03T05:22:52.000Z (44.9h ago)
+2026-08-04 21:18:42,781 [INFO] NEW LISTING: GPU (GPU) - $0.0050979492, added 2026-08-03T01:15:33.000Z (49.1h ago)
+2026-08-04 21:18:42,781 [INFO] NEW LISTING: Baby Asteroid (asteroid.today) (BABYASTEROID) - $2.2332857e-14, added 2026-08-02T07:09:53.000Z (67.1h ago)
+2026-08-04 21:18:42,781 [INFO] NEW LISTING: NINEHOOD (NINEHOOD) - $0.00041343121, added 2026-08-01T07:30:14.000Z (90.8h ago)
+2026-08-04 21:18:42,781 [INFO] NEW LISTING: NVDA RTX STOCKS (RTX) - $0.0010505704, added 2026-07-31T14:40:43.000Z (107.6h ago)
+2026-08-04 21:18:42,782 [INFO] NEW LISTING: ShopinX (shopinx.io) (SPX) - $0.16972401, added 2026-07-31T13:18:03.000Z (109.0h ago)
+2026-08-04 21:18:42,782 [INFO] NEW LISTING: TENDIES (TendiesRH) (TENDIES) - $0.023749381, added 2026-07-31T08:49:44.000Z (113.5h ago)
+2026-08-04 21:18:42,782 [INFO] NEW LISTING: Ansem Cat (ANSEMCAT) - $6.0654692e-06, added 2026-07-31T08:06:31.000Z (114.2h ago)
+2026-08-04 21:18:42,782 [INFO] NEW LISTING: What IF (IF) - $0.010346334, added 2026-07-31T06:03:33.000Z (116.3h ago)
+2026-08-04 21:18:42,782 [INFO] NEW LISTING: Grvt (GRVT) - $0.26297561, added 2026-07-30T12:00:00.000Z (134.3h ago)
+2026-08-04 21:18:42,783 [INFO] NEW LISTING: MarsCoin (MARSCOIN) - $0.061822384, added 2026-07-30T08:32:53.000Z (137.8h ago)
+2026-08-04 21:18:42,783 [INFO] NEW LISTING: Okta Inc (Derivatives) (OKTA) - $147.40243, added 2026-07-30T04:54:51.000Z (141.4h ago)
+2026-08-04 21:18:42,783 [INFO] NEW LISTING: OCEAN (oceanbnb.vip) (OCEAN) - $1.8255385e-09, added 2026-07-29T07:51:44.000Z (162.4h ago)
+2026-08-04 21:18:42,783 [INFO] NEW LISTING: Spartan Arena (GD) - $13566.038, added 2026-07-29T05:16:30.000Z (165.0h ago)
+2026-08-04 21:18:42,784 [INFO] NEW LISTING: VEST (VES) - $18.858853, added 2026-07-29T04:29:27.000Z (165.8h ago)
+2026-08-04 21:18:42,784 [INFO] NEW LISTING: Golden Pact (AUG) - $20453.87, added 2026-07-29T04:28:59.000Z (165.8h ago)
+2026-08-04 21:18:42,784 [INFO] NEW LISTING: Spartan OS (RM) - $25.255324, added 2026-07-29T02:11:32.000Z (168.1h ago)
+2026-08-04 21:18:42,785 [INFO] NEW LISTING: Pipedog (PIPEDOG) - $0.0025984636, added 2026-07-29T01:00:32.000Z (169.3h ago)
+2026-08-04 21:18:42,785 [INFO] NEW LISTING: Pons (PONS) - $0.023776766, added 2026-07-28T21:23:27.000Z (172.9h ago)
+2026-08-04 21:18:42,785 [INFO] NEW LISTING: Dell Tokenized bStocks (DELLB) - $470.34844, added 2026-07-28T07:37:00.000Z (186.7h ago)
+2026-08-04 21:18:42,786 [INFO] NEW LISTING: VanEck Semiconductor ETF Tokenized bStocks (SMHB) - $576.30468, added 2026-07-28T07:29:31.000Z (186.8h ago)
+2026-08-04 21:18:42,786 [INFO] NEW LISTING: Paypal Tokenized bStocks (PYPLB) - $58.632364, added 2026-07-28T07:27:38.000Z (186.9h ago)
+2026-08-04 21:18:42,786 [INFO] NEW LISTING: Direxion Semiconductor Bear 3X ETF Tokenized bStocks (SOXSB) - $42.853684, added 2026-07-28T07:24:36.000Z (186.9h ago)
+2026-08-04 21:18:42,786 [INFO] NEW LISTING: Goldman Sachs Tokenized bStocks (GSB) - $1053.9579, added 2026-07-28T07:21:12.000Z (187.0h ago)
+2026-08-04 21:18:42,787 [INFO] NEW LISTING: Applied Materials Tokenized bStocks (AMATB) - $551.71744, added 2026-07-28T07:18:46.000Z (187.0h ago)
+2026-08-04 21:18:42,787 [INFO] NEW LISTING: Amazon Tokenized bStocks (AMZNB) - $278.66183, added 2026-07-28T07:16:57.000Z (187.0h ago)
+2026-08-04 21:18:42,787 [INFO] NEW LISTING: Bloom Energy Tokenized bStocks (BEB) - $229.038, added 2026-07-28T07:15:36.000Z (187.1h ago)
+2026-08-04 21:18:42,787 [INFO] NEW LISTING: Fluence Energy Tokenized bStocks (FLNCB) - $16.036916, added 2026-07-28T07:12:04.000Z (187.1h ago)
+2026-08-04 21:18:42,787 [INFO] NEW LISTING: Apple Tokenized bStocks (AAPLB) - $311.4016, added 2026-07-28T07:08:33.000Z (187.2h ago)
+2026-08-04 21:18:42,787 [INFO] NEW LISTING: Jimothy The Raccoon (JIMOTHY) - $0.0040579939, added 2026-07-28T05:42:06.000Z (188.6h ago)
+2026-08-04 21:18:42,788 [INFO] NEW LISTING: Artificial Inu (AI) - $0.0024698741, added 2026-07-28T05:29:46.000Z (188.8h ago)
+2026-08-04 21:18:42,788 [INFO] NEW LISTING: AWAKE (GLGNS) - $103311.94, added 2026-07-28T04:55:07.000Z (189.4h ago)
+2026-08-04 21:18:42,788 [INFO] NEW LISTING: AWAKE (A) - $0.98155138, added 2026-07-28T04:25:12.000Z (189.9h ago)
+2026-08-04 21:18:42,788 [INFO] NEW LISTING: Golden Pact (GOT2) - $2.1617092, added 2026-07-28T04:02:00.000Z (190.3h ago)
+2026-08-04 21:18:42,789 [INFO] NEW LISTING: Catecoin (cate.life) (CATE) - $3.9338041e-14, added 2026-07-27T12:51:39.000Z (205.5h ago)
+2026-08-04 21:18:42,789 [INFO] NEW LISTING: ProShares Bitcoin ETF (Derivatives) (BITO) - $8.6799142, added 2026-07-27T12:32:42.000Z (205.8h ago)
+2026-08-04 21:18:42,789 [INFO] NEW LISTING: ProShares UltraShort 20+ Year Treasury (Derivatives) (TBT) - $37.462942, added 2026-07-27T12:29:42.000Z (205.8h ago)
+2026-08-04 21:18:42,789 [INFO] NEW LISTING: Direxion Daily 20+ Year Treasury Bull 3X Shares (Derivatives) (TMF) - $31.687037, added 2026-07-27T12:21:33.000Z (206.0h ago)
+2026-08-04 21:18:42,789 [INFO] NEW LISTING: Bridged Polygon (Anubis) (POL) - $0.073278333, added 2026-07-27T05:26:38.000Z (212.9h ago)
+2026-08-04 21:18:42,790 [INFO] NEW LISTING: Ket (ketonsolana.com) (KET) - $0.0049987335, added 2026-07-27T00:33:32.000Z (217.8h ago)
+2026-08-04 21:18:42,790 [INFO] NEW LISTING: GameStop (thegameneverstopped.com) (GME) - $3.6131554e-05, added 2026-07-26T07:41:11.000Z (234.6h ago)
+2026-08-04 21:18:42,790 [INFO] NEW LISTING: The Digital Dinar (DINAR) - $0.13883702, added 2026-07-25T01:57:03.000Z (264.4h ago)
+2026-08-04 21:18:42,790 [INFO] NEW LISTING: AEON (AEON) - $0.061281426, added 2026-07-24T03:07:56.000Z (287.2h ago)
+2026-08-04 21:18:42,791 [INFO] NEW LISTING: Cosanta (COSA) - $2.8465837, added 2026-07-23T15:09:01.000Z (299.2h ago)
+2026-08-04 21:18:42,791 [INFO] NEW LISTING: Crynux (crynux.io) (CNX) - $0.0013300391, added 2026-07-23T14:30:03.000Z (299.8h ago)
+2026-08-04 21:18:42,791 [INFO] NEW LISTING: Valtherix AI (VLTX) - $0.083591255, added 2026-07-23T06:37:55.000Z (307.7h ago)
+2026-08-04 21:18:42,792 [INFO] NEW LISTING: XEFFY (XEF) - $0.0065627885, added 2026-07-23T00:45:03.000Z (313.6h ago)
+2026-08-04 21:18:42,792 [INFO] NEW LISTING: BabyOddHanc (BABYHANC) - $3.7321193e-09, added 2026-07-22T17:36:01.000Z (320.7h ago)
+2026-08-04 21:18:42,792 [INFO] NEW LISTING: MAKA (MAKA) - $0.088335221, added 2026-07-22T14:23:57.000Z (323.9h ago)
+2026-08-04 21:18:42,792 [INFO] NEW LISTING: Nock Finance (NOCK) - $1.2392591e-05, added 2026-07-22T12:06:59.000Z (326.2h ago)
+2026-08-04 21:18:42,792 [INFO] NEW LISTING: Sherwood Protocol (WOOD) - $0.0042794046, added 2026-07-22T10:25:32.000Z (327.9h ago)
+2026-08-04 21:18:42,793 [INFO] NEW LISTING: Hooderscan (HOODER) - $8.5734524e-05, added 2026-07-21T12:09:01.000Z (350.2h ago)
+2026-08-04 21:18:42,793 [INFO] NEW LISTING: The Bitcoin Bull (DAVINCI) - $7.7576283e-07, added 2026-07-21T10:49:24.000Z (351.5h ago)
+2026-08-04 21:18:42,793 [INFO] NEW LISTING: Chonketha the Wet Beaver (CHONKETHA) - $0.0086311013, added 2026-07-21T08:55:42.000Z (353.4h ago)
+2026-08-04 21:18:42,793 [INFO] NEW LISTING: Hyper Bull (HBULL) - $0.00080627891, added 2026-07-20T09:54:02.000Z (376.4h ago)
+2026-08-04 21:18:42,793 [INFO] NEW LISTING: FONQ (FONQ) - $0.055260381, added 2026-07-20T09:18:03.000Z (377.0h ago)
+2026-08-04 21:18:42,794 [INFO] NEW LISTING: CoreWeave Tokenized bStocks (CRWVB) - $91.191229, added 2026-07-20T08:44:50.000Z (377.6h ago)
+2026-08-04 21:18:42,794 [INFO] NEW LISTING: AXT Tokenized bStocks (AXTIB) - $64.74835, added 2026-07-20T08:41:08.000Z (377.6h ago)
+2026-08-04 21:18:42,794 [INFO] NEW LISTING: Quantinuum Tokenized bStocks (QNTB) - $59.153866, added 2026-07-20T08:33:17.000Z (377.8h ago)
+2026-08-04 21:18:42,794 [INFO] NEW LISTING: South Korea Bull 3X ETF Tokenized bStocks (KORUB) - $19.045671, added 2026-07-20T08:30:18.000Z (377.8h ago)
+2026-08-04 21:18:42,794 [INFO] NEW LISTING: GraniteShares 2X Long INTC ETF Tokenized bStocks (INTWB) - $22.890635, added 2026-07-20T08:26:26.000Z (377.9h ago)
+2026-08-04 21:18:42,794 [INFO] NEW LISTING: ProShares UltraPro QQQ Tokenized bStocks (TQQQB) - $74.885405, added 2026-07-20T08:23:32.000Z (377.9h ago)
+2026-08-04 21:18:42,795 [INFO] NEW LISTING: Oracle Tokenized bStocks (ORCLB) - $144.8683, added 2026-07-20T08:19:17.000Z (378.0h ago)
+2026-08-04 21:18:42,795 [INFO] NEW LISTING: Tradr 2X Long SNDK ETF Tokenized bStocks (SNXXB) - $12.537605, added 2026-07-20T08:14:46.000Z (378.1h ago)
+2026-08-04 21:18:42,795 [INFO] NEW LISTING: GraniteShares 2X Long MRVL ETF Tokenized bStocks (MVLLB) - $27.560248, added 2026-07-20T08:10:56.000Z (378.1h ago)
+2026-08-04 21:18:42,796 [INFO] NEW LISTING: Direxion MU Bull 2X ETF Tokenized bStocks (MUUB) - $27.058582, added 2026-07-20T08:06:37.000Z (378.2h ago)
+2026-08-04 21:18:42,796 [INFO] NEW LISTING: Jotchua (jotchua.net) (JOTCHUA) - $0.0015828477, added 2026-07-20T05:03:03.000Z (381.3h ago)
+2026-08-04 21:18:42,796 [INFO] NEW LISTING: SOSANA (SOSANA) - $0.090286884, added 2026-07-19T05:03:01.000Z (405.3h ago)
+2026-08-04 21:18:42,796 [INFO] NEW LISTING: Buz Coin (buzzcoin.co) (BUZ) - $1.0044195, added 2026-07-19T00:45:02.000Z (409.6h ago)
+2026-08-04 21:18:42,796 [INFO] NEW LISTING: Zenith Protocol (ZTH) - $0.0037527286, added 2026-07-18T18:48:04.000Z (415.5h ago)
+2026-08-04 21:18:42,797 [INFO] NEW LISTING: Peeps (peeps.wtf) (PEEPS) - $0.00049410912, added 2026-07-18T15:36:03.000Z (418.7h ago)
+2026-08-04 21:18:42,798 [INFO] NEW LISTING: Kotai (kotaiproject.io) (KTI) - $4.6351274e-05, added 2026-07-17T18:24:03.000Z (439.9h ago)
+2026-08-04 21:18:42,798 [INFO] NEW LISTING: The Black Bear (BLACKBEAR) - $0.00088170852, added 2026-07-17T14:27:02.000Z (443.9h ago)
+2026-08-04 21:18:42,798 [INFO] NEW LISTING: TSMC tokenized stock(xStock) (TSMX) - $418.8836, added 2026-07-17T06:27:01.000Z (451.9h ago)
+2026-08-04 21:18:42,798 [INFO] NEW LISTING: Palo Alto Networks tokenized stock(xStock) (PANWX) - $365.9165, added 2026-07-17T06:24:02.000Z (451.9h ago)
+2026-08-04 21:18:42,799 [INFO] NEW LISTING: Energy Select Sector SPDR Fund tokenized stock(xStock) (XLEX) - $58.537017, added 2026-07-17T06:20:48.000Z (452.0h ago)
+2026-08-04 21:18:42,799 [INFO] NEW LISTING: SharpLink Gaming tokenized stock(xStock) (SBETX) - $6.48, added 2026-07-17T06:17:39.000Z (452.0h ago)
+2026-08-04 21:18:42,799 [INFO] NEW LISTING: Adobe tokenized stock(xStock) (ADBEX) - $257.35666, added 2026-07-17T06:09:44.000Z (452.1h ago)
+2026-08-04 21:18:42,799 [INFO] NEW LISTING: Sandisk Corporation tokenized stock(xstock) (SNDKX) - $1418.0246, added 2026-07-17T05:27:55.000Z (452.8h ago)
+2026-08-04 21:18:42,799 [INFO] NEW LISTING: U.S. Dollar Payment Token (USDPT) - $0.99965585, added 2026-07-16T19:13:20.000Z (463.1h ago)
+2026-08-04 21:18:42,800 [INFO] NEW LISTING: Pear Protocol (PEAR) - $0.016205403, added 2026-07-15T17:36:02.000Z (488.7h ago)
+2026-08-04 21:18:42,800 [INFO] NEW LISTING: The Index (INDEX) - $0.0081330749, added 2026-07-15T09:10:54.000Z (497.1h ago)
+2026-08-04 21:18:42,800 [INFO] NEW LISTING: SANTAHOOD (SANTACOIN) - $8.2564201e-05, added 2026-07-15T07:47:25.000Z (498.5h ago)
+2026-08-04 21:18:42,800 [INFO] NEW LISTING: AIUSD (AIUSD) - $0.99934146, added 2026-07-13T20:45:01.000Z (533.6h ago)
+2026-08-04 21:18:42,801 [INFO] NEW LISTING: KharYsma Coins (KHACN) - $549.56939, added 2026-07-13T16:48:01.000Z (537.5h ago)
+2026-08-04 21:18:42,801 [INFO] NEW LISTING: Aladin (ALD) - $0.03994499, added 2026-07-13T14:12:04.000Z (540.1h ago)
+2026-08-04 21:18:42,801 [INFO] NEW LISTING: Robinhood Tokenized bStocks (HOODB) - $94.052181, added 2026-07-13T11:04:01.000Z (543.2h ago)
+2026-08-04 21:18:42,805 [INFO] NEW LISTING: Marvell Technology Tokenized bStocks (MRVLB) - $219.69713, added 2026-07-13T11:01:03.000Z (543.3h ago)
+2026-08-04 21:18:42,806 [INFO] NEW LISTING: Alibaba Tokenized bStocks (BABAB) - $131.00459, added 2026-07-13T10:56:44.000Z (543.4h ago)
+2026-08-04 21:18:42,806 [INFO] NEW LISTING: Applied Optoelectronics Tokenized bStocks (AAOIB) - $133.0405, added 2026-07-13T10:53:08.000Z (543.4h ago)
+2026-08-04 21:18:42,806 [INFO] NEW LISTING: Nokia Tokenized bStocks (NOKB) - $9.9350694, added 2026-07-13T10:50:18.000Z (543.5h ago)
+2026-08-04 21:18:42,807 [INFO] NEW LISTING: Broadcom Tokenized bStocks (AVGOB) - $418.42846, added 2026-07-13T10:47:09.000Z (543.5h ago)
+2026-08-04 21:18:42,807 [INFO] NEW LISTING: Rocket Lab Tokenized bStocks (RKLBB) - $76.285513, added 2026-07-13T10:44:19.000Z (543.6h ago)
+2026-08-04 21:18:42,808 [INFO] NEW LISTING: IBM Tokenized bStocks (IBMB) - $234.71327, added 2026-07-13T10:40:21.000Z (543.6h ago)
+2026-08-04 21:18:42,808 [INFO] NEW LISTING: Arm Tokenized bStocks (ARMB) - $279.50653, added 2026-07-13T10:36:52.000Z (543.7h ago)
+2026-08-04 21:18:42,808 [INFO] NEW LISTING: TSMC Tokenized bStocks (TSMB) - $418.85062, added 2026-07-13T10:34:40.000Z (543.7h ago)
+2026-08-04 21:18:42,809 [INFO] NEW LISTING: BitradeX Capital (BXC) - $1.305943, added 2026-07-13T06:27:59.000Z (547.8h ago)
+2026-08-04 21:18:42,809 [INFO] NEW LISTING: Robin Hood (robinhoodfox.com) (FOX) - $0.00035460417, added 2026-07-13T06:20:23.000Z (548.0h ago)
+2026-08-04 21:18:42,810 [INFO] NEW LISTING: Free Joby (JOBY) - $0.0016154097, added 2026-07-13T06:16:37.000Z (548.0h ago)
+2026-08-04 21:18:42,810 [INFO] NEW LISTING: 88 KEY (88KEY) - $1.0590385, added 2026-07-12T04:09:02.000Z (574.2h ago)
+2026-08-04 21:18:42,811 [INFO] NEW LISTING: Codex (codexblockchain.com) (CDXR) - $0.020140033, added 2026-07-12T03:30:03.000Z (574.8h ago)
+2026-08-04 21:18:42,811 [INFO] NEW LISTING: ProjectVex (VEX) - $0.0031787231, added 2026-07-11T14:48:37.000Z (587.5h ago)
+2026-08-04 21:18:42,811 [INFO] NEW LISTING: DitGold (DITAU) - $0.0060514519, added 2026-07-11T11:45:32.000Z (590.6h ago)
+2026-08-04 21:18:42,812 [INFO] NEW LISTING: Greencoin (GEC) - $0.20026792, added 2026-07-11T11:12:02.000Z (591.1h ago)
+2026-08-04 21:18:42,812 [INFO] NEW LISTING: Nerve Protocol (NRV) - $0.00058995013, added 2026-07-11T09:35:31.000Z (592.7h ago)
+2026-08-04 21:18:42,812 [INFO] NEW LISTING: Wen Lambo (wenlamborh.com) (WEN) - $0.004071732, added 2026-07-11T01:45:02.000Z (600.6h ago)
+2026-08-04 21:18:42,812 [INFO] NEW LISTING: Rob (robthearcher.com) (ROB) - $0.00016941327, added 2026-07-10T20:12:02.000Z (606.1h ago)
+2026-08-04 21:18:42,812 [INFO] NEW LISTING: The America Only Token (TAOT) - $0.20626079, added 2026-07-09T14:36:01.000Z (635.7h ago)
+2026-08-04 21:18:42,813 [INFO] NEW LISTING: SK Hynix Tokenized bStocks (SKHYB) - $153.87118, added 2026-07-09T01:45:56.000Z (648.5h ago)
+2026-08-04 21:18:42,813 [INFO] NEW LISTING: Arrow Finance (ARROW) - $0.2889788, added 2026-07-08T20:24:01.000Z (653.9h ago)
+2026-08-04 21:18:42,813 [INFO] NEW LISTING: Cash Cat (CASHCAT) - $0.090977925, added 2026-07-08T06:25:12.000Z (667.9h ago)
+2026-08-04 21:18:42,813 [INFO] NEW LISTING: Savings USDD (SUSDD) - $1.0601345, added 2026-07-07T10:28:01.000Z (687.8h ago)
+2026-08-04 21:18:42,813 [INFO] NEW LISTING: SharonAI Holdings Inc (Derivatives) (SHAZ) - $56.828018, added 2026-07-07T03:43:10.000Z (694.6h ago)
+2026-08-04 21:18:42,814 [INFO] NEW LISTING: Grove (GROVE) - $0.010270694, added 2026-07-07T03:18:02.000Z (695.0h ago)
+2026-08-04 21:18:42,814 [INFO] NEW LISTING: Asteroid The Space Shiba Inu (asteroid.charity) (ASTEROID) - $0.0034200594, added 2026-07-06T20:03:02.000Z (702.3h ago)
+2026-08-04 21:18:42,814 [INFO] NEW LISTING: UNI TOKEN (uniccrypto.com) (UNIC) - $0.94931939, added 2026-07-06T15:30:03.000Z (706.8h ago)
+2026-08-04 21:18:42,814 [INFO] NEW LISTING: Oscar Health Inc (Derivatives) (OSCR) - $30.430548, added 2026-07-06T08:52:42.000Z (713.4h ago)
+2026-08-04 21:18:42,814 [INFO] NEW LISTING: Silicon Motion Technology Corp (Derivatives) (SIMO) - $267.64566, added 2026-07-06T08:52:42.000Z (713.4h ago)
+2026-08-04 21:18:42,815 [INFO] NEW LISTING: Applied Digital Corp (Derivatives) (APLD) - $31.353546, added 2026-07-06T08:52:42.000Z (713.4h ago)
+2026-08-04 21:18:42,815 [INFO] NEW LISTING: TCryptochicks (TCC) - $0.0011653579, added 2026-07-06T08:44:48.000Z (713.6h ago)
+2026-08-04 21:18:42,815 [INFO] NEW LISTING: Grand Theft Auto VI (gtavieth.com) (GTAVI) - $6.2654532e-11, added 2026-07-06T06:18:02.000Z (716.0h ago)
+2026-08-04 21:18:42,815 [INFO] NEW LISTING: Roundhill Memory ETF Tokenized bStocks (DRAMB) - $54.168607, added 2026-07-06T06:10:11.000Z (716.1h ago)
+2026-08-04 21:18:42,816 [INFO] NEW LISTING: Nebius Tokenized bStocks (NBISB) - $224.89735, added 2026-07-06T06:10:10.000Z (716.1h ago)
+2026-08-04 21:18:42,816 [INFO] NEW LISTING: Western Digital Tokenized bStocks (WDCB) - $550.84063, added 2026-07-06T06:10:09.000Z (716.1h ago)
+2026-08-04 21:18:42,816 [INFO] NEW LISTING: Corning Tokenized bStocks (GLWB) - $160.16107, added 2026-07-06T06:10:08.000Z (716.1h ago)
+2026-08-04 21:18:42,816 [INFO] NEW LISTING: Semicon Bull 3X ETF Tokenized bStocks (SOXLB) - $138.78271, added 2026-07-06T06:10:07.000Z (716.1h ago)
+2026-08-04 21:18:42,817 [INFO] NEW LISTING: Alphabet Tokenized bStocks (GOOGLB) - $379.3449, added 2026-07-06T06:10:06.000Z (716.1h ago)
+2026-08-04 21:18:42,817 [INFO] NEW LISTING: Qualcomm Tokenized bStocks (QCOMB) - $162.78764, added 2026-07-06T06:10:05.000Z (716.1h ago)
+2026-08-04 21:18:42,817 [INFO] NEW LISTING: Cerebras Tokenized bStocks (CBRSB) - $222.96668, added 2026-07-06T06:10:04.000Z (716.1h ago)
+2026-08-04 21:18:42,817 [INFO] NEW LISTING: State Street SPDR S&P 500 ETF Tokenized bStocks (SPYB) - $773.05738, added 2026-07-06T06:10:03.000Z (716.1h ago)
+2026-08-04 21:18:42,818 [INFO] NEW LISTING: Coinbase Tokenized bStocks (COINB) - $151.74996, added 2026-07-06T06:10:00.000Z (716.1h ago)
+2026-08-04 21:18:42,818 [INFO] NEW LISTING: Kamirai (KAMIRAI) - $9.7673341e-06, added 2026-07-04T19:09:01.000Z (751.2h ago)
+2026-08-04 21:18:42,818 [INFO] NEW LISTING: Mermaid Treasure Hunt Token (mthttoken.com) (MTHT) - $0.50698967, added 2026-07-04T05:42:02.000Z (764.6h ago)
+2026-08-04 21:18:42,819 [INFO] NEW LISTING: SK hynix tokenized stock (xStock) (SKHYx) - $154.00604, added 2026-07-04T03:32:51.000Z (766.8h ago)
+2026-08-04 21:18:42,819 [INFO] NEW LISTING: ALOMOLA (USGNAA) - $1.0071834, added 2026-07-02T13:00:01.000Z (805.3h ago)
+2026-08-04 21:18:42,820 [INFO] NEW LISTING: Caterpillar, Inc. Common Stock (Derivatives) (CAT) - $881.46339, added 2026-07-02T12:21:40.000Z (806.0h ago)
+2026-08-04 21:18:42,820 [INFO] NEW LISTING: Texas Instruments Incorporated Common Stock (Derivatives) (TXN) - $284.95338, added 2026-07-02T12:14:55.000Z (806.1h ago)
+2026-08-04 21:18:42,820 [INFO] NEW LISTING: Flex Ltd. Ordinary Shares (Derivatives) (FLEX) - $127.12784, added 2026-07-02T12:05:46.000Z (806.2h ago)
+2026-08-04 21:18:42,821 [INFO] NEW LISTING: Teradyne, Inc. Common Stock (Derivatives) (TER) - $407.88542, added 2026-07-02T11:57:43.000Z (806.3h ago)
+2026-08-04 21:18:42,821 [INFO] NEW LISTING: Take-Two Interactive Software, Inc. Common Stock (Derivatives) (TTWO) - $242.024, added 2026-07-02T11:50:39.000Z (806.5h ago)
+2026-08-04 21:18:42,821 [INFO] NEW LISTING: KraneShares SSE STAR Market 50 Index ETF (Derivatives) (KSTR) - $23.720622, added 2026-07-02T11:41:48.000Z (806.6h ago)
+2026-08-04 21:18:42,821 [INFO] NEW LISTING: Bending Spoons SpA (Derivatives) (BSP) - $37.449109, added 2026-07-02T11:35:11.000Z (806.7h ago)
+2026-08-04 21:18:42,822 [INFO] NEW LISTING: Roundhill T-REX 2X Long DRAM Daily Target ETF (Derivatives) (RAM) - $11.994668, added 2026-07-02T08:56:13.000Z (809.4h ago)
+2026-08-04 21:18:42,826 [INFO] Detection pass: 200 new coin(s) inserted
+2026-08-04 21:18:43,018 [INFO] Tracking pass: 49 snapshot(s) recorded for 49 active coin(s)
+2026-08-04 21:18:43,018 [INFO] === Run finished ===
+2026-08-04 21:45:02,887 [INFO] === Run started 2026-08-05T02:45:02.884750+00:00 ===
+2026-08-04 21:45:03,362 [INFO] Fetched 200 listings sorted by date_added
+2026-08-04 21:45:03,367 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-04 21:45:03,717 [INFO] Tracking pass: 48 snapshot(s) recorded for 48 active coin(s)
+2026-08-04 21:45:03,717 [INFO] === Run finished ===
+2026-08-05 20:15:17,526 [INFO] === Run started 2026-08-06T01:15:17.479256+00:00 ===
+2026-08-05 20:15:18,319 [INFO] Fetched 200 listings sorted by date_added
+2026-08-05 20:15:18,327 [INFO] NEW LISTING: Vektes (VEK) - $0.013469302, added 2026-08-05T11:06:58.000Z (14.1h ago)
+2026-08-05 20:15:18,330 [INFO] NEW LISTING: Astera Labs Tokenized bStocks (ALABB) - $314.55868, added 2026-08-04T17:15:53.000Z (32.0h ago)
+2026-08-05 20:15:18,330 [INFO] NEW LISTING: USA Rare Earth Tokenized bStocks (USARB) - $17.239736, added 2026-08-04T17:13:40.000Z (32.0h ago)
+2026-08-05 20:15:18,331 [INFO] NEW LISTING: Coherent Tokenized bStocks (COHRB) - $319.0065, added 2026-08-04T17:11:01.000Z (32.1h ago)
+2026-08-05 20:15:18,331 [INFO] NEW LISTING: Credo Technology Tokenized bStocks (CRDOB) - $221.1156, added 2026-08-04T17:08:51.000Z (32.1h ago)
+2026-08-05 20:15:18,331 [INFO] NEW LISTING: BitMine Immersion Technologies Tokenized bStocks (BMNRB) - $18.331642, added 2026-08-04T17:07:09.000Z (32.1h ago)
+2026-08-05 20:15:18,331 [INFO] NEW LISTING: AST SpaceMobile Tokenized bStocks (ASTSB) - $67.940741, added 2026-08-04T17:04:12.000Z (32.2h ago)
+2026-08-05 20:15:18,331 [INFO] NEW LISTING: Yushu Technology Co (Derivatives) (UNITREE) - $71.022634, added 2026-08-04T12:30:46.000Z (36.7h ago)
+2026-08-05 20:15:18,332 [INFO] NEW LISTING: Innodata Tokenized Stock (Robinhood) (INOD) - $69.351379, added 2026-08-04T07:31:45.000Z (41.7h ago)
+2026-08-05 20:15:18,332 [INFO] NEW LISTING: Super Micro Computer Tokenized bStocks (SMCIB) - $30.16969, added 2026-08-04T04:02:06.000Z (45.2h ago)
+2026-08-05 20:15:18,332 [INFO] NEW LISTING: Netflix Tokenized bStocks (NFLXB) - $74.576346, added 2026-08-04T03:57:39.000Z (45.3h ago)
+2026-08-05 20:15:18,332 [INFO] NEW LISTING: IREN Limited Tokenized bStocks (IRENB) - $38.476799, added 2026-08-04T03:53:41.000Z (45.4h ago)
+2026-08-05 20:15:18,332 [INFO] NEW LISTING: ASML Tokenized bStocks (ASMLB) - $1678.0575, added 2026-08-04T03:48:05.000Z (45.5h ago)
+2026-08-05 20:15:18,335 [INFO] Detection pass: 13 new coin(s) inserted
+2026-08-05 20:15:18,497 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-05 20:15:18,497 [INFO] === Run finished ===
+2026-08-09 12:00:02,515 [INFO] === Run started 2026-08-09T17:00:02.511790+00:00 ===
+2026-08-09 12:00:02,968 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 12:00:02,983 [INFO] NEW LISTING: PONSY (PONSY) - $9.6067802e-05, added 2026-08-09T04:36:01.000Z (12.4h ago)
+2026-08-09 12:00:02,986 [INFO] NEW LISTING: Wojak (wojak.art) (WOJAK) - $0.0021933801, added 2026-08-07T09:53:24.000Z (55.1h ago)
+2026-08-09 12:00:02,986 [INFO] NEW LISTING: MowCat (MOW) - $0.020191679, added 2026-08-07T09:25:48.000Z (55.6h ago)
+2026-08-09 12:00:02,986 [INFO] NEW LISTING: Roundhill Photonics & Optics ETF (Derivatives) (LYTE) - $27.634992, added 2026-08-07T04:40:06.000Z (60.3h ago)
+2026-08-09 12:00:02,987 [INFO] NEW LISTING: Roundhill Neocloud ETF (Derivatives) (NCLD) - $23.423311, added 2026-08-07T04:35:49.000Z (60.4h ago)
+2026-08-09 12:00:02,987 [INFO] NEW LISTING: Coca-Cola Co (Derivatives) (KO) - $87.140508, added 2026-08-07T02:14:25.000Z (62.8h ago)
+2026-08-09 12:00:02,987 [INFO] NEW LISTING: MEXC Staked SOL (MXSOL) - $83.053612, added 2026-08-06T12:07:23.000Z (76.9h ago)
+2026-08-09 12:00:02,987 [INFO] NEW LISTING: StonkBroker (STONKBROKER) - $0.027918669, added 2026-08-06T08:44:03.000Z (80.3h ago)
+2026-08-09 12:00:02,987 [INFO] NEW LISTING: Rigetti Computing Tokenized Stock (Robinhood) (RGTI) - $18.785838, added 2026-08-04T07:31:59.000Z (129.5h ago)
+2026-08-09 12:00:02,987 [INFO] NEW LISTING: Celsius Tokenized Stock (Robinhood) (CELH) - $26.855431, added 2026-08-04T07:31:57.000Z (129.5h ago)
+2026-08-09 12:00:02,988 [INFO] NEW LISTING: Marvell Technology Tokenized Stock (Robinhood) (MRVL) - $220.62714, added 2026-08-04T07:31:40.000Z (129.5h ago)
+2026-08-09 12:00:02,988 [INFO] NEW LISTING: D-Wave Quantum Tokenized Stock (Robinhood) (QBTS) - $20.447583, added 2026-08-04T07:31:36.000Z (129.5h ago)
+2026-08-09 12:00:02,988 [INFO] NEW LISTING: Rocket Lab Corporation Tokenized Stock (Robinhood) (RKLB) - $79.95777, added 2026-08-04T07:31:27.000Z (129.5h ago)
+2026-08-09 12:00:02,994 [INFO] Detection pass: 13 new coin(s) inserted
+2026-08-09 12:00:03,235 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 12:00:03,235 [INFO] === Run finished ===
+2026-08-09 12:15:01,976 [INFO] === Run started 2026-08-09T17:15:01.972482+00:00 ===
+2026-08-09 12:15:02,407 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 12:15:02,413 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 12:15:02,630 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 12:15:02,631 [INFO] === Run finished ===
+2026-08-09 12:30:02,449 [INFO] === Run started 2026-08-09T17:30:02.448958+00:00 ===
+2026-08-09 12:30:03,195 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 12:30:03,199 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 12:30:03,899 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 12:30:03,899 [INFO] === Run finished ===
+2026-08-09 12:45:01,760 [INFO] === Run started 2026-08-09T17:45:01.760086+00:00 ===
+2026-08-09 12:45:02,255 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 12:45:02,259 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 12:45:02,520 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 12:45:02,521 [INFO] === Run finished ===
+2026-08-09 13:00:01,745 [INFO] === Run started 2026-08-09T18:00:01.744517+00:00 ===
+2026-08-09 13:00:02,385 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 13:00:02,389 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 13:00:02,755 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 13:00:02,756 [INFO] === Run finished ===
+2026-08-09 13:15:02,369 [INFO] === Run started 2026-08-09T18:15:02.366706+00:00 ===
+2026-08-09 13:15:02,814 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 13:15:02,818 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 13:15:03,028 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 13:15:03,028 [INFO] === Run finished ===
+2026-08-09 13:30:01,943 [INFO] === Run started 2026-08-09T18:30:01.943137+00:00 ===
+2026-08-09 13:30:03,270 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 13:30:03,273 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 13:30:03,443 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 13:30:03,443 [INFO] === Run finished ===
+2026-08-09 13:45:01,692 [INFO] === Run started 2026-08-09T18:45:01.691711+00:00 ===
+2026-08-09 13:45:02,046 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 13:45:02,050 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 13:45:02,256 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 13:45:02,257 [INFO] === Run finished ===
+2026-08-09 14:00:05,617 [INFO] === Run started 2026-08-09T19:00:05.617289+00:00 ===
+2026-08-09 14:00:06,217 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 14:00:06,220 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 14:00:06,393 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 14:00:06,393 [INFO] === Run finished ===
+2026-08-09 15:45:25,906 [INFO] === Run started 2026-08-09T20:45:25.902447+00:00 ===
+2026-08-09 15:45:26,237 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 15:45:26,241 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 15:45:26,370 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 15:45:26,370 [INFO] === Run finished ===
+2026-08-09 16:00:02,414 [INFO] === Run started 2026-08-09T21:00:02.410479+00:00 ===
+2026-08-09 16:00:03,166 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 16:00:03,170 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 16:00:03,305 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 16:00:03,306 [INFO] === Run finished ===
+2026-08-09 16:15:02,318 [INFO] === Run started 2026-08-09T21:15:02.317245+00:00 ===
+2026-08-09 16:15:02,661 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 16:15:02,665 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 16:15:02,782 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 16:15:02,783 [INFO] === Run finished ===
+2026-08-09 19:00:02,351 [INFO] === Run started 2026-08-10T00:00:02.348744+00:00 ===
+2026-08-09 19:00:04,207 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 19:00:04,214 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 19:00:04,391 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 19:00:04,392 [INFO] === Run finished ===
+2026-08-09 19:15:01,942 [INFO] === Run started 2026-08-10T00:15:01.939400+00:00 ===
+2026-08-09 19:15:02,229 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 19:15:02,233 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 19:15:02,354 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 19:15:02,355 [INFO] === Run finished ===
+2026-08-09 20:15:07,872 [INFO] === Run started 2026-08-10T01:15:07.864478+00:00 ===
+2026-08-09 20:15:08,223 [INFO] Fetched 200 listings sorted by date_added
+2026-08-09 20:15:08,227 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-09 20:15:08,427 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-09 20:15:08,427 [INFO] === Run finished ===
