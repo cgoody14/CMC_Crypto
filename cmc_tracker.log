@@ -203,3 +203,10 @@
 2026-08-10 03:45:56,379 [INFO] Detection pass: 200 new coin(s) inserted
 2026-08-10 03:45:56,529 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-08-10 03:45:56,529 [INFO] === Run finished ===
+2026-08-10 05:18:44,094 [INFO] === Run started 2026-08-10T05:18:44.094887+00:00 ===
+2026-08-10 05:18:44,295 [INFO] Fetched 200 listings sorted by date_added
+2026-08-10 05:18:44,296 [INFO] NEW LISTING: Cat Life (CATLIFE) - $0.0064500045, mcap $n/a, platform Ethereum, contract 0x7106F4572CBD0d159B1d613419E0dddAb4a54B00, added 2024-08-07T05:19:13.000Z (17592.0h ago)
+2026-08-10 05:18:44,296 [INFO] NEW LISTING: SAIZ (SAIZ) - $1.1191586, mcap $n/a, platform own chain, contract n/a, added 2026-08-08T02:42:01.000Z (50.6h ago)
+2026-08-10 05:18:44,298 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-10 05:18:44,390 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-10 05:18:44,390 [INFO] === Run finished ===
