@@ -317,3 +317,9 @@
 2026-08-11 03:10:32,850 [INFO] Detection pass: 4 new coin(s) inserted
 2026-08-11 03:10:32,927 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-08-11 03:10:32,927 [INFO] === Run finished ===
+2026-08-11 04:38:21,997 [INFO] === Run started 2026-08-11T04:38:21.997889+00:00 ===
+2026-08-11 04:38:22,276 [INFO] Fetched 200 listings sorted by date_added
+2026-08-11 04:38:22,277 [INFO] NEW LISTING: Emerald Security Token (EMRL.D) - $2.218027, mcap $n/a, platform Polygon, contract 0xB91025710Adbc140a9fEe4b3E465545a2bF53E20, added 2026-08-11T04:18:28.000Z (0.3h ago)
+2026-08-11 04:38:22,281 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-11 04:38:22,425 [INFO] Tracking pass: 6 snapshot(s) recorded for 7 active coin(s)
+2026-08-11 04:38:22,425 [INFO] === Run finished ===
