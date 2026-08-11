@@ -380,3 +380,15 @@
 2026-08-11 15:53:13,333 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-11 15:53:13,527 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-08-11 15:53:13,527 [INFO] === Run finished ===
+2026-08-11 16:50:37,720 [INFO] === Run started 2026-08-11T16:50:37.720771+00:00 ===
+2026-08-11 16:50:37,916 [INFO] Fetched 200 listings sorted by date_added
+2026-08-11 16:50:37,917 [INFO] NEW LISTING: Wrapped Micron Technology Tokenized Stock (xStock) (wMUx) - $856.4572, mcap $n/a, platform X Layer, contract 0xe2047ee3bdDb5C99ae428AB83df63f8730698e30, added 2026-08-11T16:25:58.000Z (0.4h ago)
+2026-08-11 16:50:37,917 [INFO] NEW LISTING: Wrapped SpaceX Tokenized ETF (xStock) (wSPCXx) - $132.26761, mcap $n/a, platform X Layer, contract 0x8e2eeD8b8B5E13Ea7BF38e50d7821d2C57309072, added 2026-08-11T16:25:40.000Z (0.4h ago)
+2026-08-11 16:50:37,918 [INFO] NEW LISTING: Wrapped SP500 Tokenized ETF (xStock) (wSPYx) - $777.98455, mcap $n/a, platform X Layer, contract 0xE7E553Cd128F0011777323A0b44a7b96EA1CB540, added 2026-08-11T16:24:43.000Z (0.4h ago)
+2026-08-11 16:50:37,918 [INFO] NEW LISTING: Wrapped SK hynix Tokenized Stock (xStock) (wSKHYx) - $139.82163, mcap $n/a, platform X Layer, contract 0x6215a58ed045d71F2561AaAbe54f4C885C522998, added 2026-08-11T16:24:42.000Z (0.4h ago)
+2026-08-11 16:50:37,918 [INFO] NEW LISTING: Wrapped Sandisk Corporation Tokenized Stock (xStock) (wSNDKx) - $1273.7831, mcap $n/a, platform X Layer, contract 0x75e82E2884Ea10f72FCA777449B73377f4646219, added 2026-08-11T16:24:24.000Z (0.4h ago)
+2026-08-11 16:50:37,918 [INFO] NEW LISTING: Wrapped iShares MSCI South Korea Tokenized ETF (xStock) (wEWYx) - $167.85591, mcap $n/a, platform X Layer, contract 0x021b40617982074748C81a19d22046CC2548C3bE, added 2026-08-11T16:23:15.000Z (0.5h ago)
+2026-08-11 16:50:37,918 [INFO] NEW LISTING: Wrapped Circle Tokenized Stock (xStock) (wCRCLx) - $70.991412, mcap $n/a, platform X Layer, contract 0xb11134F14d5B94DB60d4599DfdC3bF1bbA2150e8, added 2026-08-11T16:22:02.000Z (0.5h ago)
+2026-08-11 16:50:37,920 [INFO] Detection pass: 7 new coin(s) inserted
+2026-08-11 16:50:38,051 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-08-11 16:50:38,051 [INFO] === Run finished ===
