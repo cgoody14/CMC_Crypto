@@ -392,3 +392,11 @@
 2026-08-11 16:50:37,920 [INFO] Detection pass: 7 new coin(s) inserted
 2026-08-11 16:50:38,051 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-08-11 16:50:38,051 [INFO] === Run finished ===
+2026-08-11 17:51:53,896 [INFO] === Run started 2026-08-11T17:51:53.896317+00:00 ===
+2026-08-11 17:51:54,057 [INFO] Fetched 200 listings sorted by date_added
+2026-08-11 17:51:54,059 [INFO] NEW LISTING: Wrapped Nasdaq Tokenized ETF (xStock) (wQQQx) - $719.86829, mcap $n/a, platform X Layer, contract 0x4C1AE29c159838fC1b224636E28E086EB69101f7, added 2026-08-11T16:24:40.000Z (1.5h ago)
+2026-08-11 17:51:54,059 [INFO] NEW LISTING: Wrapped ASML Tokenized Stock (xStock) (wASMLx) - $1789.8162, mcap $n/a, platform X Layer, contract 0x9147b03c16B18FC4F686f610f189f91Ddf4347b4, added 2026-08-11T16:20:59.000Z (1.5h ago)
+2026-08-11 17:51:54,059 [INFO] NEW LISTING: Wrapped AMD Tokenized Stock (xStock) (wAMDx) - $469.21085, mcap $n/a, platform X Layer, contract 0xEe7CcB0d37A12862e7f92F6C92a93d9c2d304266, added 2026-08-11T16:20:22.000Z (1.5h ago)
+2026-08-11 17:51:54,061 [INFO] Detection pass: 3 new coin(s) inserted
+2026-08-11 17:51:54,117 [INFO] Tracking pass: 19 snapshot(s) recorded for 19 active coin(s)
+2026-08-11 17:51:54,117 [INFO] === Run finished ===
