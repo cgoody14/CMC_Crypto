@@ -354,3 +354,9 @@
 2026-08-11 10:43:22,624 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-11 10:43:22,756 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-08-11 10:43:22,756 [INFO] === Run finished ===
+2026-08-11 11:31:17,789 [INFO] === Run started 2026-08-11T11:31:17.788993+00:00 ===
+2026-08-11 11:31:18,003 [INFO] Fetched 200 listings sorted by date_added
+2026-08-11 11:31:18,004 [INFO] NEW LISTING: Kepto (kepto.xyz) (KEP) - $0.00093431117, mcap $n/a, platform Robinhood Chain, contract 0x5CD3dA2892B4AD15f110D6ee3a8f635Cc0ABBb19, added 2026-08-11T10:56:26.000Z (0.6h ago)
+2026-08-11 11:31:18,006 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-11 11:31:18,184 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-08-11 11:31:18,184 [INFO] === Run finished ===
