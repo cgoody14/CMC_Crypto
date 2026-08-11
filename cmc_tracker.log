@@ -308,3 +308,12 @@
 2026-08-11 01:06:46,373 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-11 01:06:46,561 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-11 01:06:46,561 [INFO] === Run finished ===
+2026-08-11 03:10:32,581 [INFO] === Run started 2026-08-11T03:10:32.581315+00:00 ===
+2026-08-11 03:10:32,845 [INFO] Fetched 200 listings sorted by date_added
+2026-08-11 03:10:32,846 [INFO] NEW LISTING: CSOP Samsung Daily Max (2x) (Derivatives) (CSOPSAMSUNG2L) - $8.4413716, mcap $n/a, platform own chain, contract n/a, added 2026-08-11T02:33:48.000Z (0.6h ago)
+2026-08-11 03:10:32,846 [INFO] NEW LISTING: CSOP SK Hynix Daily Max (2x) Leveraged Product (Derivatives) (CSOPSKHYNIX2L) - $3.5763444, mcap $n/a, platform own chain, contract n/a, added 2026-08-11T02:29:19.000Z (0.7h ago)
+2026-08-11 03:10:32,846 [INFO] NEW LISTING: Meituan (Derivatives) (MEITUAN) - $12.007726, mcap $n/a, platform own chain, contract n/a, added 2026-08-11T02:23:04.000Z (0.8h ago)
+2026-08-11 03:10:32,846 [INFO] NEW LISTING: Kuaishou Technology (Derivatives) (KUAISHOU) - $5.5443329, mcap $n/a, platform own chain, contract n/a, added 2026-08-11T02:18:50.000Z (0.9h ago)
+2026-08-11 03:10:32,850 [INFO] Detection pass: 4 new coin(s) inserted
+2026-08-11 03:10:32,927 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-11 03:10:32,927 [INFO] === Run finished ===
