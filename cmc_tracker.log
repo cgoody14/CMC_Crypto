@@ -501,3 +501,9 @@
 2026-08-12 15:53:06,026 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-12 15:53:06,190 [INFO] Tracking pass: 23 snapshot(s) recorded for 23 active coin(s)
 2026-08-12 15:53:06,190 [INFO] === Run finished ===
+2026-08-12 16:49:24,704 [INFO] === Run started 2026-08-12T16:49:24.704124+00:00 ===
+2026-08-12 16:49:24,969 [INFO] Fetched 200 listings sorted by date_added
+2026-08-12 16:49:24,971 [INFO] NEW LISTING: SHIBCAT (shibcatrh.com) (SHIBCAT) - $0.0002306344, mcap $n/a, platform Robinhood Chain, contract 0xac0F333bBEBB62B6d16322650641Bd5eF2B849e5, added 2026-08-12T16:27:03.000Z (0.4h ago)
+2026-08-12 16:49:24,974 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-12 16:49:25,121 [INFO] Tracking pass: 24 snapshot(s) recorded for 24 active coin(s)
+2026-08-12 16:49:25,121 [INFO] === Run finished ===
