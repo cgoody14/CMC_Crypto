@@ -485,3 +485,9 @@
 2026-08-12 12:11:52,762 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-12 12:11:52,893 [INFO] Tracking pass: 22 snapshot(s) recorded for 22 active coin(s)
 2026-08-12 12:11:52,893 [INFO] === Run finished ===
+2026-08-12 13:45:57,821 [INFO] === Run started 2026-08-12T13:45:57.820987+00:00 ===
+2026-08-12 13:45:57,994 [INFO] Fetched 200 listings sorted by date_added
+2026-08-12 13:45:57,995 [INFO] NEW LISTING: Wrapped Russell 2000 Tokenized ETF (xStock) (wIWMx) - $301.97913, mcap $n/a, platform X Layer, contract 0x25d218F19B706C8680Aa26Fb64e676CF84B58f65, added 2026-08-11T16:23:34.000Z (21.4h ago)
+2026-08-12 13:45:57,997 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-12 13:45:58,181 [INFO] Tracking pass: 23 snapshot(s) recorded for 23 active coin(s)
+2026-08-12 13:45:58,181 [INFO] === Run finished ===
