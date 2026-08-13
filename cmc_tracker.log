@@ -636,3 +636,9 @@
 2026-08-13 20:33:14,404 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-13 20:33:14,585 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-13 20:33:14,585 [INFO] === Run finished ===
+2026-08-13 21:27:35,927 [INFO] === Run started 2026-08-13T21:27:35.927595+00:00 ===
+2026-08-13 21:27:36,169 [INFO] Fetched 200 listings sorted by date_added
+2026-08-13 21:27:36,170 [INFO] NEW LISTING: InoAi (INO) - $0.00011815831, mcap $n/a, platform Cronos, contract 0x025f1575908d85815198390B2e5366FE754F8207, added 2026-08-13T20:51:30.000Z (0.6h ago)
+2026-08-13 21:27:36,175 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-13 21:27:36,254 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-08-13 21:27:36,254 [INFO] === Run finished ===
