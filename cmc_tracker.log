@@ -565,3 +565,9 @@
 2026-08-13 05:22:09,267 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-13 05:22:09,348 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
 2026-08-13 05:22:09,348 [INFO] === Run finished ===
+2026-08-13 06:54:50,319 [INFO] === Run started 2026-08-13T06:54:50.319729+00:00 ===
+2026-08-13 06:54:50,506 [INFO] Fetched 200 listings sorted by date_added
+2026-08-13 06:54:50,507 [INFO] NEW LISTING: SpaceXcoin (SPACEXCOIN) - $0.00045712388, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xf225e70162837A811C77Dc2bB413A5C06E97FfFf, added 2026-08-13T06:09:03.000Z (0.8h ago)
+2026-08-13 06:54:50,509 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-13 06:54:50,645 [INFO] Tracking pass: 22 snapshot(s) recorded for 22 active coin(s)
+2026-08-13 06:54:50,645 [INFO] === Run finished ===
