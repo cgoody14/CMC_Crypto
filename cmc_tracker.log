@@ -616,3 +616,8 @@
 2026-08-13 16:47:35,486 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-13 16:47:35,585 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-13 16:47:35,585 [INFO] === Run finished ===
+2026-08-13 17:52:09,764 [INFO] === Run started 2026-08-13T17:52:09.764447+00:00 ===
+2026-08-13 17:52:10,216 [INFO] Fetched 200 listings sorted by date_added
+2026-08-13 17:52:10,217 [INFO] Detection pass: 0 new coin(s) inserted
+2026-08-13 17:52:10,425 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-13 17:52:10,426 [INFO] === Run finished ===
