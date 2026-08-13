@@ -554,3 +554,9 @@
 2026-08-13 01:16:41,142 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-13 01:16:41,225 [INFO] Tracking pass: 26 snapshot(s) recorded for 26 active coin(s)
 2026-08-13 01:16:41,225 [INFO] === Run finished ===
+2026-08-13 03:36:57,369 [INFO] === Run started 2026-08-13T03:36:57.369885+00:00 ===
+2026-08-13 03:36:57,722 [INFO] Fetched 200 listings sorted by date_added
+2026-08-13 03:36:57,723 [INFO] NEW LISTING: Bobo (bobothebear) (BOBO) - $0.0084197446, mcap $n/a, platform Solana, contract 4nV5gNwwP68zUDat26ySChREqVaQaLudfJBkSgEzpump, added 2026-08-13T02:35:40.000Z (1.0h ago)
+2026-08-13 03:36:57,725 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-13 03:36:57,918 [INFO] Tracking pass: 23 snapshot(s) recorded for 23 active coin(s)
+2026-08-13 03:36:57,918 [INFO] === Run finished ===
