@@ -722,3 +722,9 @@
 2026-08-14 14:37:38,232 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-14 14:37:38,310 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-08-14 14:37:38,310 [INFO] === Run finished ===
+2026-08-14 15:29:09,661 [INFO] === Run started 2026-08-14T15:29:09.661047+00:00 ===
+2026-08-14 15:29:09,955 [INFO] Fetched 200 listings sorted by date_added
+2026-08-14 15:29:09,956 [INFO] NEW LISTING: SODAX (sodax.com) (SODA) - $0.01821, mcap $n/a, platform Sonic, contract 0x7c7d53eecda37a87ce0d5bf8e0b24512a48dc963, added 2026-08-13T09:51:01.000Z (29.6h ago)
+2026-08-14 15:29:09,958 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-14 15:29:10,110 [INFO] Tracking pass: 11 snapshot(s) recorded for 11 active coin(s)
+2026-08-14 15:29:10,110 [INFO] === Run finished ===
