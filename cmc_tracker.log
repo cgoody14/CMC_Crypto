@@ -683,3 +683,9 @@
 2026-08-14 06:51:45,034 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-14 06:51:45,158 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-08-14 06:51:45,158 [INFO] === Run finished ===
+2026-08-14 08:08:09,168 [INFO] === Run started 2026-08-14T08:08:09.168805+00:00 ===
+2026-08-14 08:08:09,332 [INFO] Fetched 200 listings sorted by date_added
+2026-08-14 08:08:09,333 [INFO] NEW LISTING: ARKIE (ARKIE) - $5.6268866, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x6cd3025F851F36e74937D4e652f6AE9D4b2E88cF, added 2026-08-14T06:09:01.000Z (2.0h ago)
+2026-08-14 08:08:09,335 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-14 08:08:09,441 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-14 08:08:09,441 [INFO] === Run finished ===
