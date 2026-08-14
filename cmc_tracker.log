@@ -699,3 +699,10 @@
 2026-08-14 10:31:19,976 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-14 10:31:20,119 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-08-14 10:31:20,119 [INFO] === Run finished ===
+2026-08-14 11:26:01,195 [INFO] === Run started 2026-08-14T11:26:01.195529+00:00 ===
+2026-08-14 11:26:01,466 [INFO] Fetched 200 listings sorted by date_added
+2026-08-14 11:26:01,467 [INFO] NEW LISTING: WSB (wsbcoin.meme) (WSB) - $0.00045695911, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xbcc1daae214ebc347d3a06703ddcd19fba9bffff, added 2026-08-14T10:56:19.000Z (0.5h ago)
+2026-08-14 11:26:01,467 [INFO] NEW LISTING: Tesla - Tokenized on Base (TSLA) - $1.4161078e-05, mcap $n/a, platform Base, contract 0x4409d3392019bae6b914a5d92fbff46fa2aca368, added 2026-08-14T09:38:16.000Z (1.8h ago)
+2026-08-14 11:26:01,472 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-14 11:26:01,616 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-08-14 11:26:01,616 [INFO] === Run finished ===
