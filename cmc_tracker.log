@@ -758,3 +758,9 @@
 2026-08-14 20:28:09,099 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-14 20:28:09,236 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-08-14 20:28:09,236 [INFO] === Run finished ===
+2026-08-14 20:56:09,657 [INFO] === Run started 2026-08-14T20:56:09.656973+00:00 ===
+2026-08-14 20:56:09,996 [INFO] Fetched 200 listings sorted by date_added
+2026-08-14 20:56:09,998 [INFO] NEW LISTING: Exxon Mobil Tokenized Stock (Robinhood) (XOM) - $159.82031, mcap $4,226, platform Robinhood Chain, contract 0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5, added 2026-08-04T07:31:47.000Z (253.4h ago)
+2026-08-14 20:56:10,000 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-14 20:56:10,197 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-08-14 20:56:10,197 [INFO] === Run finished ===
