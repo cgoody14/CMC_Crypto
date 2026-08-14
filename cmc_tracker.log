@@ -711,3 +711,9 @@
 2026-08-14 12:05:53,075 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-14 12:05:53,203 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-08-14 12:05:53,203 [INFO] === Run finished ===
+2026-08-14 13:39:20,173 [INFO] === Run started 2026-08-14T13:39:20.173909+00:00 ===
+2026-08-14 13:39:20,389 [INFO] Fetched 200 listings sorted by date_added
+2026-08-14 13:39:20,390 [INFO] NEW LISTING: KiiChain (KII) - $0.09195575, mcap $28,731,574, platform own chain, contract n/a, added 2026-08-12T23:41:42.000Z (38.0h ago)
+2026-08-14 13:39:20,393 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-14 13:39:20,525 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-08-14 13:39:20,525 [INFO] === Run finished ===
