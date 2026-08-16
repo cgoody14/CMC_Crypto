@@ -1164,3 +1164,9 @@
 2026-08-16 13:07:49,605 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-16 13:07:49,605 [INFO] No coins currently inside their 48h tracking window
 2026-08-16 13:07:49,605 [INFO] === Run finished ===
+2026-08-16 13:43:26,169 [INFO] === Run started 2026-08-16T13:43:26.169305+00:00 ===
+2026-08-16 13:43:26,504 [INFO] Fetched 200 listings sorted by date_added
+2026-08-16 13:43:26,505 [INFO] NEW LISTING: 牛来 (niulai.site) (牛来) - $6.5430452e-05, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x708b9a23807edaf3deb232e98898a5b46754ffff, added 2026-08-16T13:04:41.000Z (0.6h ago)
+2026-08-16 13:43:26,508 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-16 13:43:26,697 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-08-16 13:43:26,697 [INFO] === Run finished ===
