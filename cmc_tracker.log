@@ -1201,3 +1201,9 @@
 2026-08-16 15:58:05,266 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-16 15:58:05,363 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-16 15:58:05,363 [INFO] === Run finished ===
+2026-08-16 16:24:44,394 [INFO] === Run started 2026-08-16T16:24:44.394166+00:00 ===
+2026-08-16 16:24:44,693 [INFO] Fetched 200 listings sorted by date_added
+2026-08-16 16:24:44,694 [INFO] NEW LISTING: X100 (Xchain.city) (X) - $1.0913548, mcap $n/a, platform Ethereum, contract 0x100acD9FcD8E0FF80A6595B66fdABe93184Aa100, added 2026-08-16T16:13:19.000Z (0.2h ago)
+2026-08-16 16:24:44,696 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-16 16:24:44,770 [INFO] Tracking pass: 2 snapshot(s) recorded for 3 active coin(s)
+2026-08-16 16:24:44,770 [INFO] === Run finished ===
