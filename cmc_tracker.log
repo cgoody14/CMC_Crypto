@@ -1180,3 +1180,9 @@
 2026-08-16 14:36:06,323 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-16 14:36:06,459 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-08-16 14:36:06,459 [INFO] === Run finished ===
+2026-08-16 14:57:47,811 [INFO] === Run started 2026-08-16T14:57:47.811109+00:00 ===
+2026-08-16 14:57:47,984 [INFO] Fetched 200 listings sorted by date_added
+2026-08-16 14:57:47,985 [INFO] NEW LISTING: 牛来 (Niu Lai) (牛来) - $0.012956771, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xbeea1d618e533a387d941f58a7d4c9b7bd377777, added 2026-08-16T14:47:23.000Z (0.2h ago)
+2026-08-16 14:57:47,988 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-16 14:57:48,068 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-08-16 14:57:48,068 [INFO] === Run finished ===
