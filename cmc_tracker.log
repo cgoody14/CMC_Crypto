@@ -1442,3 +1442,9 @@
 2026-08-17 17:19:25,222 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-17 17:19:25,300 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-08-17 17:19:25,300 [INFO] === Run finished ===
+2026-08-17 17:53:08,479 [INFO] === Run started 2026-08-17T17:53:08.479238+00:00 ===
+2026-08-17 17:53:08,819 [INFO] Fetched 200 listings sorted by date_added
+2026-08-17 17:53:08,820 [INFO] NEW LISTING: Ouster Inc (Derivatives) (OUST) - $49.03443, mcap $n/a, platform own chain, contract n/a, added 2026-08-17T17:17:38.000Z (0.6h ago)
+2026-08-17 17:53:08,822 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-17 17:53:08,945 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-08-17 17:53:08,945 [INFO] === Run finished ===
