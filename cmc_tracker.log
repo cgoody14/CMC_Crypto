@@ -1394,3 +1394,10 @@
 2026-08-17 12:27:16,714 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-17 12:27:16,894 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-17 12:27:16,894 [INFO] === Run finished ===
+2026-08-17 13:20:38,790 [INFO] === Run started 2026-08-17T13:20:38.790135+00:00 ===
+2026-08-17 13:20:39,049 [INFO] Fetched 200 listings sorted by date_added
+2026-08-17 13:20:39,050 [INFO] NEW LISTING: The Toad Pepe (TOAD) - $0.0053013303, mcap $n/a, platform Solana, contract A13oRB9FFaiUjfi6LdCg6p9ka1u8SfGkUFs4SKvPpump, added 2026-08-17T12:48:41.000Z (0.5h ago)
+2026-08-17 13:20:39,050 [INFO] NEW LISTING: Dominion Silver (SILV) - $65.11466, mcap $n/a, platform Solana, contract SiLVFMgD3eD2rgK628NbTBq9MnuJF5FW2CRaVyTB35L, added 2026-08-17T12:47:32.000Z (0.6h ago)
+2026-08-17 13:20:39,053 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-17 13:20:39,200 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-17 13:20:39,200 [INFO] === Run finished ===
