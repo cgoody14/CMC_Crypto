@@ -1353,3 +1353,9 @@
 2026-08-17 07:14:01,595 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-17 07:14:01,721 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-17 07:14:01,722 [INFO] === Run finished ===
+2026-08-17 08:00:58,831 [INFO] === Run started 2026-08-17T08:00:58.831903+00:00 ===
+2026-08-17 08:00:59,130 [INFO] Fetched 200 listings sorted by date_added
+2026-08-17 08:00:59,131 [INFO] NEW LISTING: stockmemes (stockmemesonbsc) (STOCKMEMES) - $4.3464405e-05, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x923398cc7d149d69b9356c1866b8d3e9d5cfffff, added 2026-08-17T07:11:14.000Z (0.8h ago)
+2026-08-17 08:00:59,134 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-17 08:00:59,190 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-17 08:00:59,191 [INFO] === Run finished ===
