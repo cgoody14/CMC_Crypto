@@ -1332,3 +1332,9 @@
 2026-08-17 04:10:34,701 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-17 04:10:34,890 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-17 04:10:34,890 [INFO] === Run finished ===
+2026-08-17 04:56:12,541 [INFO] === Run started 2026-08-17T04:56:12.541545+00:00 ===
+2026-08-17 04:56:12,797 [INFO] Fetched 200 listings sorted by date_added
+2026-08-17 04:56:12,798 [INFO] NEW LISTING: Saturn (saturn.credit) (USDAT) - $0.99993052, mcap $n/a, platform Ethereum, contract 0x23238f20b894f29041f48D88eE91131C395Aaa71, added 2026-08-17T04:23:55.000Z (0.5h ago)
+2026-08-17 04:56:12,800 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-17 04:56:12,908 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-17 04:56:12,908 [INFO] === Run finished ===
