@@ -1538,3 +1538,9 @@
 2026-08-18 05:21:34,184 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-18 05:21:34,375 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-08-18 05:21:34,376 [INFO] === Run finished ===
+2026-08-18 05:52:53,842 [INFO] === Run started 2026-08-18T05:52:53.842345+00:00 ===
+2026-08-18 05:52:54,154 [INFO] Fetched 200 listings sorted by date_added
+2026-08-18 05:52:54,155 [INFO] NEW LISTING: Z500 (Z500) - $0.001179746, mcap $n/a, platform Solana, contract 7fDdLy2rmQKsPCkqUXEd1mN7yDfEzArc4VrctWmfkJBK, added 2026-08-18T05:18:57.000Z (0.6h ago)
+2026-08-18 05:52:54,158 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-18 05:52:54,213 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-08-18 05:52:54,213 [INFO] === Run finished ===
