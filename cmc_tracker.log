@@ -2026,3 +2026,9 @@
 2026-08-20 14:27:40,313 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-20 14:27:40,427 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-08-20 14:27:40,427 [INFO] === Run finished ===
+2026-08-20 15:05:04,279 [INFO] === Run started 2026-08-20T15:05:04.279451+00:00 ===
+2026-08-20 15:05:04,452 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 15:05:04,453 [INFO] NEW LISTING: Aligned (ALIGN) - $0.034598139, mcap $n/a, platform Ethereum, contract 0x50614CC8e44F7814549c223aA31db9296e58057c, added 2026-08-14T22:04:34.000Z (137.0h ago)
+2026-08-20 15:05:04,455 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-20 15:05:04,544 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-20 15:05:04,544 [INFO] === Run finished ===
