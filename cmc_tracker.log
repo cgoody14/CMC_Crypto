@@ -1965,3 +1965,9 @@
 2026-08-20 07:26:07,146 [INFO] Detection pass: 2 new coin(s) inserted
 2026-08-20 07:26:07,341 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-20 07:26:07,342 [INFO] === Run finished ===
+2026-08-20 08:04:25,497 [INFO] === Run started 2026-08-20T08:04:25.497523+00:00 ===
+2026-08-20 08:04:25,719 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 08:04:25,721 [INFO] NEW LISTING: Moderna Inc (Derivatives) (MRNA) - $161.68253, mcap $n/a, platform own chain, contract n/a, added 2026-08-20T07:34:45.000Z (0.5h ago)
+2026-08-20 08:04:25,723 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-20 08:04:25,795 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-20 08:04:25,795 [INFO] === Run finished ===
