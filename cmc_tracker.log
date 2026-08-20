@@ -1998,3 +1998,9 @@
 2026-08-20 11:02:33,230 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-20 11:02:33,291 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-20 11:02:33,291 [INFO] === Run finished ===
+2026-08-20 11:39:58,168 [INFO] === Run started 2026-08-20T11:39:58.168471+00:00 ===
+2026-08-20 11:39:58,510 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 11:39:58,511 [INFO] NEW LISTING: DogBull (DOGO) - $0.089896462, mcap $n/a, platform Robinhood Chain, contract 0x77b0aa38451ccdc1b42587e2f80b9879a7f82356, added 2026-08-20T11:15:03.000Z (0.4h ago)
+2026-08-20 11:39:58,513 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-20 11:39:58,716 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-08-20 11:39:58,716 [INFO] === Run finished ===
