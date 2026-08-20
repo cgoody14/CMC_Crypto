@@ -2037,3 +2037,9 @@
 2026-08-20 15:47:31,388 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-20 15:47:31,525 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-08-20 15:47:31,525 [INFO] === Run finished ===
+2026-08-20 16:24:51,597 [INFO] === Run started 2026-08-20T16:24:51.597134+00:00 ===
+2026-08-20 16:24:51,889 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 16:24:51,891 [INFO] NEW LISTING: MetaForge (MFORGE) - $0.02227072, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x8437100ed18dbea089e0fa3caaae7f6f40e4a05c, added 2026-08-19T20:21:03.000Z (20.1h ago)
+2026-08-20 16:24:51,893 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-20 16:24:52,060 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-08-20 16:24:52,060 [INFO] === Run finished ===
