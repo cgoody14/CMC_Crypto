@@ -1971,3 +1971,9 @@
 2026-08-20 08:04:25,723 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-20 08:04:25,795 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-20 08:04:25,795 [INFO] === Run finished ===
+2026-08-20 08:54:39,827 [INFO] === Run started 2026-08-20T08:54:39.827878+00:00 ===
+2026-08-20 08:54:39,998 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 08:54:39,999 [INFO] NEW LISTING: Wrapped Pop Mart International Tokenized Stock (xStock) (wPOPMTx) - $19.310437, mcap $n/a, platform X Layer, contract 0x4Ebf5Fd25B02022AfaD96E2fA25dA54A246FDEd0, added 2026-08-11T16:26:07.000Z (208.5h ago)
+2026-08-20 08:54:40,001 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-20 08:54:40,150 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-20 08:54:40,150 [INFO] === Run finished ===
