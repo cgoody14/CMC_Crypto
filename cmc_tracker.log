@@ -1958,3 +1958,10 @@
 2026-08-20 06:31:37,112 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-20 06:31:37,238 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-20 06:31:37,238 [INFO] === Run finished ===
+2026-08-20 07:26:06,802 [INFO] === Run started 2026-08-20T07:26:06.802078+00:00 ===
+2026-08-20 07:26:07,142 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 07:26:07,144 [INFO] NEW LISTING: Hanmi Semiconductor Co Ltd (Derivatives) (HANMI) - $161.90129, mcap $n/a, platform own chain, contract n/a, added 2026-03-11T05:21:41.000Z (3890.1h ago)
+2026-08-20 07:26:07,144 [INFO] NEW LISTING: Wrapped Xiaomi Tokenized Stock (xStock) (wXIAOx) - $3.5890845, mcap $n/a, platform X Layer, contract 0x076CF393E701839FC7a5832D2c68AaFA235682AE, added 2026-08-11T16:27:09.000Z (207.0h ago)
+2026-08-20 07:26:07,146 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-20 07:26:07,341 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-08-20 07:26:07,342 [INFO] === Run finished ===
