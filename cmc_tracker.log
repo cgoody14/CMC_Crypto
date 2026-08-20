@@ -1952,3 +1952,9 @@
 2026-08-20 05:54:10,318 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-20 05:54:10,383 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-20 05:54:10,383 [INFO] === Run finished ===
+2026-08-20 06:31:36,851 [INFO] === Run started 2026-08-20T06:31:36.851193+00:00 ===
+2026-08-20 06:31:37,109 [INFO] Fetched 200 listings sorted by date_added
+2026-08-20 06:31:37,110 [INFO] NEW LISTING: Good In The Hood (goodcoin.io) (GOOD) - $0.0022705008, mcap $n/a, platform Robinhood Chain, contract 0x5f62c57e5c537887117eef828b7e3ad41c009feb, added 2026-08-20T06:09:01.000Z (0.4h ago)
+2026-08-20 06:31:37,112 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-20 06:31:37,238 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-08-20 06:31:37,238 [INFO] === Run finished ===
