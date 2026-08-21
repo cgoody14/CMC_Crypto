@@ -2175,3 +2175,9 @@
 2026-08-21 09:31:16,402 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-21 09:31:16,629 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-08-21 09:31:16,629 [INFO] === Run finished ===
+2026-08-21 10:05:11,738 [INFO] === Run started 2026-08-21T10:05:11.738215+00:00 ===
+2026-08-21 10:05:14,401 [INFO] Fetched 200 listings sorted by date_added
+2026-08-21 10:05:14,402 [INFO] NEW LISTING: Chump Coin (CHUMP) - $0.0032465447, mcap $n/a, platform Robinhood Chain, contract 0x0E0d2C89a5a019FE1cF762e5e33187631DACC21B, added 2026-08-21T09:27:06.000Z (0.6h ago)
+2026-08-21 10:05:14,546 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-21 10:05:14,672 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-08-21 10:05:14,672 [INFO] === Run finished ===
