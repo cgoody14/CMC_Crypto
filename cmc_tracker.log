@@ -2159,3 +2159,9 @@
 2026-08-21 07:27:36,590 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-21 07:27:36,886 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-08-21 07:27:36,887 [INFO] === Run finished ===
+2026-08-21 08:05:18,301 [INFO] === Run started 2026-08-21T08:05:18.301110+00:00 ===
+2026-08-21 08:05:18,483 [INFO] Fetched 200 listings sorted by date_added
+2026-08-21 08:05:18,484 [INFO] NEW LISTING: The Interfold (FOLD) - $4695.1334, mcap $n/a, platform own chain, contract n/a, added 2026-08-21T06:20:09.000Z (1.8h ago)
+2026-08-21 08:05:18,486 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-21 08:05:18,622 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-08-21 08:05:18,622 [INFO] === Run finished ===
