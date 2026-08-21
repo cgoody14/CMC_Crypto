@@ -2123,3 +2123,9 @@
 2026-08-21 02:19:32,886 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-21 02:19:33,097 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-08-21 02:19:33,097 [INFO] === Run finished ===
+2026-08-21 03:28:31,685 [INFO] === Run started 2026-08-21T03:28:31.685663+00:00 ===
+2026-08-21 03:28:31,936 [INFO] Fetched 200 listings sorted by date_added
+2026-08-21 03:28:31,937 [INFO] NEW LISTING: PEPECOIN (pepecoin.bar) (PEPE) - $4.8468635e-08, mcap $n/a, platform Ethereum, contract 0x0d5acafe08c9be86266c92ebb7c159b8c530169b, added 2026-08-21T02:51:06.000Z (0.6h ago)
+2026-08-21 03:28:31,939 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-21 03:28:32,067 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-21 03:28:32,067 [INFO] === Run finished ===
