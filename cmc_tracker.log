@@ -2281,3 +2281,9 @@
 2026-08-21 22:15:17,473 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-21 22:15:17,583 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-08-21 22:15:17,583 [INFO] === Run finished ===
+2026-08-21 22:48:14,098 [INFO] === Run started 2026-08-21T22:48:14.098131+00:00 ===
+2026-08-21 22:48:14,274 [INFO] Fetched 200 listings sorted by date_added
+2026-08-21 22:48:14,275 [INFO] NEW LISTING: Basecat (BASECAT) - $0.028871232, mcap $n/a, platform Base, contract 0xb2000000000000000000004c27f6523082f41d01, added 2026-08-21T22:31:38.000Z (0.3h ago)
+2026-08-21 22:48:14,278 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-21 22:48:14,419 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-08-21 22:48:14,419 [INFO] === Run finished ===
