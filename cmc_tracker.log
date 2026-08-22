@@ -2437,3 +2437,9 @@
 2026-08-22 15:34:52,394 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-22 15:34:52,604 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-22 15:34:52,605 [INFO] === Run finished ===
+2026-08-22 15:55:24,574 [INFO] === Run started 2026-08-22T15:55:24.574271+00:00 ===
+2026-08-22 15:55:24,793 [INFO] Fetched 200 listings sorted by date_added
+2026-08-22 15:55:24,794 [INFO] NEW LISTING: DebtReliefBot (DRB) - $0.00014959189, mcap $n/a, platform Base, contract 0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2, added 2026-08-22T15:41:38.000Z (0.2h ago)
+2026-08-22 15:55:24,796 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-22 15:55:24,952 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-22 15:55:24,952 [INFO] === Run finished ===
