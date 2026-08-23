@@ -2753,3 +2753,9 @@
 2026-08-23 21:36:54,117 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-23 21:36:54,269 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-23 21:36:54,269 [INFO] === Run finished ===
+2026-08-23 21:55:44,147 [INFO] === Run started 2026-08-23T21:55:44.147914+00:00 ===
+2026-08-23 21:55:44,448 [INFO] Fetched 200 listings sorted by date_added
+2026-08-23 21:55:44,449 [INFO] NEW LISTING: CyberLeek (CYBERLEEK) - $0.022690669, mcap $16,563,914, platform Solana, contract ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg, added 2026-08-23T21:20:57.000Z (0.6h ago)
+2026-08-23 21:55:44,451 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-23 21:55:44,607 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-08-23 21:55:44,608 [INFO] === Run finished ===
