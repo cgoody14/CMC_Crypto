@@ -2892,3 +2892,9 @@
 2026-08-24 15:08:15,616 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 15:08:15,710 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-24 15:08:15,710 [INFO] === Run finished ===
+2026-08-24 15:53:31,760 [INFO] === Run started 2026-08-24T15:53:31.760906+00:00 ===
+2026-08-24 15:53:32,098 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 15:53:32,099 [INFO] NEW LISTING: Wrapped Rocket Lab Tokenized Stock (xStock) (wRKLBx) - $69.573435, mcap $n/a, platform X Layer, contract 0x5AA45CF9d8c8555c9a76cf0207519501C227a235, added 2026-08-11T16:24:21.000Z (311.5h ago)
+2026-08-24 15:53:32,101 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 15:53:32,262 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-24 15:53:32,262 [INFO] === Run finished ===
