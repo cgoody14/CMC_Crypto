@@ -2834,3 +2834,9 @@
 2026-08-24 08:26:55,568 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-24 08:26:55,634 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-24 08:26:55,635 [INFO] === Run finished ===
+2026-08-24 09:12:47,413 [INFO] === Run started 2026-08-24T09:12:47.413133+00:00 ===
+2026-08-24 09:12:47,674 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 09:12:47,676 [INFO] NEW LISTING: Wrapped CoreWeave Tokenized Stock (xStock) (wCRWVx) - $85.647722, mcap $n/a, platform X Layer, contract 0xADf63a79C9813a8E0C4D1d334eBdFaEef04BDF98, added 2026-08-11T16:21:55.000Z (304.8h ago)
+2026-08-24 09:12:47,678 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 09:12:47,787 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-08-24 09:12:47,787 [INFO] === Run finished ===
