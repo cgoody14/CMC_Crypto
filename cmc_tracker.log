@@ -2878,3 +2878,11 @@
 2026-08-24 13:35:17,951 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 13:35:18,085 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-24 13:35:18,085 [INFO] === Run finished ===
+2026-08-24 14:24:24,974 [INFO] === Run started 2026-08-24T14:24:24.974798+00:00 ===
+2026-08-24 14:24:25,296 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 14:24:25,296 [INFO] NEW LISTING: Capx AI (CAPX) - $0.20304565, mcap $n/a, platform own chain, contract n/a, added 2026-08-24T14:07:08.000Z (0.3h ago)
+2026-08-24 14:24:25,297 [INFO] NEW LISTING: Wrapped Nebius Tokenized Stock (xStock) (wNBISx) - $203.35248, mcap $n/a, platform X Layer, contract 0x43A7B7acfaE969b0682E56142B52E63E07D59b7d, added 2026-08-11T16:24:17.000Z (310.0h ago)
+2026-08-24 14:24:25,297 [INFO] NEW LISTING: Wrapped Bitmine Tokenized Stock (xStock) (wBMNRx) - $23.768291, mcap $n/a, platform X Layer, contract 0xdaD5623B32C81AeAa75478fcfe934e9e97018c58, added 2026-08-11T16:20:28.000Z (310.1h ago)
+2026-08-24 14:24:25,301 [INFO] Detection pass: 3 new coin(s) inserted
+2026-08-24 14:24:25,487 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-24 14:24:25,487 [INFO] === Run finished ===
