@@ -2866,3 +2866,9 @@
 2026-08-24 11:51:11,257 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-24 11:51:11,334 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-24 11:51:11,334 [INFO] === Run finished ===
+2026-08-24 12:32:12,100 [INFO] === Run started 2026-08-24T12:32:12.100398+00:00 ===
+2026-08-24 12:32:12,361 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 12:32:12,362 [INFO] NEW LISTING: Wrapped Intercontinental Exchange Tokenized Stock (xStock) (wICEx) - $163.00358, mcap $n/a, platform X Layer, contract 0xbDff6dD4CEc5eEaFf1E21D65863431E79755eA13, added 2026-08-11T16:23:58.000Z (308.1h ago)
+2026-08-24 12:32:12,366 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 12:32:12,489 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-08-24 12:32:12,489 [INFO] === Run finished ===
