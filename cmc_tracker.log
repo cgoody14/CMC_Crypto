@@ -2853,3 +2853,11 @@
 2026-08-24 10:51:44,244 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 10:51:44,466 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-24 10:51:44,466 [INFO] === Run finished ===
+2026-08-24 11:19:49,060 [INFO] === Run started 2026-08-24T11:19:49.060718+00:00 ===
+2026-08-24 11:19:49,346 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 11:19:49,348 [INFO] NEW LISTING: Wrapped Super Micro Computer, Inc. Tokenized Stock (xStock) (wSMCIx) - $36.76007, mcap $n/a, platform X Layer, contract 0xd89556E08FDC04E5A2d9344Eb06568a043001166, added 2026-08-11T16:24:33.000Z (306.9h ago)
+2026-08-24 11:19:49,348 [INFO] NEW LISTING: Wrapped Mixue Tokenized Stock (xStock) (wMIXUx) - $33.474365, mcap $n/a, platform X Layer, contract 0x1Bac76a12d8EccA6dBF4B0A146Da8870d50F04c9, added 2026-08-11T16:22:19.000Z (307.0h ago)
+2026-08-24 11:19:49,348 [INFO] NEW LISTING: Wrapped IREN Tokenized Stock (xStock) (wIRENx) - $41.113718, mcap $n/a, platform X Layer, contract 0xb3a16DB475A9cb321fc8956aA2cB01385a022E75, added 2026-08-11T16:22:17.000Z (307.0h ago)
+2026-08-24 11:19:49,350 [INFO] Detection pass: 3 new coin(s) inserted
+2026-08-24 11:19:49,440 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-08-24 11:19:49,440 [INFO] === Run finished ===
