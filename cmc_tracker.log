@@ -2927,3 +2927,9 @@
 2026-08-24 18:59:41,096 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 18:59:41,308 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-24 18:59:41,308 [INFO] === Run finished ===
+2026-08-24 19:33:15,377 [INFO] === Run started 2026-08-24T19:33:15.377474+00:00 ===
+2026-08-24 19:33:15,694 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 19:33:15,695 [INFO] NEW LISTING: Wrapped Kuaishou Technology Tokenized Stock (xStock) (wKUAIx) - $5.3194506, mcap $n/a, platform X Layer, contract 0x096369B9b197bCbF669a3bC827Aa119d80d891E4, added 2026-08-11T16:23:47.000Z (315.2h ago)
+2026-08-24 19:33:15,698 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 19:33:16,085 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-24 19:33:16,085 [INFO] === Run finished ===
