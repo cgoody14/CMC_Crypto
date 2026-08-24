@@ -2886,3 +2886,9 @@
 2026-08-24 14:24:25,301 [INFO] Detection pass: 3 new coin(s) inserted
 2026-08-24 14:24:25,487 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-24 14:24:25,487 [INFO] === Run finished ===
+2026-08-24 15:08:15,329 [INFO] === Run started 2026-08-24T15:08:15.329511+00:00 ===
+2026-08-24 15:08:15,613 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 15:08:15,614 [INFO] NEW LISTING: Binance Cat (binance-cat.com) (BNBCAT) - $0.0045840686, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x3EFBfFf95576e1d23cF6Ead0AcD2E73F4d6A7777, added 2026-08-24T14:43:25.000Z (0.4h ago)
+2026-08-24 15:08:15,616 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 15:08:15,710 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-24 15:08:15,710 [INFO] === Run finished ===
