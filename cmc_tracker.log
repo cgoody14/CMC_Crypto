@@ -2921,3 +2921,9 @@
 2026-08-24 18:13:38,450 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-24 18:13:38,538 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-24 18:13:38,538 [INFO] === Run finished ===
+2026-08-24 18:59:40,592 [INFO] === Run started 2026-08-24T18:59:40.592082+00:00 ===
+2026-08-24 18:59:41,093 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 18:59:41,094 [INFO] NEW LISTING: ZIP CAT (ZIPCAT) - $2.0575105e-06, mcap $n/a, platform Ethereum, contract 0x4C5FC2EFd7F9fBA2c6a9227aBd9d1C3eeFd6bDD7, added 2026-08-24T17:57:01.000Z (1.0h ago)
+2026-08-24 18:59:41,096 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 18:59:41,308 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-24 18:59:41,308 [INFO] === Run finished ===
