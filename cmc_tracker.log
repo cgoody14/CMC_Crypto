@@ -2840,3 +2840,10 @@
 2026-08-24 09:12:47,678 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 09:12:47,787 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-24 09:12:47,787 [INFO] === Run finished ===
+2026-08-24 10:03:49,289 [INFO] === Run started 2026-08-24T10:03:49.289133+00:00 ===
+2026-08-24 10:03:49,552 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 10:03:49,553 [INFO] NEW LISTING: Wrapped Reddit Tokenized Stock (xStock) (wRDDTx) - $156.14234, mcap $n/a, platform X Layer, contract 0x9ED51B856159c7CF26c1ecE673aBD248F21Bcc9E, added 2026-08-11T16:25:21.000Z (305.6h ago)
+2026-08-24 10:03:49,553 [INFO] NEW LISTING: Wrapped Nike Tokenized Stock (xStock) (wNKEx) - $40.944915, mcap $n/a, platform X Layer, contract 0x8Cdd7983f4b0A0e8694f22479fec092D9244F4bb, added 2026-08-11T16:25:16.000Z (305.6h ago)
+2026-08-24 10:03:49,555 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-24 10:03:49,620 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-08-24 10:03:49,620 [INFO] === Run finished ===
