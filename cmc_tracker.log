@@ -2872,3 +2872,9 @@
 2026-08-24 12:32:12,366 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 12:32:12,489 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-24 12:32:12,489 [INFO] === Run finished ===
+2026-08-24 13:35:17,686 [INFO] === Run started 2026-08-24T13:35:17.686089+00:00 ===
+2026-08-24 13:35:17,947 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 13:35:17,948 [INFO] NEW LISTING: DGrid AI (DGAI) - $0.38085736, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x10D4183389e99233db3cc981c43443Ebd28Ebd5e, added 2026-08-24T12:57:01.000Z (0.6h ago)
+2026-08-24 13:35:17,951 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 13:35:18,085 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-08-24 13:35:18,085 [INFO] === Run finished ===
