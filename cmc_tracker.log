@@ -2898,3 +2898,9 @@
 2026-08-24 15:53:32,101 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-24 15:53:32,262 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-24 15:53:32,262 [INFO] === Run finished ===
+2026-08-24 16:26:36,092 [INFO] === Run started 2026-08-24T16:26:36.092317+00:00 ===
+2026-08-24 16:26:36,293 [INFO] Fetched 200 listings sorted by date_added
+2026-08-24 16:26:36,294 [INFO] NEW LISTING: Wrapped Tencent Tokenized Stock (xStock) (wTCENTx) - $72.70588, mcap $n/a, platform X Layer, contract 0x41333Df9E7639188BBfca5522dC4844398Af9f9E, added 2026-08-11T16:24:56.000Z (312.0h ago)
+2026-08-24 16:26:36,296 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-24 16:26:36,371 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-24 16:26:36,372 [INFO] === Run finished ===
