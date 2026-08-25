@@ -3069,3 +3069,9 @@
 2026-08-25 13:33:12,737 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-25 13:33:12,852 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-08-25 13:33:12,852 [INFO] === Run finished ===
+2026-08-25 14:26:41,611 [INFO] === Run started 2026-08-25T14:26:41.611369+00:00 ===
+2026-08-25 14:26:41,889 [INFO] Fetched 200 listings sorted by date_added
+2026-08-25 14:26:41,890 [INFO] NEW LISTING: Ethereum Cat (ethereumcat.living) (ECAT) - $3.0754038e-08, mcap $n/a, platform Ethereum, contract 0x22A866848D506D2B5B7d067dBCc9Be17bf4f11d1, added 2026-08-25T14:01:34.000Z (0.4h ago)
+2026-08-25 14:26:42,077 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-25 14:26:42,302 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-25 14:26:42,302 [INFO] === Run finished ===
