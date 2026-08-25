@@ -2993,3 +2993,9 @@
 2026-08-25 03:30:06,680 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-25 03:30:06,842 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-25 03:30:06,842 [INFO] === Run finished ===
+2026-08-25 04:10:07,795 [INFO] === Run started 2026-08-25T04:10:07.795160+00:00 ===
+2026-08-25 04:10:08,057 [INFO] Fetched 200 listings sorted by date_added
+2026-08-25 04:10:08,058 [INFO] NEW LISTING: ETH CAT (ethcat.site) (ETHCAT) - $3.2126903e-11, mcap $n/a, platform Ethereum, contract 0x085fcD0C957c8ab580802349ddf832537Ea1753B, added 2026-08-25T03:22:32.000Z (0.8h ago)
+2026-08-25 04:10:08,061 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-25 04:10:08,203 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-08-25 04:10:08,203 [INFO] === Run finished ===
