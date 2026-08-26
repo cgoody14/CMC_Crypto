@@ -3260,3 +3260,9 @@
 2026-08-26 18:23:54,579 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-26 18:23:54,652 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-08-26 18:23:54,653 [INFO] === Run finished ===
+2026-08-26 20:25:02,306 [INFO] === Run started 2026-08-26T20:25:02.306043+00:00 ===
+2026-08-26 20:25:02,581 [INFO] Fetched 200 listings sorted by date_added
+2026-08-26 20:25:02,582 [INFO] NEW LISTING: Gibi Swap (GIBI) - $1.1560236, mcap $n/a, platform Ethereum, contract 0xb6CD7fee2daA8a2E7e4c0E194468AF0F08be527D, added 2026-08-26T12:54:03.000Z (7.5h ago)
+2026-08-26 20:25:02,584 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-26 20:25:02,716 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-08-26 20:25:02,716 [INFO] === Run finished ===
