@@ -3218,3 +3218,10 @@
 2026-08-26 09:55:13,289 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-26 09:55:13,430 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-08-26 09:55:13,430 [INFO] === Run finished ===
+2026-08-26 10:26:54,160 [INFO] === Run started 2026-08-26T10:26:54.160582+00:00 ===
+2026-08-26 10:26:54,454 [INFO] Fetched 200 listings sorted by date_added
+2026-08-26 10:26:54,455 [INFO] NEW LISTING: Trump Media & Technology Group Tokenized bStocks (DJTB) - $14.936959, mcap $996,498, platform BNB Smart Chain (BEP20), contract 0xF2ec508422174Ee564de98187db9359D318AFB6b, added 2026-08-25T01:59:31.000Z (32.5h ago)
+2026-08-26 10:26:54,455 [INFO] NEW LISTING: Teller (DEBIT) - $1.2439624, mcap $21,421,033, platform BNB Smart Chain (BEP20), contract 0x66661c7229901f568f16bd1551b3ba826f83ce49, added 2026-08-24T09:34:29.000Z (48.9h ago)
+2026-08-26 10:26:54,457 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-26 10:26:54,628 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-08-26 10:26:54,628 [INFO] === Run finished ===
