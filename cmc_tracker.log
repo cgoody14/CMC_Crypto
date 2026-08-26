@@ -3207,3 +3207,9 @@
 2026-08-26 08:22:44,778 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-26 08:22:45,011 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-08-26 08:22:45,011 [INFO] === Run finished ===
+2026-08-26 09:09:11,911 [INFO] === Run started 2026-08-26T09:09:11.911092+00:00 ===
+2026-08-26 09:09:12,208 [INFO] Fetched 200 listings sorted by date_added
+2026-08-26 09:09:12,209 [INFO] NEW LISTING: Pistacio (PISTACIO) - $0.010600131, mcap $n/a, platform Solana, contract FZqdw6oSDCbHtKYxmhnfbi97SnyVy8jaYpdCoMrrjKa2, added 2026-08-26T08:40:28.000Z (0.5h ago)
+2026-08-26 09:09:12,211 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-26 09:09:12,404 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-08-26 09:09:12,404 [INFO] === Run finished ===
