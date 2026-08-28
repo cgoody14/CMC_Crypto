@@ -3281,3 +3281,9 @@
 2026-08-27 17:43:52,945 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-27 17:43:53,118 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-27 17:43:53,119 [INFO] === Run finished ===
+2026-08-28 01:46:34,259 [INFO] === Run started 2026-08-28T01:46:34.259630+00:00 ===
+2026-08-28 01:46:34,524 [INFO] Fetched 200 listings sorted by date_added
+2026-08-28 01:46:34,525 [INFO] NEW LISTING: GTA6CAT (thegta6cat.com) (GATO) - $0.0015664135, mcap $n/a, platform Solana, contract HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump, added 2026-08-27T21:15:04.000Z (4.5h ago)
+2026-08-28 01:46:34,528 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-28 01:46:34,649 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-08-28 01:46:34,649 [INFO] === Run finished ===
