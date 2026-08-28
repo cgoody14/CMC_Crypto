@@ -3298,3 +3298,9 @@
 2026-08-28 13:37:25,998 [INFO] Detection pass: 6 new coin(s) inserted
 2026-08-28 13:37:26,182 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-28 13:37:26,182 [INFO] === Run finished ===
+2026-08-28 23:12:10,828 [INFO] === Run started 2026-08-28T23:12:10.828440+00:00 ===
+2026-08-28 23:12:11,246 [INFO] Fetched 200 listings sorted by date_added
+2026-08-28 23:12:11,247 [INFO] NEW LISTING: SoFi Technologies Tokenized Stock (Robinhood) (SOFI) - $18.561391, mcap $14,020, platform Robinhood Chain, contract 0x98E75885157C80992A8D41b696D8c9C6Fb30A926, added 2026-08-04T07:31:41.000Z (591.7h ago)
+2026-08-28 23:12:11,249 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-28 23:12:11,406 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-28 23:12:11,406 [INFO] === Run finished ===
