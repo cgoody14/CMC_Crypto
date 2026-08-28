@@ -3287,3 +3287,14 @@
 2026-08-28 01:46:34,528 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-28 01:46:34,649 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-08-28 01:46:34,649 [INFO] === Run finished ===
+2026-08-28 13:37:25,607 [INFO] === Run started 2026-08-28T13:37:25.607333+00:00 ===
+2026-08-28 13:37:25,994 [INFO] Fetched 200 listings sorted by date_added
+2026-08-28 13:37:25,995 [INFO] NEW LISTING: RT-Pool.cc Token V2 (RTPLV2) - $0.0071437087, mcap $n/a, platform Solana, contract EFuksA43CLhwjPERsMxB1Mg33kg9QuhumiZQ7ihBEGca, added 2026-08-28T08:36:03.000Z (5.0h ago)
+2026-08-28 13:37:25,995 [INFO] NEW LISTING: [Fake] FOMO (fomo.giving) (FOMO) - $0.0002080015, mcap $n/a, platform Base, contract 0x51f23b2f6bd81b9cb2ee7190d196446fcafce18b, added 2026-08-28T05:06:58.000Z (8.5h ago)
+2026-08-28 13:37:25,995 [INFO] NEW LISTING: BINANCE CAT (bnbcat.site) (BNBCAT) - $1.0317435e-08, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x8D345658a86B5Bd145d5b522B80939ef8c8AaE10, added 2026-08-28T03:58:20.000Z (9.7h ago)
+2026-08-28 13:37:25,995 [INFO] NEW LISTING: apeonfone (FONE) - $0.028064875, mcap $n/a, platform Solana, contract CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump, added 2026-08-28T02:18:02.000Z (11.3h ago)
+2026-08-28 13:37:25,995 [INFO] NEW LISTING: GraniteShares 2x Long NVDA Daily ETF (Derivatives) (NVDL) - $36.770233, mcap $n/a, platform own chain, contract n/a, added 2026-08-11T02:18:50.000Z (419.3h ago)
+2026-08-28 13:37:25,995 [INFO] NEW LISTING: Direxion Daily TSLA Bull 2X ETF (Derivatives) (TSLL) - $9.442014, mcap $n/a, platform own chain, contract n/a, added 2026-08-11T02:18:50.000Z (419.3h ago)
+2026-08-28 13:37:25,998 [INFO] Detection pass: 6 new coin(s) inserted
+2026-08-28 13:37:26,182 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-28 13:37:26,182 [INFO] === Run finished ===
