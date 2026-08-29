@@ -3319,3 +3319,10 @@
 2026-08-29 15:37:00,472 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-29 15:37:00,645 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-29 15:37:00,645 [INFO] === Run finished ===
+2026-08-29 18:51:05,381 [INFO] === Run started 2026-08-29T18:51:05.381343+00:00 ===
+2026-08-29 18:51:05,672 [INFO] Fetched 200 listings sorted by date_added
+2026-08-29 18:51:05,674 [INFO] NEW LISTING: [fake] Trump Digital Gold (GOLD) - $0.00044124551, mcap $n/a, platform Solana, contract EMWtbpHaNqMbjUMZguuazhuZUVLWG3z4C5oZnGJPSqxS, added 2026-08-29T17:08:52.000Z (1.7h ago)
+2026-08-29 18:51:05,674 [INFO] NEW LISTING: Everpure Tokenized Stock (Robinhood) (P) - $352.83354, mcap $6,768, platform Robinhood Chain, contract 0x1Cdad396DB64BDa184d5182A97Dd9B3C62100b7D, added 2026-08-04T07:31:45.000Z (611.3h ago)
+2026-08-29 18:51:05,679 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-29 18:51:05,921 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-08-29 18:51:05,921 [INFO] === Run finished ===
