@@ -3379,3 +3379,12 @@
 2026-08-31 06:12:10,648 [INFO] Detection pass: 2 new coin(s) inserted
 2026-08-31 06:12:10,721 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-08-31 06:12:10,721 [INFO] === Run finished ===
+2026-08-31 13:48:27,578 [INFO] === Run started 2026-08-31T13:48:27.578406+00:00 ===
+2026-08-31 13:48:27,854 [INFO] Fetched 200 listings sorted by date_added
+2026-08-31 13:48:27,855 [INFO] NEW LISTING: Stable Mint United States Dollar (USDSM) - $1.00025, mcap $n/a, platform Etherlink, contract 0x6bDE51212203aE5d592Cc5180DA2ABBd41c922dE, added 2026-08-31T10:15:05.000Z (3.6h ago)
+2026-08-31 13:48:27,855 [INFO] NEW LISTING: SpaceX Tokenized Stock (Robinhood) (SPCX) - $142.10371, mcap $n/a, platform Robinhood Chain, contract 0x31Dd173a1A0C6b8dA69Bddcc85A4c0A2ce6b3a47, added 2026-08-31T09:40:11.000Z (4.1h ago)
+2026-08-31 13:48:27,855 [INFO] NEW LISTING: Qualcomm Tokenized Stock (Robinhood) (QCOM) - $164.98245, mcap $5,186, platform Robinhood Chain, contract 0x0f17206447090e464C277571124dD2688E48AEA9, added 2026-08-04T07:31:51.000Z (654.3h ago)
+2026-08-31 13:48:27,855 [INFO] NEW LISTING: USA Rare Earth Tokenized Stock (Robinhood) (USAR) - $17.739832, mcap $441,457, platform Robinhood Chain, contract 0xd917B029C761D264c6A312BBbcDA868658eF86a6, added 2026-08-04T07:31:46.000Z (654.3h ago)
+2026-08-31 13:48:27,857 [INFO] Detection pass: 4 new coin(s) inserted
+2026-08-31 13:48:27,982 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-31 13:48:27,982 [INFO] === Run finished ===
