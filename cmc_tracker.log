@@ -3372,3 +3372,10 @@
 2026-08-31 00:41:53,730 [INFO] Detection pass: 1 new coin(s) inserted
 2026-08-31 00:41:53,867 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-08-31 00:41:53,868 [INFO] === Run finished ===
+2026-08-31 06:12:10,460 [INFO] === Run started 2026-08-31T06:12:10.460530+00:00 ===
+2026-08-31 06:12:10,645 [INFO] Fetched 200 listings sorted by date_added
+2026-08-31 06:12:10,646 [INFO] NEW LISTING: Optimus (optimustracker.ai) (OPTIMUS) - $0.0016040918, mcap $n/a, platform Robinhood Chain, contract 0x0ff9072a1ead154d92c2d2fef16afba6028ce2b2, added 2026-08-31T05:03:03.000Z (1.2h ago)
+2026-08-31 06:12:10,646 [INFO] NEW LISTING: Lululemon Tokenized Stock (Robinhood) (LULU) - $130.26091, mcap $2,814, platform Robinhood Chain, contract 0x4e62068525Ab11FE768e29dfD00ef909B9803016, added 2026-08-04T07:31:53.000Z (646.7h ago)
+2026-08-31 06:12:10,648 [INFO] Detection pass: 2 new coin(s) inserted
+2026-08-31 06:12:10,721 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-08-31 06:12:10,721 [INFO] === Run finished ===
