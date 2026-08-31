@@ -3388,3 +3388,14 @@
 2026-08-31 13:48:27,857 [INFO] Detection pass: 4 new coin(s) inserted
 2026-08-31 13:48:27,982 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-31 13:48:27,982 [INFO] === Run finished ===
+2026-08-31 19:46:06,388 [INFO] === Run started 2026-08-31T19:46:06.388356+00:00 ===
+2026-08-31 19:46:06,644 [INFO] Fetched 200 listings sorted by date_added
+2026-08-31 19:46:06,645 [INFO] NEW LISTING: JUAN (juancoin.cash) (JUAN) - $2263780.2, mcap $n/a, platform Solana, contract JUAN69xYbJxZi2rrM6fjarwsBZWR91r1zzrhunhLWwg, added 2026-08-31T15:06:03.000Z (4.7h ago)
+2026-08-31 19:46:06,646 [INFO] NEW LISTING: Penguin Solutions Tokenized Stock (Robinhood) (PENG) - $61.989188, mcap $12,138, platform Robinhood Chain, contract 0x9b23573b156B52565012F5cE02CDF60AFBaa70Be, added 2026-08-04T07:31:56.000Z (660.2h ago)
+2026-08-31 19:46:06,646 [INFO] NEW LISTING: POET Technologies Tokenized Stock (Robinhood) (POET) - $7.46, mcap $1,973, platform Robinhood Chain, contract 0xcf6B2D875361be807EAfa57458c80f28521F9333, added 2026-08-04T07:31:55.000Z (660.2h ago)
+2026-08-31 19:46:06,646 [INFO] NEW LISTING: Zoom Tokenized Stock (Robinhood) (ZM) - $91.897509, mcap $34,896, platform Robinhood Chain, contract 0x44c4F142009036cF477eD2d09932051843137CF1, added 2026-08-04T07:31:42.000Z (660.2h ago)
+2026-08-31 19:46:06,646 [INFO] NEW LISTING: Datadog Tokenized Stock (Robinhood) (DDOG) - $235.22544, mcap $1,902, platform Robinhood Chain, contract 0x27c99fBde9D0d2AA4f4Bfb4943f237843DdF6958, added 2026-08-04T07:31:37.000Z (660.2h ago)
+2026-08-31 19:46:06,646 [INFO] NEW LISTING: Corning Tokenized Stock (Robinhood) (GLW) - $909.26227, mcap $11,056, platform Robinhood Chain, contract 0x7c04E6A3368F2A1DE3874f0e80d2e0A1a9915da6, added 2026-08-04T07:31:36.000Z (660.2h ago)
+2026-08-31 19:46:06,915 [INFO] Detection pass: 6 new coin(s) inserted
+2026-08-31 19:46:07,117 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-31 19:46:07,117 [INFO] === Run finished ===
