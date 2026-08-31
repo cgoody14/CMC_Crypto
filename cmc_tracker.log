@@ -3399,3 +3399,12 @@
 2026-08-31 19:46:06,915 [INFO] Detection pass: 6 new coin(s) inserted
 2026-08-31 19:46:07,117 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-31 19:46:07,117 [INFO] === Run finished ===
+2026-08-31 23:31:23,827 [INFO] === Run started 2026-08-31T23:31:23.827303+00:00 ===
+2026-08-31 23:31:24,010 [INFO] Fetched 200 listings sorted by date_added
+2026-08-31 23:31:24,011 [INFO] NEW LISTING: Ford Motor Tokenized Stock (Robinhood) (F) - $13.571437, mcap $13,992, platform Robinhood Chain, contract 0x25C288E6D899b9BC30160965aD9644c67e73bE0C, added 2026-08-04T07:31:53.000Z (664.0h ago)
+2026-08-31 23:31:24,011 [INFO] NEW LISTING: Carnival Corporation Tokenized Stock (Robinhood) (CCL) - $25.343427, mcap $8,324, platform Robinhood Chain, contract 0x9651342CeA770aE9a2969Ba2A52611523146aef9, added 2026-08-04T07:31:39.000Z (664.0h ago)
+2026-08-31 23:31:24,011 [INFO] NEW LISTING: Eli Lilly Tokenized Stock (Robinhood) (LLY) - $1190.2523, mcap $9,861, platform Robinhood Chain, contract 0x8005d266423c7ea827372c9c864491e5786600ea, added 2026-08-04T07:31:39.000Z (664.0h ago)
+2026-08-31 23:31:24,011 [INFO] NEW LISTING: Futu Holdings Tokenized Stock (Robinhood) (FUTU) - $122.79858, mcap $12,950, platform Robinhood Chain, contract 0xeB30663bDFf0622Ef4e4E5cBb4E975F19f33f51D, added 2026-08-04T07:31:37.000Z (664.0h ago)
+2026-08-31 23:31:24,014 [INFO] Detection pass: 4 new coin(s) inserted
+2026-08-31 23:31:24,134 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-08-31 23:31:24,134 [INFO] === Run finished ===
