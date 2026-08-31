@@ -3366,3 +3366,9 @@
 2026-08-30 22:20:33,313 [INFO] Detection pass: 0 new coin(s) inserted
 2026-08-30 22:20:33,471 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-08-30 22:20:33,471 [INFO] === Run finished ===
+2026-08-31 00:41:53,492 [INFO] === Run started 2026-08-31T00:41:53.492236+00:00 ===
+2026-08-31 00:41:53,726 [INFO] Fetched 200 listings sorted by date_added
+2026-08-31 00:41:53,727 [INFO] NEW LISTING: Delta (DELTA) - $0.026202122, mcap $n/a, platform Robinhood Chain, contract 0xe8ffd7e24187F72afB08d75B1bb13088A989a791, added 2026-08-30T23:06:31.000Z (1.6h ago)
+2026-08-31 00:41:53,730 [INFO] Detection pass: 1 new coin(s) inserted
+2026-08-31 00:41:53,867 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-08-31 00:41:53,868 [INFO] === Run finished ===
