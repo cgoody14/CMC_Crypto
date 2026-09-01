@@ -3408,3 +3408,9 @@
 2026-08-31 23:31:24,014 [INFO] Detection pass: 4 new coin(s) inserted
 2026-08-31 23:31:24,134 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-08-31 23:31:24,134 [INFO] === Run finished ===
+2026-09-01 02:02:30,418 [INFO] === Run started 2026-09-01T02:02:30.418762+00:00 ===
+2026-09-01 02:02:30,601 [INFO] Fetched 200 listings sorted by date_added
+2026-09-01 02:02:30,602 [INFO] NEW LISTING: CrowdStrike Holdings Tokenized Stock (Robinhood) (CRWD) - $227.60418, mcap $15,482, platform Robinhood Chain, contract 0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931, added 2026-08-04T07:32:05.000Z (666.5h ago)
+2026-09-01 02:02:30,605 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-01 02:02:30,729 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-09-01 02:02:30,729 [INFO] === Run finished ===
