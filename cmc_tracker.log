@@ -3423,3 +3423,15 @@
 2026-09-01 07:46:42,304 [INFO] Detection pass: 4 new coin(s) inserted
 2026-09-01 07:46:42,432 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-09-01 07:46:42,432 [INFO] === Run finished ===
+2026-09-01 12:55:01,467 [INFO] === Run started 2026-09-01T12:55:01.467436+00:00 ===
+2026-09-01 12:55:01,643 [INFO] Fetched 200 listings sorted by date_added
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: TartSwap (TART) - $0.00034823444, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314, added 2026-09-01T10:05:38.000Z (2.8h ago)
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: Hallucoin (HALLU) - $0.0015139971, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x4d292025b94c82b53c433382d03b7db9c0c5e2c9, added 2026-09-01T09:45:50.000Z (3.2h ago)
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: Nano Nuclear Energy Tokenized Stock (Robinhood) (NNE) - $18.636399, mcap $6,938, platform Robinhood Chain, contract 0xBEF75684C43c4ea7BD18Dd532a2244674Ee8b926, added 2026-08-04T07:32:04.000Z (677.4h ago)
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: Intuitive Machines Tokenized Stock (Robinhood) (LUNR) - $15.687121, mcap $12,017, platform Robinhood Chain, contract 0xa5D4968421bA94814Be3B136b15cf422101aC1a3, added 2026-08-04T07:32:00.000Z (677.4h ago)
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: UPS Tokenized Stock (Robinhood) (UPS) - $31.834903, mcap $508, platform Robinhood Chain, contract 0xf23250dac154D05Bb671CB0d0eBEf3c635c79CE2, added 2026-08-04T07:31:50.000Z (677.4h ago)
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: State Street Technology Sector Tokenized ETF (Robinhood) (XLK) - $200.70939, mcap $2,121, platform Robinhood Chain, contract 0x15Cd20759CE7F3285c29A319dE2D1A2e098c6f43, added 2026-08-04T07:31:44.000Z (677.4h ago)
+2026-09-01 12:55:01,644 [INFO] NEW LISTING: Broadcom Tokenized Stock (Robinhood) (AVGO) - $366.39451, mcap $20,452, platform Robinhood Chain, contract 0x156E175DD063a8cE274C50654eF40e0032b3fbcF, added 2026-08-04T07:31:32.000Z (677.4h ago)
+2026-09-01 12:55:01,682 [INFO] Detection pass: 7 new coin(s) inserted
+2026-09-01 12:55:01,852 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-09-01 12:55:01,852 [INFO] === Run finished ===
