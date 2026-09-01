@@ -3435,3 +3435,11 @@
 2026-09-01 12:55:01,682 [INFO] Detection pass: 7 new coin(s) inserted
 2026-09-01 12:55:01,852 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-09-01 12:55:01,852 [INFO] === Run finished ===
+2026-09-01 17:05:04,261 [INFO] === Run started 2026-09-01T17:05:04.261463+00:00 ===
+2026-09-01 17:05:04,442 [INFO] Fetched 200 listings sorted by date_added
+2026-09-01 17:05:04,443 [INFO] NEW LISTING: SIXSEVEN (6sixseven7.club) (67) - $0.021867208, mcap $n/a, platform TON, contract EQDTBhs52jXA9S7P3xuSvCohgYqbklQdJQLQ98A3Nld7QNMP, added 2026-09-01T14:06:01.000Z (3.0h ago)
+2026-09-01 17:05:04,443 [INFO] NEW LISTING: Coinbase Wrapped HYPE (CBHYPE) - $0.012159657, mcap $n/a, platform Base, contract 0xB200000000000000000000451d033a5000cb479e, added 2026-08-27T08:39:40.000Z (128.4h ago)
+2026-09-01 17:05:04,444 [INFO] NEW LISTING: Coinbase Wrapped ZEC (CBZEC) - $0.0011299499, mcap $n/a, platform Base, contract 0xB2000000000000000000008501b13360000cb2EC, added 2026-08-27T08:16:54.000Z (128.8h ago)
+2026-09-01 17:05:04,446 [INFO] Detection pass: 3 new coin(s) inserted
+2026-09-01 17:05:04,566 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-01 17:05:04,566 [INFO] === Run finished ===
