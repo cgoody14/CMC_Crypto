@@ -3473,3 +3473,21 @@
 2026-09-02 09:12:48,205 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-02 09:12:48,334 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-09-02 09:12:48,334 [INFO] === Run finished ===
+2026-09-02 13:40:14,676 [INFO] === Run started 2026-09-02T13:40:14.676429+00:00 ===
+2026-09-02 13:40:14,992 [INFO] Fetched 200 listings sorted by date_added
+2026-09-02 13:40:14,993 [INFO] NEW LISTING: World is Flat (WIF) - $0.00038261831, mcap $n/a, platform Robinhood Chain, contract 0x5173b8eA6923c2d40267890D45C46a3480954773, added 2026-09-02T13:22:26.000Z (0.3h ago)
+2026-09-02 13:40:14,993 [INFO] NEW LISTING: YOLO (yolorh.com) (YOLO) - $0.013113837, mcap $n/a, platform Robinhood Chain, contract 0x62c71cd34a52c30d894419cbcc55db2afa8032ea, added 2026-09-02T12:16:38.000Z (1.4h ago)
+2026-09-02 13:40:14,993 [INFO] NEW LISTING: Ramses (RAM) - $0.17419772, mcap $n/a, platform HyperEVM, contract 0x555570a286f15ebdfe42b66ede2f724aa1ab5555, added 2026-09-02T12:03:08.000Z (1.6h ago)
+2026-09-02 13:40:14,993 [INFO] NEW LISTING: up (UP) - $0.80784442, mcap $n/a, platform Robinhood Chain, contract 0x57c0e45cb534413d1c20a4240955d6bb250bb4f1, added 2026-09-02T11:40:23.000Z (2.0h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: Thinking Cat (HMM) - $0.020429403, mcap $n/a, platform Robinhood Chain, contract 0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f, added 2026-09-02T11:24:07.000Z (2.3h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: Goose Token (GOOSE) - $0.078263883, mcap $n/a, platform Robinhood Chain, contract 0x348cc963411fb82cd6e0b64345714fec94f242cb, added 2026-09-02T10:58:05.000Z (2.7h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: BNQ GLOBAL (BNQ) - $0.0038475382, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xBc9211717353498e19201d9040021872af7656d3, added 2026-09-02T10:27:46.000Z (3.2h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: CrowdStrike Tokenized bStocks (CRWDB) - $208.78942, mcap $409,881, platform BNB Smart Chain (BEP20), contract 0x814981cf5df4a14d4d7328f9abf0d02e9ed54cd1, added 2026-09-01T08:30:36.000Z (29.2h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: Moderna Tokenized bStocks (MRNAB) - $155.24035, mcap $475,455, platform BNB Smart Chain (BEP20), contract 0x5fd86da9b05abe396fe9d02a4a213a7c00556503, added 2026-09-01T08:28:55.000Z (29.2h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: ProShares UltraPro Short QQQ Tokenized bStocks (SQQQB) - $40.236763, mcap $438,501, platform BNB Smart Chain (BEP20), contract 0x25e572b466d152604d9e6c3e53b432b978825342, added 2026-09-01T08:25:27.000Z (29.2h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: Seagate Tokenized bStocks (STXB) - $819.89651, mcap $412,501, platform BNB Smart Chain (BEP20), contract 0x2e065f65f1699964f4092de1d39a8efe6c8d6f32, added 2026-09-01T08:21:33.000Z (29.3h ago)
+2026-09-02 13:40:14,994 [INFO] NEW LISTING: Umia (UMIA) - $0.62588558, mcap $15,240,220, platform Base, contract 0x56ab53b77F07DA3af732150E8aeC4783eB5BbA7D, added 2026-08-26T06:56:08.000Z (174.7h ago)
+2026-09-02 13:40:14,995 [INFO] NEW LISTING: MongoDB Tokenized Stock (Robinhood) (MDB) - $422.35388, mcap $7,973, platform Robinhood Chain, contract 0xDdf2266b79abf0B48898959B0ed6E6adf512be74, added 2026-08-04T07:31:52.000Z (702.1h ago)
+2026-09-02 13:40:15,002 [INFO] Detection pass: 13 new coin(s) inserted
+2026-09-02 13:40:15,122 [INFO] Tracking pass: 15 snapshot(s) recorded for 15 active coin(s)
+2026-09-02 13:40:15,122 [INFO] === Run finished ===
