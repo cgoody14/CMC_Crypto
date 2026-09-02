@@ -3499,3 +3499,10 @@
 2026-09-02 17:20:36,544 [INFO] Detection pass: 3 new coin(s) inserted
 2026-09-02 17:20:36,684 [INFO] Tracking pass: 15 snapshot(s) recorded for 15 active coin(s)
 2026-09-02 17:20:36,684 [INFO] === Run finished ===
+2026-09-02 19:56:19,657 [INFO] === Run started 2026-09-02T19:56:19.657679+00:00 ===
+2026-09-02 19:56:19,965 [INFO] Fetched 200 listings sorted by date_added
+2026-09-02 19:56:19,966 [INFO] NEW LISTING: Doggie Mode (DOGGIE) - $0.0026981928, mcap $n/a, platform Robinhood Chain, contract 0xa9eFe2Fc94dE79734C03051515F48f254Ce61e18, added 2026-09-02T18:48:01.000Z (1.1h ago)
+2026-09-02 19:56:19,967 [INFO] NEW LISTING: Zscaler Tokenized Stock (Robinhood) (ZS) - $181.47007, mcap $23,837, platform Robinhood Chain, contract 0x7dc013eB55e436f30d7ED1AFE4E36d6e45e3c3f7, added 2026-08-04T07:31:58.000Z (708.4h ago)
+2026-09-02 19:56:19,969 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-02 19:56:20,261 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-09-02 19:56:20,261 [INFO] === Run finished ===
