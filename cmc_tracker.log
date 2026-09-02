@@ -3459,3 +3459,10 @@
 2026-09-02 00:16:44,526 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-02 00:16:44,595 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-09-02 00:16:44,595 [INFO] === Run finished ===
+2026-09-02 04:50:13,291 [INFO] === Run started 2026-09-02T04:50:13.291339+00:00 ===
+2026-09-02 04:50:13,486 [INFO] Fetched 200 listings sorted by date_added
+2026-09-02 04:50:13,487 [INFO] NEW LISTING: Invesco S&P 500 Momentum Tokenized ETF (Robinhood) (SPMO) - $155.97666, mcap $26,338, platform Robinhood Chain, contract 0xAd622320e520de39e72d41EF07438C3Fd3354875, added 2026-08-04T07:31:58.000Z (693.3h ago)
+2026-09-02 04:50:13,487 [INFO] NEW LISTING: Intuit Tokenized Stock (Robinhood) (INTU) - $361.11599, mcap $6,959, platform Robinhood Chain, contract 0x56d23beE5f41A7120170b0c603Dae30128e460e9, added 2026-08-04T07:31:44.000Z (693.3h ago)
+2026-09-02 04:50:13,490 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-02 04:50:13,570 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-09-02 04:50:13,570 [INFO] === Run finished ===
