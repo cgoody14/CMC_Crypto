@@ -3466,3 +3466,10 @@
 2026-09-02 04:50:13,490 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-02 04:50:13,570 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-09-02 04:50:13,570 [INFO] === Run finished ===
+2026-09-02 09:12:47,955 [INFO] === Run started 2026-09-02T09:12:47.955949+00:00 ===
+2026-09-02 09:12:48,202 [INFO] Fetched 200 listings sorted by date_added
+2026-09-02 09:12:48,203 [INFO] NEW LISTING: iShares MSCI South Korea fund Tokenized ETF (Robinhood) (EWY) - $176.58375, mcap $5,507, platform Robinhood Chain, contract 0x7f0aBeF0C07280F82c6a08ead09dEd6BAE2C13Fc, added 2026-08-04T07:31:57.000Z (697.7h ago)
+2026-09-02 09:12:48,203 [INFO] NEW LISTING: iShares Semiconductor Tokenized ETF (Robinhood) (SOXX) - $517.29539, mcap $27,899, platform Robinhood Chain, contract 0x75742c18BC1f1C5c5f448f4C9D9C6F66dafAAa38, added 2026-08-04T07:31:38.000Z (697.7h ago)
+2026-09-02 09:12:48,205 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-02 09:12:48,334 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-09-02 09:12:48,334 [INFO] === Run finished ===
