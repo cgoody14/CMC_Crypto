@@ -3522,3 +3522,14 @@
 2026-09-03 04:49:27,395 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-03 04:49:27,491 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
 2026-09-03 04:49:27,491 [INFO] === Run finished ===
+2026-09-03 09:20:22,031 [INFO] === Run started 2026-09-03T09:20:22.031901+00:00 ===
+2026-09-03 09:20:22,230 [INFO] Fetched 200 listings sorted by date_added
+2026-09-03 09:20:22,232 [INFO] NEW LISTING: FLORK (FLORK) - $0.028665393, mcap $28,665,393, platform BNB Smart Chain (BEP20), contract 0xf40592DaACb3e5abf358789F5688C0B4f64d7777, added 2026-09-03T07:58:13.000Z (1.4h ago)
+2026-09-03 09:20:22,232 [INFO] NEW LISTING: NetNet (NET) - $1313.2263, mcap $n/a, platform Robinhood Chain, contract 0xca9c78dd337a67f6e0077f65f5e9218719d30edf, added 2026-09-03T07:06:17.000Z (2.2h ago)
+2026-09-03 09:20:22,232 [INFO] NEW LISTING: Down to Finance (DTF) - $0.0071712028, mcap $n/a, platform Robinhood Chain, contract 0xee5576fa1bcaa380e591d01245f406f3f384eb01, added 2026-09-03T06:39:17.000Z (2.7h ago)
+2026-09-03 09:20:22,232 [INFO] NEW LISTING: ember (EMBER) - $0.0021071923, mcap $n/a, platform Robinhood Chain, contract 0x139ea209A647FD1f8BF275b982D3DBAD3e4B1A4D, added 2026-09-03T05:53:49.000Z (3.4h ago)
+2026-09-03 09:20:22,232 [INFO] NEW LISTING: Lil' Shrub (SHRUB) - $0.0099603631, mcap $n/a, platform Robinhood Chain, contract 0x5d9144d2d017386519a7134Fcc7f1E4bA22f920c, added 2026-09-03T05:42:49.000Z (3.6h ago)
+2026-09-03 09:20:22,232 [INFO] NEW LISTING: Tower Semiconductor Tokenized Stock (Robinhood) (TSEM) - $219.42411, mcap $5,375, platform Robinhood Chain, contract 0x89776d4Cd68193597A2fC132cfaC1fDe36CCeA8a, added 2026-08-04T07:31:58.000Z (721.8h ago)
+2026-09-03 09:20:22,234 [INFO] Detection pass: 6 new coin(s) inserted
+2026-09-03 09:20:22,326 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-03 09:20:22,326 [INFO] === Run finished ===
