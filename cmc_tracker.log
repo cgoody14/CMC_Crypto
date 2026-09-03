@@ -3533,3 +3533,11 @@
 2026-09-03 09:20:22,234 [INFO] Detection pass: 6 new coin(s) inserted
 2026-09-03 09:20:22,326 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
 2026-09-03 09:20:22,326 [INFO] === Run finished ===
+2026-09-03 13:41:57,906 [INFO] === Run started 2026-09-03T13:41:57.906542+00:00 ===
+2026-09-03 13:41:58,092 [INFO] Fetched 200 listings sorted by date_added
+2026-09-03 13:41:58,093 [INFO] NEW LISTING: Prologue (PROLOGUE) - $0.0093215653, mcap $n/a, platform Robinhood Chain, contract 0xb9972ca7188e511174947e3936a5315ac7073277, added 2026-09-03T11:49:06.000Z (1.9h ago)
+2026-09-03 13:41:58,093 [INFO] NEW LISTING: Mancer (MANCER) - $0.0052159077, mcap $n/a, platform Robinhood Chain, contract 0xc72f232a6869e6cf34dc06129affd07f8a2a246a, added 2026-09-03T09:53:44.000Z (3.8h ago)
+2026-09-03 13:41:58,093 [INFO] NEW LISTING: Longbow (BOW) - $0.0049555626, mcap $n/a, platform Robinhood Chain, contract 0x451b42a15100c340ca12f7c66de06fac5ea2d751, added 2026-09-03T07:28:39.000Z (6.2h ago)
+2026-09-03 13:41:58,097 [INFO] Detection pass: 3 new coin(s) inserted
+2026-09-03 13:41:58,229 [INFO] Tracking pass: 19 snapshot(s) recorded for 19 active coin(s)
+2026-09-03 13:41:58,229 [INFO] === Run finished ===
