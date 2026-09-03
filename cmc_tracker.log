@@ -3516,3 +3516,9 @@
 2026-09-03 00:26:03,034 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-03 00:26:03,115 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-09-03 00:26:03,115 [INFO] === Run finished ===
+2026-09-03 04:49:27,185 [INFO] === Run started 2026-09-03T04:49:27.185319+00:00 ===
+2026-09-03 04:49:27,374 [INFO] Fetched 200 listings sorted by date_added
+2026-09-03 04:49:27,375 [INFO] NEW LISTING: Hookr.fun (HOOKR) - $0.013218093, mcap $n/a, platform Robinhood Chain, contract 0x18e674231a58c239dc7daedcffe15ec3a24cff5c, added 2026-09-03T04:34:38.000Z (0.2h ago)
+2026-09-03 04:49:27,395 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-03 04:49:27,491 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
+2026-09-03 04:49:27,491 [INFO] === Run finished ===
