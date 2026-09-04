@@ -3589,3 +3589,9 @@
 2026-09-04 16:51:35,805 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-04 16:51:35,947 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-09-04 16:51:35,947 [INFO] === Run finished ===
+2026-09-04 19:14:31,267 [INFO] === Run started 2026-09-04T19:14:31.267857+00:00 ===
+2026-09-04 19:14:31,544 [INFO] Fetched 200 listings sorted by date_added
+2026-09-04 19:14:31,545 [INFO] NEW LISTING: Credible Finance (credible.finance) (CRED) - $0.66075724, mcap $n/a, platform Solana, contract CREDBHvVqREBCAxMihzr8D1nepHMr2gmQoZWpmgGmeta, added 2026-09-04T18:09:03.000Z (1.1h ago)
+2026-09-04 19:14:31,550 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-04 19:14:31,700 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-09-04 19:14:31,700 [INFO] === Run finished ===
