@@ -3575,3 +3575,12 @@
 2026-09-04 08:57:55,949 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-04 08:57:56,454 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
 2026-09-04 08:57:56,454 [INFO] === Run finished ===
+2026-09-04 13:10:57,818 [INFO] === Run started 2026-09-04T13:10:57.818144+00:00 ===
+2026-09-04 13:10:58,230 [INFO] Fetched 200 listings sorted by date_added
+2026-09-04 13:10:58,231 [INFO] NEW LISTING: clan.tech (CLAN) - $0.0016199862, mcap $n/a, platform Robinhood Chain, contract 0xcebc0cfbc5dd0893a9e3b9d0f75b211ddf5934a0, added 2026-09-04T11:47:23.000Z (1.4h ago)
+2026-09-04 13:10:58,231 [INFO] NEW LISTING: A Meme Coin (AMC) - $0.076083944, mcap $n/a, platform Robinhood Chain, contract 0x385f4f8ae47651ce5f58f5265395a669f8281e18, added 2026-09-04T10:57:20.000Z (2.2h ago)
+2026-09-04 13:10:58,232 [INFO] NEW LISTING: memestock (MEMESTOCK) - $0.010261256, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x6FF45323817d1d53bbb8A8dFbA9245aE74057777, added 2026-09-04T10:06:21.000Z (3.1h ago)
+2026-09-04 13:10:58,232 [INFO] NEW LISTING: Nebius Group Tokenized Stock (Robinhood) (NBIS) - $201.31773, mcap $25,433, platform Robinhood Chain, contract 0x9D9c6684F596F66a64C030B93A886D51Fd4D7931, added 2026-08-04T07:32:00.000Z (749.6h ago)
+2026-09-04 13:10:58,234 [INFO] Detection pass: 4 new coin(s) inserted
+2026-09-04 13:10:58,424 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-04 13:10:58,424 [INFO] === Run finished ===
