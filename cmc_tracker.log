@@ -3569,3 +3569,9 @@
 2026-09-04 04:27:04,222 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-04 04:27:04,428 [INFO] Tracking pass: 20 snapshot(s) recorded for 20 active coin(s)
 2026-09-04 04:27:04,428 [INFO] === Run finished ===
+2026-09-04 08:57:55,705 [INFO] === Run started 2026-09-04T08:57:55.705021+00:00 ===
+2026-09-04 08:57:55,926 [INFO] Fetched 200 listings sorted by date_added
+2026-09-04 08:57:55,927 [INFO] NEW LISTING: The Dogestar (SIRIUS) - $0.0014154173, mcap $n/a, platform Robinhood Chain, contract 0x3b4a0048a00787a644932cd648faa043410c163e, added 2026-09-04T07:45:08.000Z (1.2h ago)
+2026-09-04 08:57:55,949 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-04 08:57:56,454 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
+2026-09-04 08:57:56,454 [INFO] === Run finished ===
