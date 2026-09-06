@@ -3660,3 +3660,10 @@
 2026-09-06 05:55:04,139 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-06 05:55:04,259 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-09-06 05:55:04,259 [INFO] === Run finished ===
+2026-09-06 09:59:54,458 [INFO] === Run started 2026-09-06T09:59:54.458121+00:00 ===
+2026-09-06 09:59:54,707 [INFO] Fetched 200 listings sorted by date_added
+2026-09-06 09:59:54,708 [INFO] NEW LISTING: Hover (HOVER) - $1.4728994e-05, mcap $n/a, platform Robinhood Chain, contract 0xf7d2a651188ea9f52cc802b3d962eb6c88bfaba3, added 2026-09-06T06:29:23.000Z (3.5h ago)
+2026-09-06 09:59:54,708 [INFO] NEW LISTING: PAIR (PAIR) - $0.050702939, mcap $n/a, platform Robinhood Chain, contract 0x6b1d42927b1a84ec28fa88d4fc6fa7af404966be, added 2026-09-06T05:52:24.000Z (4.1h ago)
+2026-09-06 09:59:54,711 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-06 09:59:54,823 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-09-06 09:59:54,823 [INFO] === Run finished ===
