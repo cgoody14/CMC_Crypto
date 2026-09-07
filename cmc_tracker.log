@@ -3697,3 +3697,9 @@
 2026-09-06 22:20:58,347 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-06 22:20:58,426 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-09-06 22:20:58,426 [INFO] === Run finished ===
+2026-09-07 00:07:29,471 [INFO] === Run started 2026-09-07T00:07:29.471697+00:00 ===
+2026-09-07 00:07:29,721 [INFO] Fetched 200 listings sorted by date_added
+2026-09-07 00:07:29,722 [INFO] NEW LISTING: STONK (stonkfun.xyz) (STONK) - $0.15881003, mcap $n/a, platform Solana, contract 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx, added 2026-09-06T22:40:32.000Z (1.4h ago)
+2026-09-07 00:07:29,877 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-07 00:07:30,241 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-07 00:07:30,241 [INFO] === Run finished ===
