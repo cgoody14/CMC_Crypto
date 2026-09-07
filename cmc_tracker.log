@@ -3735,3 +3735,9 @@
 2026-09-07 19:18:49,578 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-07 19:18:49,696 [INFO] Tracking pass: 19 snapshot(s) recorded for 19 active coin(s)
 2026-09-07 19:18:49,696 [INFO] === Run finished ===
+2026-09-07 22:09:29,668 [INFO] === Run started 2026-09-07T22:09:29.668825+00:00 ===
+2026-09-07 22:09:29,907 [INFO] Fetched 200 listings sorted by date_added
+2026-09-07 22:09:29,908 [INFO] NEW LISTING: BEN (BEN) - $0.0067916925, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x7BC70aE0f2A67d2fDc0180a697a611F21c857777, added 2026-09-07T20:09:49.000Z (2.0h ago)
+2026-09-07 22:09:29,910 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-07 22:09:30,108 [INFO] Tracking pass: 20 snapshot(s) recorded for 20 active coin(s)
+2026-09-07 22:09:30,108 [INFO] === Run finished ===
