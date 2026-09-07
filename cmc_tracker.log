@@ -3708,3 +3708,10 @@
 2026-09-07 04:34:46,826 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-07 04:34:46,962 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-09-07 04:34:46,962 [INFO] === Run finished ===
+2026-09-07 09:43:33,576 [INFO] === Run started 2026-09-07T09:43:33.576422+00:00 ===
+2026-09-07 09:43:33,845 [INFO] Fetched 199 listings sorted by date_added
+2026-09-07 09:43:33,846 [INFO] NEW LISTING: Anonymous Cat (ZCAT) - $0.13051142, mcap $n/a, platform Solana, contract HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR, added 2026-09-07T05:38:15.000Z (4.1h ago)
+2026-09-07 09:43:33,846 [INFO] NEW LISTING: BREW (brew.family) (BREW) - $0.015002438, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xfa6D9B504848606Eb9aeC04CCc161D169B3f2159, added 2026-09-07T04:43:19.000Z (5.0h ago)
+2026-09-07 09:43:33,850 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-07 09:43:33,931 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-09-07 09:43:33,931 [INFO] === Run finished ===
