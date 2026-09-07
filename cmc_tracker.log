@@ -3715,3 +3715,18 @@
 2026-09-07 09:43:33,850 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-07 09:43:33,931 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-09-07 09:43:33,931 [INFO] === Run finished ===
+2026-09-07 15:16:36,292 [INFO] === Run started 2026-09-07T15:16:36.292837+00:00 ===
+2026-09-07 15:16:36,565 [INFO] Fetched 200 listings sorted by date_added
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: Greatest Meme Ever (GME) - $0.0032033785, mcap $n/a, platform Robinhood Chain, contract 0xef67e3064bef1a27e81925ec7132f23e533bd5f6, added 2026-09-07T14:02:13.000Z (1.2h ago)
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: Stratton Market (STRATTON) - $0.0040713473, mcap $n/a, platform Robinhood Chain, contract 0xb7eaecc89d3e2f9fd597d61726ae824900db8360, added 2026-09-07T13:56:17.000Z (1.3h ago)
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: Orbio.so (ORBIO) - $0.023387568, mcap $n/a, platform Robinhood Chain, contract 0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3, added 2026-09-07T13:17:58.000Z (2.0h ago)
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: microduck (MICRODUCK) - $0.018273947, mcap $n/a, platform Robinhood Chain, contract 0xd5f1afea47b1a9eab414d2ee740cf1d6d039e725, added 2026-09-07T13:14:03.000Z (2.0h ago)
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: Boner Coin (BONER) - $0.053034084, mcap $53,034,084, platform Robinhood Chain, contract 0x98096d17e191b3da1d5f99a6d7b3584351b11e18, added 2026-09-07T12:36:42.000Z (2.7h ago)
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: MUSHROOM (shroomnetwork.com) (SHROOM) - $0.034594164, mcap $n/a, platform Robinhood Chain, contract 0xab093def657f15df31b33922a95e047add645b29, added 2026-09-07T10:32:59.000Z (4.7h ago)
+2026-09-07 15:16:36,566 [INFO] NEW LISTING: b-money (B-MONEY) - $0.010969736, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xf49725118cb0707b8706ffffe895f3ab16da7777, added 2026-09-07T10:03:04.000Z (5.2h ago)
+2026-09-07 15:16:36,567 [INFO] NEW LISTING: Stonks (stonksbnb.com) (STONKS) - $0.007358046, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xc9d825e83aada475bd4d38c8ca984ed746277777, added 2026-09-07T09:49:16.000Z (5.5h ago)
+2026-09-07 15:16:36,567 [INFO] NEW LISTING: Robin the Frog (ROBIN) - $0.014438606, mcap $n/a, platform Robinhood Chain, contract 0x11B70d0243baf75E85CE03201A92b5B7C33BEB59, added 2026-09-07T09:30:57.000Z (5.8h ago)
+2026-09-07 15:16:36,567 [INFO] NEW LISTING: Canopy (CNPY) - $0.21991925, mcap $14,762,233, platform BNB Smart Chain (BEP20), contract 0xC69B16CF18CEA1e5D0bb6a1a9db802097790dDD2, added 2026-09-04T12:18:21.000Z (75.0h ago)
+2026-09-07 15:16:36,572 [INFO] Detection pass: 10 new coin(s) inserted
+2026-09-07 15:16:36,725 [INFO] Tracking pass: 19 snapshot(s) recorded for 19 active coin(s)
+2026-09-07 15:16:36,725 [INFO] === Run finished ===
