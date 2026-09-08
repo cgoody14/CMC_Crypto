@@ -3764,3 +3764,9 @@
 2026-09-08 13:44:36,302 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-08 13:44:36,541 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
 2026-09-08 13:44:36,541 [INFO] === Run finished ===
+2026-09-08 17:32:30,944 [INFO] === Run started 2026-09-08T17:32:30.944519+00:00 ===
+2026-09-08 17:32:31,141 [INFO] Fetched 200 listings sorted by date_added
+2026-09-08 17:32:31,142 [INFO] NEW LISTING: build (BUILD) - $0.022396633, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x489cE5fb31523516f3FB4aACd597508C80eDfFfF, added 2026-09-08T16:37:37.000Z (0.9h ago)
+2026-09-08 17:32:31,145 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-08 17:32:31,266 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-08 17:32:31,266 [INFO] === Run finished ===
