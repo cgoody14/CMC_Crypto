@@ -3751,3 +3751,10 @@
 2026-09-08 04:56:39,795 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-08 04:56:39,981 [INFO] Tracking pass: 20 snapshot(s) recorded for 20 active coin(s)
 2026-09-08 04:56:39,981 [INFO] === Run finished ===
+2026-09-08 09:19:46,660 [INFO] === Run started 2026-09-08T09:19:46.660360+00:00 ===
+2026-09-08 09:19:47,425 [INFO] Fetched 200 listings sorted by date_added
+2026-09-08 09:19:47,426 [INFO] NEW LISTING: 4Stock (4Stock) - $0.062972141, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xd270D4e1EC6e6E0d28C0ecB8BE966EC75997FFfF, added 2026-09-08T07:29:52.000Z (1.8h ago)
+2026-09-08 09:19:47,426 [INFO] NEW LISTING: Giggle Mascot (MAX) - $0.015983538, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x2c45560bc707f7addb8df848a9ba6cd9f30faeec, added 2026-09-08T07:07:01.000Z (2.2h ago)
+2026-09-08 09:19:47,428 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-08 09:19:47,583 [INFO] Tracking pass: 20 snapshot(s) recorded for 20 active coin(s)
+2026-09-08 09:19:47,583 [INFO] === Run finished ===
