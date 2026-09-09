@@ -3800,3 +3800,14 @@
 2026-09-09 10:06:47,022 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-09 10:06:47,114 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-09-09 10:06:47,114 [INFO] === Run finished ===
+2026-09-09 14:33:28,387 [INFO] === Run started 2026-09-09T14:33:28.386989+00:00 ===
+2026-09-09 14:33:28,583 [INFO] Fetched 200 listings sorted by date_added
+2026-09-09 14:33:28,584 [INFO] NEW LISTING: hotdog (HOTDOG) - $0.0044619651, mcap $n/a, platform Robinhood Chain, contract 0x1c1daef0300551adbfbe403e7d567b6c5aff566f, added 2026-09-09T13:42:09.000Z (0.9h ago)
+2026-09-09 14:33:28,584 [INFO] NEW LISTING: Memory cow Moo (MOO) - $0.026747202, mcap $n/a, platform Robinhood Chain, contract 0xd9db30bb0d2b8d2eae3826a1372117e058791e18, added 2026-09-09T13:36:25.000Z (1.0h ago)
+2026-09-09 14:33:28,584 [INFO] NEW LISTING: iCoin (ICOIN) - $0.0077994864, mcap $n/a, platform Robinhood Chain, contract 0x5d6ef090a1461b11c9427ac319260122d1c61e18, added 2026-09-09T13:26:29.000Z (1.1h ago)
+2026-09-09 14:33:28,584 [INFO] NEW LISTING: Hims & Hers Tokenized bStocks (HIMSB) - $27.804625, mcap $1,118,682, platform BNB Smart Chain (BEP20), contract 0xee6f4bcc88c2c8583d5a65c7d0c877b464100711, added 2026-09-08T02:00:02.000Z (36.6h ago)
+2026-09-09 14:33:28,584 [INFO] NEW LISTING: Salesforce Tokenized bStocks (CRMB) - $249.21107, mcap $519,446, platform BNB Smart Chain (BEP20), contract 0x8c433eca1be0e2a357015602f63751c768f6f643, added 2026-09-08T02:00:00.000Z (36.6h ago)
+2026-09-09 14:33:28,584 [INFO] NEW LISTING: Hunter Biden's Laptop (LAPTOP) - $2.4827381, mcap $868,958,351, platform Base, contract 0xB095274743941e953c746F9C228DA9c18Bb6ec29, added 2026-09-07T20:18:35.000Z (42.2h ago)
+2026-09-09 14:33:28,587 [INFO] Detection pass: 6 new coin(s) inserted
+2026-09-09 14:33:28,687 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-09-09 14:33:28,687 [INFO] === Run finished ===
