@@ -3793,3 +3793,10 @@
 2026-09-09 05:38:10,242 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-09 05:38:10,393 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
 2026-09-09 05:38:10,393 [INFO] === Run finished ===
+2026-09-09 10:06:46,585 [INFO] === Run started 2026-09-09T10:06:46.585115+00:00 ===
+2026-09-09 10:06:46,805 [INFO] Fetched 200 listings sorted by date_added
+2026-09-09 10:06:46,807 [INFO] NEW LISTING: Crumbs (CRUMBS) - $0.0013520054, mcap $n/a, platform Robinhood Chain, contract 0x80baa4b3bfac6f4978700df824b1b3d98e889136, added 2026-09-09T07:31:54.000Z (2.6h ago)
+2026-09-09 10:06:46,807 [INFO] NEW LISTING: Cea Industries (BNC4) - $5.4172723, mcap $5,333,429, platform BNB Smart Chain (BEP20), contract 0x7C8D5502b544dDAf8852Fc46D1174E34876D545C, added 2026-09-09T07:28:36.000Z (2.6h ago)
+2026-09-09 10:06:47,022 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-09 10:06:47,114 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-09-09 10:06:47,114 [INFO] === Run finished ===
