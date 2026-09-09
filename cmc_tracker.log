@@ -3786,3 +3786,10 @@
 2026-09-09 00:56:07,365 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-09 00:56:07,513 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
 2026-09-09 00:56:07,513 [INFO] === Run finished ===
+2026-09-09 05:38:09,950 [INFO] === Run started 2026-09-09T05:38:09.950221+00:00 ===
+2026-09-09 05:38:10,238 [INFO] Fetched 200 listings sorted by date_added
+2026-09-09 05:38:10,239 [INFO] NEW LISTING: Pare (PARE) - $0.0078300903, mcap $n/a, platform Robinhood Chain, contract 0x15d36B6A28d8327ABc7aFABF0F106AE2c9Af5C4d, added 2026-09-09T05:15:02.000Z (0.4h ago)
+2026-09-09 05:38:10,239 [INFO] NEW LISTING: AEGIS X (AGX) - $55.286857, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xe766023f5a0fa6ce91b9f98D327771437DfcA077, added 2026-09-09T03:20:11.000Z (2.3h ago)
+2026-09-09 05:38:10,242 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-09 05:38:10,393 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-09 05:38:10,393 [INFO] === Run finished ===
