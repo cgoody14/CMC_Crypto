@@ -3837,3 +3837,9 @@
 2026-09-10 05:20:06,290 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-10 05:20:06,461 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
 2026-09-10 05:20:06,461 [INFO] === Run finished ===
+2026-09-10 09:54:58,987 [INFO] === Run started 2026-09-10T09:54:58.987110+00:00 ===
+2026-09-10 09:54:59,239 [INFO] Fetched 200 listings sorted by date_added
+2026-09-10 09:54:59,241 [INFO] NEW LISTING: Robinhood (robinhood.win) (ROBINHOOD) - $0.0017996795, mcap $n/a, platform Robinhood Chain, contract 0x008Df4b3E857D06c4603Aeb11F267ccD32ce2005, added 2026-09-10T08:30:03.000Z (1.4h ago)
+2026-09-10 09:54:59,243 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-10 09:54:59,307 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-09-10 09:54:59,307 [INFO] === Run finished ===
