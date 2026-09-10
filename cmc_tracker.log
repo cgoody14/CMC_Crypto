@@ -3843,3 +3843,10 @@
 2026-09-10 09:54:59,243 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-10 09:54:59,307 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-09-10 09:54:59,307 [INFO] === Run finished ===
+2026-09-10 13:58:41,944 [INFO] === Run started 2026-09-10T13:58:41.944325+00:00 ===
+2026-09-10 13:58:42,201 [INFO] Fetched 200 listings sorted by date_added
+2026-09-10 13:58:42,202 [INFO] NEW LISTING: 蝴蝶人生 (蝴蝶人生) - $0.0043657951, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x87aE267002cD1eA0eC86Bf3601D4a8AD76A47777, added 2026-09-10T11:49:40.000Z (2.2h ago)
+2026-09-10 13:58:42,203 [INFO] NEW LISTING: B-money (BMONEY) - $0.0039034677, mcap $n/a, platform Ethereum, contract 0xf10da48d4aaa8d784c5e369cb998e263cfe32aa8, added 2026-09-10T10:32:16.000Z (3.4h ago)
+2026-09-10 13:58:42,205 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-10 13:58:42,351 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
+2026-09-10 13:58:42,351 [INFO] === Run finished ===
