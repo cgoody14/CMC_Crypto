@@ -3850,3 +3850,15 @@
 2026-09-10 13:58:42,205 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-10 13:58:42,351 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
 2026-09-10 13:58:42,351 [INFO] === Run finished ===
+2026-09-10 17:31:35,625 [INFO] === Run started 2026-09-10T17:31:35.625274+00:00 ===
+2026-09-10 17:31:35,992 [INFO] Fetched 200 listings sorted by date_added
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: LADYBUG (LADYBUG) - $0.00033739048, mcap $n/a, platform Solana, contract 7TgfC7finEVA1QcCbn1Jb2cz4RiDL4if4ATEGHZupump, added 2026-09-10T17:03:02.000Z (0.5h ago)
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: Wendy's Tokenized Stock (Ondo) (WENon) - $7.4650495, mcap $49, platform Ethereum, contract 0x613518b520241f90c3E023Bb6006c63A5019CA7B, added 2026-09-10T15:52:59.000Z (1.6h ago)
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: iShares High Yield Systematic Bond Tokenized ETF (Ondo) (HYDBon) - $46.002618, mcap $547, platform Ethereum, contract 0xe109dFbF450eC2b9944900830b8DA22EaA59F1A3, added 2026-09-10T15:52:59.000Z (1.6h ago)
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: iShares Short Duration Bond Active Tokenized ETF (Ondo) (NEARon) - $50.203738, mcap $252, platform Ethereum, contract 0x7E37ac5d67ebe99851193CD036D7725b6730c53D, added 2026-09-10T15:52:58.000Z (1.6h ago)
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: iShares Broad USD High Yield Tokenized ETF (Ondo) (USHYon) - $36.433987, mcap $548, platform Ethereum, contract 0x6830f7BBFD274e393a32846918DA9De210879AE4, added 2026-09-10T15:52:58.000Z (1.6h ago)
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: Hertz Global Holdings Tokenized Stock (Ondo) (HTZon) - $2.0942583, mcap $51, platform Ethereum, contract 0x7E95779D2d7B4a654A4ac80cB6423aE8998Cf1e7, added 2026-09-10T15:52:57.000Z (1.6h ago)
+2026-09-10 17:31:35,993 [INFO] NEW LISTING: Alphabet Class C Tokenized Stock (Ondo) (GOOGon) - $329.60175, mcap $109, platform Ethereum, contract 0x36B90aDcDC99Be31BF39A3c031288bAa0B457E10, added 2026-09-10T15:52:57.000Z (1.6h ago)
+2026-09-10 17:31:36,012 [INFO] Detection pass: 7 new coin(s) inserted
+2026-09-10 17:31:36,258 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-10 17:31:36,258 [INFO] === Run finished ===
