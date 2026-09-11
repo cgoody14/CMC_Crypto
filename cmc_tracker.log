@@ -3904,3 +3904,9 @@
 2026-09-11 17:26:25,551 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-11 17:26:25,636 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-09-11 17:26:25,636 [INFO] === Run finished ===
+2026-09-11 19:54:58,650 [INFO] === Run started 2026-09-11T19:54:58.650928+00:00 ===
+2026-09-11 19:54:59,039 [INFO] Fetched 200 listings sorted by date_added
+2026-09-11 19:54:59,040 [INFO] NEW LISTING: PRIME (PRIME) - $1.0586674, mcap $n/a, platform Solana, contract 3b8X44fLF9ooXaUm3hhSgjpmVs6rZZ3pPoGnGahc3Uu7, added 2026-09-11T19:14:17.000Z (0.7h ago)
+2026-09-11 19:54:59,043 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-11 19:54:59,246 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
+2026-09-11 19:54:59,246 [INFO] === Run finished ===
