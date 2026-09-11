@@ -3892,3 +3892,10 @@
 2026-09-11 09:44:30,451 [INFO] Detection pass: 3 new coin(s) inserted
 2026-09-11 09:44:30,670 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
 2026-09-11 09:44:30,670 [INFO] === Run finished ===
+2026-09-11 13:50:27,449 [INFO] === Run started 2026-09-11T13:50:27.449802+00:00 ===
+2026-09-11 13:50:27,781 [INFO] Fetched 200 listings sorted by date_added
+2026-09-11 13:50:27,782 [INFO] NEW LISTING: SPDR S&P 500 ETF Trust (SPY) - $783.78818, mcap $n/a, platform Base, contract 0x8d01ebde5e01b0917daad6f84372484084226207, added 2026-09-11T11:27:45.000Z (2.4h ago)
+2026-09-11 13:50:27,782 [INFO] NEW LISTING: Mixue Tokenized Stock (xStock) (MIXUx) - $28.776882, mcap $26,673,622, platform Ethereum, contract 0x8fa39ff32b316e2296630aa05bdd6a4a2e4b7598, added 2026-08-10T04:40:47.000Z (777.2h ago)
+2026-09-11 13:50:27,784 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-11 13:50:27,948 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-09-11 13:50:27,948 [INFO] === Run finished ===
