@@ -3877,3 +3877,10 @@
 2026-09-11 00:32:39,134 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-11 00:32:39,343 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
 2026-09-11 00:32:39,343 [INFO] === Run finished ===
+2026-09-11 05:14:48,256 [INFO] === Run started 2026-09-11T05:14:48.256282+00:00 ===
+2026-09-11 05:14:48,444 [INFO] Fetched 200 listings sorted by date_added
+2026-09-11 05:14:48,445 [INFO] NEW LISTING: Recursion Pharmaceuticals Tokenized Stock (Ondo) (RXRXon) - $3.1629522, mcap $50, platform Ethereum, contract 0xDaA3b81a3ACFcB60b875eBA1D26852376BC38486, added 2026-09-11T02:10:26.000Z (3.1h ago)
+2026-09-11 05:14:48,445 [INFO] NEW LISTING: frong (FRONG) - $0.0075383019, mcap $7,538,302, platform Robinhood Chain, contract 0x6245e67affa44a23077f0ea7f981a8dc743a0c47, added 2026-09-11T01:17:22.000Z (4.0h ago)
+2026-09-11 05:14:48,447 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-11 05:14:48,516 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-11 05:14:48,516 [INFO] === Run finished ===
