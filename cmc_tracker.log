@@ -3884,3 +3884,11 @@
 2026-09-11 05:14:48,447 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-11 05:14:48,516 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
 2026-09-11 05:14:48,516 [INFO] === Run finished ===
+2026-09-11 09:44:30,169 [INFO] === Run started 2026-09-11T09:44:30.169126+00:00 ===
+2026-09-11 09:44:30,445 [INFO] Fetched 200 listings sorted by date_added
+2026-09-11 09:44:30,447 [INFO] NEW LISTING: MarsCat (MCAT) - $0.54556133, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xd69a4b260ef021CCD4e1C5F5a4fB522B032Ce831, added 2026-09-11T06:42:00.000Z (3.0h ago)
+2026-09-11 09:44:30,447 [INFO] NEW LISTING: DarkRoute (darkroute.exchange) (DARK) - $0.00052085172, mcap $n/a, platform Robinhood Chain, contract 0xebb4c5b97e4117e30ec82ce025e6f21dded05436, added 2026-09-11T05:36:03.000Z (4.1h ago)
+2026-09-11 09:44:30,447 [INFO] NEW LISTING: Flybrain (FLYBRAIN) - $0.015318483, mcap $15,318,483, platform Robinhood Chain, contract 0x4Eb990547BCe4a982432CA88Cf5fae7EED1A2d35, added 2026-09-11T05:09:52.000Z (4.6h ago)
+2026-09-11 09:44:30,451 [INFO] Detection pass: 3 new coin(s) inserted
+2026-09-11 09:44:30,670 [INFO] Tracking pass: 18 snapshot(s) recorded for 18 active coin(s)
+2026-09-11 09:44:30,670 [INFO] === Run finished ===
