@@ -3930,3 +3930,9 @@
 2026-09-12 08:57:45,692 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-12 08:57:45,772 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-09-12 08:57:45,772 [INFO] === Run finished ===
+2026-09-12 12:37:27,068 [INFO] === Run started 2026-09-12T12:37:27.068206+00:00 ===
+2026-09-12 12:37:27,252 [INFO] Fetched 200 listings sorted by date_added
+2026-09-12 12:37:27,253 [INFO] NEW LISTING: Commodity Market Exchange (CME) - $0.0034456317, mcap $n/a, platform Robinhood Chain, contract 0xe2324ff2a59f8ecba8c321c6466e59121c00e795, added 2026-09-12T09:44:31.000Z (2.9h ago)
+2026-09-12 12:37:27,255 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-12 12:37:27,396 [INFO] Tracking pass: 15 snapshot(s) recorded for 15 active coin(s)
+2026-09-12 12:37:27,397 [INFO] === Run finished ===
