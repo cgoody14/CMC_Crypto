@@ -3961,3 +3961,9 @@
 2026-09-13 00:05:50,852 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-13 00:05:50,927 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-09-13 00:05:50,927 [INFO] === Run finished ===
+2026-09-13 04:42:32,973 [INFO] === Run started 2026-09-13T04:42:32.973666+00:00 ===
+2026-09-13 04:42:33,222 [INFO] Fetched 200 listings sorted by date_added
+2026-09-13 04:42:33,223 [INFO] NEW LISTING: ZZZ (ZZZ) - $0.057690655, mcap $n/a, platform Robinhood Chain, contract 0x7dbf38976f6d3b9c529e7d9484a71898b409ee6a, added 2026-09-13T03:09:49.000Z (1.5h ago)
+2026-09-13 04:42:33,231 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-13 04:42:33,340 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-09-13 04:42:33,340 [INFO] === Run finished ===
