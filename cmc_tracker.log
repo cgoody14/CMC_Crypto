@@ -4010,3 +4010,13 @@
 2026-09-14 06:45:59,366 [INFO] Detection pass: 2 new coin(s) inserted
 2026-09-14 06:45:59,494 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-09-14 06:45:59,494 [INFO] === Run finished ===
+2026-09-14 13:31:41,043 [INFO] === Run started 2026-09-14T13:31:41.043166+00:00 ===
+2026-09-14 13:31:41,331 [INFO] Fetched 200 listings sorted by date_added
+2026-09-14 13:31:41,332 [INFO] NEW LISTING: X Link (xl.money) (XL) - $0.0010712577, mcap $n/a, platform Robinhood Chain, contract 0x1cdb289befdfac8af945a288bcdccc382cb34d32, added 2026-09-14T11:06:02.000Z (2.4h ago)
+2026-09-14 13:31:41,332 [INFO] NEW LISTING: OPENAI 1x Long (OPENAIx1L) - $1.0807525, mcap $n/a, platform Robinhood Chain, contract 0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5, added 2026-09-14T10:41:32.000Z (2.8h ago)
+2026-09-14 13:31:41,333 [INFO] NEW LISTING: ANTHROPIC 1x Long (ANTHROPICx1L) - $1.2292133, mcap $n/a, platform Robinhood Chain, contract 0x1937caD42b17D43bB2b347ce16d5288887C46c33, added 2026-09-14T10:41:32.000Z (2.8h ago)
+2026-09-14 13:31:41,333 [INFO] NEW LISTING: CEA Industries Tokenized bStocks (BNCB) - $4.9790949, mcap $10,155,046, platform BNB Smart Chain (BEP20), contract 0x4902c5ebc598265ed2212b559b042de8a5eeec3f, added 2026-09-14T02:40:00.000Z (10.9h ago)
+2026-09-14 13:31:41,333 [INFO] NEW LISTING: Autheo (THEO) - $0.097338985, mcap $n/a, platform Base, contract 0xebe516a20238F79dc20b07ead6768e08891Ed309, added 2026-08-26T11:06:03.000Z (458.4h ago)
+2026-09-14 13:31:41,335 [INFO] Detection pass: 5 new coin(s) inserted
+2026-09-14 13:31:41,522 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-14 13:31:41,522 [INFO] === Run finished ===
