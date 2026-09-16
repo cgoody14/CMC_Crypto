@@ -4078,3 +4078,11 @@
 2026-09-16 07:54:23,656 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-16 07:54:23,782 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-09-16 07:54:23,782 [INFO] === Run finished ===
+2026-09-16 12:58:51,654 [INFO] === Run started 2026-09-16T12:58:51.654611+00:00 ===
+2026-09-16 12:58:51,942 [INFO] Fetched 200 listings sorted by date_added
+2026-09-16 12:58:51,943 [INFO] NEW LISTING: Argus (ARGUS) - $0.033466672, mcap $n/a, platform Arc, contract 0xece5ca8bf9220718e5727754026757512212cb3c, added 2026-09-16T10:25:05.000Z (2.6h ago)
+2026-09-16 12:58:51,943 [INFO] NEW LISTING: GoPro Tokenized bStocks (GPROB) - $1.3100443, mcap $443,140, platform BNB Smart Chain (BEP20), contract 0x1ecfda023c46ca216b5c620ef357a6d0c03951e6, added 2026-09-15T08:55:02.000Z (28.1h ago)
+2026-09-16 12:58:51,944 [INFO] NEW LISTING: Reddit Tokenized bStocks (RDDTB) - $159.66931, mcap $451,875, platform BNB Smart Chain (BEP20), contract 0x41622a9125a22767df8c1dc79fc17299bac4bd0b, added 2026-09-15T08:55:00.000Z (28.1h ago)
+2026-09-16 12:58:52,142 [INFO] Detection pass: 3 new coin(s) inserted
+2026-09-16 12:58:52,361 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-09-16 12:58:52,361 [INFO] === Run finished ===
