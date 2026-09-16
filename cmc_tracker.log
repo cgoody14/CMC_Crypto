@@ -4067,3 +4067,9 @@
 2026-09-15 23:54:31,323 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-15 23:54:31,544 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-09-15 23:54:31,545 [INFO] === Run finished ===
+2026-09-16 02:39:09,685 [INFO] === Run started 2026-09-16T02:39:09.685798+00:00 ===
+2026-09-16 02:39:10,038 [INFO] Fetched 200 listings sorted by date_added
+2026-09-16 02:39:10,040 [INFO] NEW LISTING: Wrapped USDC (Arc) (USDC.arc) - $1, mcap $n/a, platform Arc, contract 0x3600000000000000000000000000000000000000, added 2026-08-28T07:38:12.000Z (451.0h ago)
+2026-09-16 02:39:10,042 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-16 02:39:10,213 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-16 02:39:10,213 [INFO] === Run finished ===
