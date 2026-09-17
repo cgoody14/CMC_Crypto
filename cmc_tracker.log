@@ -4107,3 +4107,9 @@
 2026-09-17 01:22:40,722 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-17 01:22:40,827 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-09-17 01:22:40,827 [INFO] === Run finished ===
+2026-09-17 06:19:28,944 [INFO] === Run started 2026-09-17T06:19:28.944635+00:00 ===
+2026-09-17 06:19:29,291 [INFO] Fetched 200 listings sorted by date_added
+2026-09-17 06:19:29,292 [INFO] NEW LISTING: Malachite (MALA) - $7.0909931e-05, mcap $n/a, platform Arc, contract 0x4F7DC89dc44aD08c20d9680d2Ee9cfad69BFDa55, added 2026-09-17T01:55:57.000Z (4.4h ago)
+2026-09-17 06:19:29,296 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-17 06:19:29,390 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-09-17 06:19:29,390 [INFO] === Run finished ===
