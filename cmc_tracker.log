@@ -4127,3 +4127,10 @@
 2026-09-17 15:58:32,803 [INFO] Detection pass: 4 new coin(s) inserted
 2026-09-17 15:58:32,962 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-09-17 15:58:32,962 [INFO] === Run finished ===
+2026-09-17 19:35:17,104 [INFO] === Run started 2026-09-17T19:35:17.104667+00:00 ===
+2026-09-17 19:35:17,744 [INFO] Fetched 200 listings sorted by date_added
+2026-09-17 19:35:17,745 [INFO] NEW LISTING: Tread (TREAD) - $0.50624062, mcap $n/a, platform Ethereum, contract 0x31EEA0EDeb85B0cB65c1400bd2F4e487fD61B537, added 2026-09-17T17:03:02.000Z (2.5h ago)
+2026-09-17 19:35:17,746 [INFO] NEW LISTING: Bucket Shop (BUCKET) - $0.0030445158, mcap $n/a, platform Robinhood Chain, contract 0xbc9E7b1c5C0081f4aE85e71eC95703d3dEC9ffaD, added 2026-09-17T16:33:02.000Z (3.0h ago)
+2026-09-17 19:35:17,748 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-17 19:35:17,997 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-17 19:35:17,997 [INFO] === Run finished ===
