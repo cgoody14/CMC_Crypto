@@ -4118,3 +4118,12 @@
 2026-09-17 11:55:17,150 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-17 11:55:17,271 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-09-17 11:55:17,272 [INFO] === Run finished ===
+2026-09-17 15:58:32,546 [INFO] === Run started 2026-09-17T15:58:32.546073+00:00 ===
+2026-09-17 15:58:32,798 [INFO] Fetched 200 listings sorted by date_added
+2026-09-17 15:58:32,800 [INFO] NEW LISTING: 妖蝶 (妖蝶) - $0.00094480866, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xf609E7C374Ee82001C3C9834C63d8c8CC6eD7777, added 2026-09-17T13:39:52.000Z (2.3h ago)
+2026-09-17 15:58:32,800 [INFO] NEW LISTING: Musebook (musebook) - $0.00013435906, mcap $n/a, platform Robinhood Chain, contract 0x91a2dae9699f0b82540b5886b0d8759c22820ba3, added 2026-09-17T13:36:04.000Z (2.4h ago)
+2026-09-17 15:58:32,800 [INFO] NEW LISTING: [Fake] Veranta (avantisfi.xyz) (AVNT) - $0.0023979721, mcap $n/a, platform Robinhood Chain, contract 0x3cae51882495b2a2dce68b062e5143245d2b7f5d, added 2026-09-17T13:24:46.000Z (2.6h ago)
+2026-09-17 15:58:32,800 [INFO] NEW LISTING: apM Fashion (APM) - $0.006449155, mcap $5,804,240, platform BNB Smart Chain (BEP20), contract 0x72a22fAA6a522C81A8F5d508381e18af3dA0921E, added 2026-09-14T08:59:22.000Z (79.0h ago)
+2026-09-17 15:58:32,803 [INFO] Detection pass: 4 new coin(s) inserted
+2026-09-17 15:58:32,962 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-09-17 15:58:32,962 [INFO] === Run finished ===
