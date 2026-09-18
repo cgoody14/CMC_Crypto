@@ -4162,3 +4162,10 @@
 2026-09-18 13:59:44,389 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-18 13:59:44,486 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-09-18 13:59:44,486 [INFO] === Run finished ===
+2026-09-18 17:35:58,302 [INFO] === Run started 2026-09-18T17:35:58.302188+00:00 ===
+2026-09-18 17:35:58,695 [INFO] Fetched 200 listings sorted by date_added
+2026-09-18 17:35:58,696 [INFO] NEW LISTING: Golden Kitty (goldenkitty.vip) (GOLDEN) - $0.0020244111, mcap $n/a, platform Robinhood Chain, contract 0x92e4B008161aC64a7D0C5e540F453F8e6B8Bd8D7, added 2026-09-18T14:11:24.000Z (3.4h ago)
+2026-09-18 17:35:58,696 [INFO] NEW LISTING: Vibes (VIBES) - $0.00094298443, mcap $n/a, platform Solana, contract viBEsohKdeaUgNhbB1j4NpsAm4Bg8LCCwYhkpb6UyNN, added 2026-09-18T14:10:03.000Z (3.4h ago)
+2026-09-18 17:35:58,698 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-18 17:35:58,837 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-09-18 17:35:58,837 [INFO] === Run finished ===
