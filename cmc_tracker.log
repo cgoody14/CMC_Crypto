@@ -4156,3 +4156,9 @@
 2026-09-18 09:45:13,488 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-18 09:45:13,678 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-09-18 09:45:13,678 [INFO] === Run finished ===
+2026-09-18 13:59:44,193 [INFO] === Run started 2026-09-18T13:59:44.193927+00:00 ===
+2026-09-18 13:59:44,384 [INFO] Fetched 200 listings sorted by date_added
+2026-09-18 13:59:44,385 [INFO] NEW LISTING: Maxi (MAXI) - $0.0013889746, mcap $1,306,233, platform Robinhood Chain, contract 0x7581ec9347669477711d146e0e43bddda474f415, added 2026-09-18T12:28:18.000Z (1.5h ago)
+2026-09-18 13:59:44,389 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-18 13:59:44,486 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-18 13:59:44,486 [INFO] === Run finished ===
