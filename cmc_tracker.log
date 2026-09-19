@@ -4200,3 +4200,9 @@
 2026-09-19 13:07:36,475 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-19 13:07:36,582 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-09-19 13:07:36,582 [INFO] === Run finished ===
+2026-09-19 16:27:48,794 [INFO] === Run started 2026-09-19T16:27:48.794327+00:00 ===
+2026-09-19 16:27:49,149 [INFO] Fetched 200 listings sorted by date_added
+2026-09-19 16:27:49,150 [INFO] NEW LISTING: Fairlaunch (FLX) - $0.015993126, mcap $n/a, platform Robinhood Chain, contract 0x0D4eD27a906a0774474B200Cc5392019facD2A47, added 2026-09-19T14:53:23.000Z (1.6h ago)
+2026-09-19 16:27:49,180 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-19 16:27:49,401 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-19 16:27:49,401 [INFO] === Run finished ===
