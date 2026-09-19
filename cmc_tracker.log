@@ -4189,3 +4189,9 @@
 2026-09-19 04:51:58,561 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-19 04:51:58,747 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-09-19 04:51:58,747 [INFO] === Run finished ===
+2026-09-19 09:05:57,108 [INFO] === Run started 2026-09-19T09:05:57.108890+00:00 ===
+2026-09-19 09:06:02,769 [INFO] Fetched 200 listings sorted by date_added
+2026-09-19 09:06:02,770 [INFO] NEW LISTING: TYTAN (TYTAN) - $0.00020824945, mcap $n/a, platform Solana, contract BnYKTZjTf42u5G9qqsBBzYCuGZT8CvrGL3JuRcLnpump, added 2026-09-18T20:15:02.000Z (12.8h ago)
+2026-09-19 09:06:02,772 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-19 09:06:02,874 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-09-19 09:06:02,875 [INFO] === Run finished ===
