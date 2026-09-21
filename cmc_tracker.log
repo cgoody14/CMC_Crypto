@@ -4266,3 +4266,12 @@
 2026-09-21 01:43:21,184 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-21 01:43:21,462 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-09-21 01:43:21,462 [INFO] === Run finished ===
+2026-09-21 07:12:28,021 [INFO] === Run started 2026-09-21T07:12:28.021604+00:00 ===
+2026-09-21 07:12:28,208 [INFO] Fetched 200 listings sorted by date_added
+2026-09-21 07:12:28,209 [INFO] NEW LISTING: AlphaWin (AWIN) - $1.060131, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x46b30Db2C2FDC8925C891aA377e9e6f3Bc5FE4f5, added 2026-09-21T03:30:02.000Z (3.7h ago)
+2026-09-21 07:12:28,209 [INFO] NEW LISTING: Gno.land (GNOT) - $0.060721169, mcap $n/a, platform own chain, contract n/a, added 2026-09-21T03:19:37.000Z (3.9h ago)
+2026-09-21 07:12:28,209 [INFO] NEW LISTING: Gstock (GSTOCK) - $0.033888438, mcap $33,488,437, platform BNB Smart Chain (BEP20), contract 0xcAFdBCE93477261Db8250e42BdAe6E66733F9E20, added 2026-09-21T03:06:50.000Z (4.1h ago)
+2026-09-21 07:12:28,209 [INFO] NEW LISTING: Bitcoin Cash II (BCH2) - $0.049937605, mcap $n/a, platform own chain, contract n/a, added 2026-09-18T15:42:01.000Z (63.5h ago)
+2026-09-21 07:12:28,213 [INFO] Detection pass: 4 new coin(s) inserted
+2026-09-21 07:12:28,309 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-09-21 07:12:28,310 [INFO] === Run finished ===
