@@ -4275,3 +4275,10 @@
 2026-09-21 07:12:28,213 [INFO] Detection pass: 4 new coin(s) inserted
 2026-09-21 07:12:28,309 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-09-21 07:12:28,310 [INFO] === Run finished ===
+2026-09-21 14:08:16,833 [INFO] === Run started 2026-09-21T14:08:16.833678+00:00 ===
+2026-09-21 14:08:17,142 [INFO] Fetched 200 listings sorted by date_added
+2026-09-21 14:08:17,143 [INFO] NEW LISTING: Polymarket (Derivatives) (POLYMARKET) - $29.074483, mcap $n/a, platform own chain, contract n/a, added 2026-09-21T08:59:11.000Z (5.2h ago)
+2026-09-21 14:08:17,143 [INFO] NEW LISTING: 1 US Dollar (USD) to Brazil Real (BRL) (Derivatives) (USDBRL) - $5.140967, mcap $n/a, platform own chain, contract n/a, added 2026-09-19T13:51:37.000Z (48.3h ago)
+2026-09-21 14:08:17,146 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-21 14:08:17,315 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-09-21 14:08:17,315 [INFO] === Run finished ===
