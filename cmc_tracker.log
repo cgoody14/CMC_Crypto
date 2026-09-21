@@ -4287,3 +4287,10 @@
 2026-09-21 19:24:38,069 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-21 19:24:38,246 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-09-21 19:24:38,246 [INFO] === Run finished ===
+2026-09-21 22:41:09,700 [INFO] === Run started 2026-09-21T22:41:09.699979+00:00 ===
+2026-09-21 22:41:09,908 [INFO] Fetched 200 listings sorted by date_added
+2026-09-21 22:41:09,910 [INFO] NEW LISTING: Faze (FAZE) - $0.0013710619, mcap $n/a, platform Arc, contract 0x394D38F807eE0027A182216f5e67a15Ae441FA2E, added 2026-09-21T20:45:02.000Z (1.9h ago)
+2026-09-21 22:41:09,910 [INFO] NEW LISTING: NEFE Coin (NEFE) - $0.00058642392, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x8b953E1B3D563c40F688350EB859575Be0989FD7, added 2026-09-21T14:51:03.000Z (7.8h ago)
+2026-09-21 22:41:09,912 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-21 22:41:10,009 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-09-21 22:41:10,009 [INFO] === Run finished ===
