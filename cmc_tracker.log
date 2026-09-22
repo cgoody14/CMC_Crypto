@@ -4299,3 +4299,15 @@
 2026-09-22 01:10:17,058 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-22 01:10:17,226 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-09-22 01:10:17,226 [INFO] === Run finished ===
+2026-09-22 06:11:16,351 [INFO] === Run started 2026-09-22T06:11:16.351689+00:00 ===
+2026-09-22 06:11:16,687 [INFO] Fetched 200 listings sorted by date_added
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: High Growth Powered by BlackRock Tokenized Assets (Ondo) (BLKGRWon) - $5.170528, mcap $257,358, platform Ethereum, contract 0xc90341Cb9cb8D65AF044FaB23b659b7b4279399B, added 2026-09-22T04:36:40.000Z (1.6h ago)
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: AI Leaders Portfolio Tokenized Assets (Ondo) (BRAINon) - $5.4399831, mcap $531,818, platform Ethereum, contract 0x8D7A1FCFaf626f8db3852c12D4cdC863D9441283, added 2026-09-22T04:36:40.000Z (1.6h ago)
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: Magnificent 7 and Crypto Portfolio Tokenized Assets (Ondo) (MAG7Xon) - $5.6932226, mcap $1,055,356, platform Ethereum, contract 0xEE69f45715bfa6A4cffe2bB7e0D71093B9D58705, added 2026-09-22T04:36:40.000Z (1.6h ago)
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: Diversified Growth Powered by BlackRock Tokenized Assets (Ondo) (BLKDIGon) - $5.1082844, mcap $256,747, platform Ethereum, contract 0x6e17534A1Fc047907d8f422Ca166944d6469e053, added 2026-09-22T04:36:39.000Z (1.6h ago)
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: 8 Targeted Income TR Portfolio Tokenized Assets (Ondo) (YLD8on) - $5.0276792, mcap $506,438, platform Ethereum, contract 0xA045c4477fb0a0630A50e7915a7fb4d82eDE362B, added 2026-09-22T04:36:39.000Z (1.6h ago)
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: 5 Targeted Income TR Portfolio Tokenized Assets (Ondo) (YLD5on) - $5.0102338, mcap $505,694, platform Ethereum, contract 0x3D68E46bA86ebe702B2399245730DdE2f7e4B077, added 2026-09-22T04:36:38.000Z (1.6h ago)
+2026-09-22 06:11:16,689 [INFO] NEW LISTING: High Income Powered by BlackRock Tokenized Assets (Ondo) (BLKHIon) - $4.9923999, mcap $1,005,293, platform Ethereum, contract 0x787769d6Fc857169F5243ef66d3f0a954149d3BA, added 2026-09-22T04:36:37.000Z (1.6h ago)
+2026-09-22 06:11:16,692 [INFO] Detection pass: 7 new coin(s) inserted
+2026-09-22 06:11:16,852 [INFO] Tracking pass: 13 snapshot(s) recorded for 13 active coin(s)
+2026-09-22 06:11:16,853 [INFO] === Run finished ===
