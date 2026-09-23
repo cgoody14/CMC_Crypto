@@ -4343,3 +4343,14 @@
 2026-09-23 05:01:22,929 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-23 05:01:23,003 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
 2026-09-23 05:01:23,003 [INFO] === Run finished ===
+2026-09-23 09:56:53,505 [INFO] === Run started 2026-09-23T09:56:53.505004+00:00 ===
+2026-09-23 09:56:53,805 [INFO] Fetched 200 listings sorted by date_added
+2026-09-23 09:56:53,807 [INFO] NEW LISTING: Agrippa (AGRIPPA) - $6.5703618e-05, mcap $n/a, platform Robinhood Chain, contract 0x83a49b808f8d5e02cb2931cd2352988f498e5ba3, added 2026-09-23T07:52:41.000Z (2.1h ago)
+2026-09-23 09:56:53,807 [INFO] NEW LISTING: Matrix (matrix.app) (MTX) - $34.882657, mcap $n/a, platform Ethereum, contract 0x000025b3816630ad283267d4eB3a5FC8b0200000, added 2026-09-23T07:09:03.000Z (2.8h ago)
+2026-09-23 09:56:53,807 [INFO] NEW LISTING: Snap Tokenized Stock (Robinhood) (SNAP) - $5.6246502, mcap $n/a, platform Robinhood Chain, contract 0xf6589f11bc40b669e584073f428b05562f568733, added 2026-09-23T06:38:13.000Z (3.3h ago)
+2026-09-23 09:56:53,807 [INFO] NEW LISTING: IBM Tokenized Stock (Robinhood) (IBM) - $231.95039, mcap $n/a, platform Robinhood Chain, contract 0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619, added 2026-09-23T06:34:45.000Z (3.4h ago)
+2026-09-23 09:56:53,807 [INFO] NEW LISTING: Galaxy Digital Tokenized Stock (Robinhood) (GLXY) - $27.146026, mcap $n/a, platform Robinhood Chain, contract 0x2d427692e928fa156ec22acfabafa0447c5805b7, added 2026-09-23T06:29:45.000Z (3.5h ago)
+2026-09-23 09:56:53,807 [INFO] NEW LISTING: Oura Inc (Derivatives) (OURA) - $51.560989, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (5.4h ago)
+2026-09-23 09:56:53,809 [INFO] Detection pass: 6 new coin(s) inserted
+2026-09-23 09:56:54,006 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
+2026-09-23 09:56:54,006 [INFO] === Run finished ===
