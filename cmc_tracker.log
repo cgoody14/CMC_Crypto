@@ -4413,3 +4413,10 @@
 2026-09-25 04:54:51,199 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-25 04:54:51,262 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-09-25 04:54:51,262 [INFO] === Run finished ===
+2026-09-25 09:56:16,964 [INFO] === Run started 2026-09-25T09:56:16.964331+00:00 ===
+2026-09-25 09:56:17,331 [INFO] Fetched 200 listings sorted by date_added
+2026-09-25 09:56:17,332 [INFO] NEW LISTING: PANDAAI (PANDA) - $0.11197638, mcap $n/a, platform Ethereum, contract 0x95f9b3cE8073eA49e895e8D14759EcCa5e5a0d09, added 2026-09-25T08:18:12.000Z (1.6h ago)
+2026-09-25 09:56:17,332 [INFO] NEW LISTING: Catching Absolute Tops (catchingabsolutetops.com) (CAT) - $0.0002651165, mcap $n/a, platform Solana, contract 8erE7RkkoiGYJtCyQdfwMpnNA8cAkY14Xe6RYjjHAdKP, added 2026-09-25T08:03:03.000Z (1.9h ago)
+2026-09-25 09:56:17,338 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-25 09:56:17,473 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-09-25 09:56:17,473 [INFO] === Run finished ===
