@@ -4516,3 +4516,10 @@
 2026-09-28 15:57:14,127 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-28 15:57:14,234 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-09-28 15:57:14,234 [INFO] === Run finished ===
+2026-09-28 21:35:25,599 [INFO] === Run started 2026-09-28T21:35:25.599457+00:00 ===
+2026-09-28 21:35:25,992 [INFO] Fetched 200 listings sorted by date_added
+2026-09-28 21:35:25,993 [INFO] NEW LISTING: Nokia Oyj (Backpack) (NOK) - $10.056967, mcap $422,765, platform Solana, contract N7Q5fYX7YRnDQksfdBKnoUb3awm92n7QNAD35X3Rq1X, added 2026-09-28T20:28:16.000Z (1.1h ago)
+2026-09-28 21:35:25,993 [INFO] NEW LISTING: ishares MSCI South Korea tokenized ETF (Backpack) (EWY) - $181.99099, mcap $90,528, platform Solana, contract EWY4owSJYMpwN33qGDu5gGxpkQkpMJu8ZUsQJaNZG5dv, added 2026-09-27T07:04:33.000Z (38.5h ago)
+2026-09-28 21:35:25,996 [INFO] Detection pass: 2 new coin(s) inserted
+2026-09-28 21:35:26,197 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-09-28 21:35:26,197 [INFO] === Run finished ===
