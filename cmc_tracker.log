@@ -4544,3 +4544,9 @@
 2026-09-29 14:02:24,379 [INFO] Detection pass: 6 new coin(s) inserted
 2026-09-29 14:02:24,566 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-09-29 14:02:24,566 [INFO] === Run finished ===
+2026-09-29 19:24:00,773 [INFO] === Run started 2026-09-29T19:24:00.773500+00:00 ===
+2026-09-29 19:24:01,119 [INFO] Fetched 200 listings sorted by date_added
+2026-09-29 19:24:01,120 [INFO] NEW LISTING: JUICE LEE (JUICELEE) - $6.8668307e-05, mcap $n/a, platform Solana, contract DsqWokHaPHi6p9TtkEFryf6qBQFxYkUiGss2sFnBpump, added 2026-09-29T17:21:04.000Z (2.0h ago)
+2026-09-29 19:24:01,123 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-29 19:24:01,306 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-29 19:24:01,306 [INFO] === Run finished ===
