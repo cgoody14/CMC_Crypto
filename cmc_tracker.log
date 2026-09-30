@@ -4560,3 +4560,9 @@
 2026-09-30 02:05:22,522 [INFO] Detection pass: 0 new coin(s) inserted
 2026-09-30 02:05:22,646 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-09-30 02:05:22,646 [INFO] === Run finished ===
+2026-09-30 08:29:35,994 [INFO] === Run started 2026-09-30T08:29:35.994932+00:00 ===
+2026-09-30 08:29:36,239 [INFO] Fetched 200 listings sorted by date_added
+2026-09-30 08:29:36,240 [INFO] NEW LISTING: Concrete (CT) - $0.25469744, mcap $n/a, platform Ethereum, contract 0x0a092e544da31150b439a1aaa1a3a2214a867f46, added 2026-09-08T22:17:44.000Z (514.2h ago)
+2026-09-30 08:29:36,278 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-30 08:29:36,388 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-09-30 08:29:36,388 [INFO] === Run finished ===
