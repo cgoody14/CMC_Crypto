@@ -4566,3 +4566,16 @@
 2026-09-30 08:29:36,278 [INFO] Detection pass: 1 new coin(s) inserted
 2026-09-30 08:29:36,388 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-09-30 08:29:36,388 [INFO] === Run finished ===
+2026-09-30 15:10:18,702 [INFO] === Run started 2026-09-30T15:10:18.702178+00:00 ===
+2026-09-30 15:10:18,952 [INFO] Fetched 200 listings sorted by date_added
+2026-09-30 15:10:18,953 [INFO] NEW LISTING: zipcoin (ZC) - $0.010042307, mcap $n/a, platform Ethereum, contract 0x4E67DB19044549fF420860834c91b45BaD298722, added 2026-09-30T09:13:41.000Z (5.9h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: SharonAI Tokenized bStocks (SHAZB) - $53.382051, mcap $396,334, platform BNB Smart Chain (BEP20), contract 0x0f31e21b7881f5583ea94ddbcb0bcaf22b1abeab, added 2026-09-29T10:59:43.000Z (28.2h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: Zoom Tokenized bStocks (ZMB) - $93.322622, mcap $389,660, platform BNB Smart Chain (BEP20), contract 0xf4ddb292fe88e476eddd9869d386705e6bfab7a2, added 2026-09-29T10:53:42.000Z (28.3h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: Wendy's Tokenized bStocks (WENB) - $6.5924106, mcap $494,790, platform BNB Smart Chain (BEP20), contract 0xded1c5fb38c262beb9cff1e1116eff3c5bf278cd, added 2026-09-29T10:49:35.000Z (28.3h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: Forward Industries Tokenized bStocks (FWDIB) - $8.0216736, mcap $387,891, platform BNB Smart Chain (BEP20), contract 0x83f1a739fae6517c4672c5e10c8ea918925eb584, added 2026-09-29T10:29:46.000Z (28.7h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: Hewlett Packard Tokenized bStocks (HPEB) - $66.025323, mcap $423,017, platform BNB Smart Chain (BEP20), contract 0xd56eb30d2ea7b5866dc0066d33bbaab36f7e8860, added 2026-09-29T10:26:25.000Z (28.7h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: Adobe Tokenized bStocks (ADBEB) - $236.91888, mcap $1,043,454, platform BNB Smart Chain (BEP20), contract 0x65c0249d49e3231540fd0db0a1ae9259e6eaaf57, added 2026-09-29T10:23:13.000Z (28.8h ago)
+2026-09-30 15:10:18,954 [INFO] NEW LISTING: PDD Holdings Tokenized bStocks (PDDB) - $77.125292, mcap $1,057,219, platform BNB Smart Chain (BEP20), contract 0x95b0409679b55c31772daa2fb4bee7b125b77521, added 2026-09-29T10:19:28.000Z (28.8h ago)
+2026-09-30 15:10:18,957 [INFO] Detection pass: 8 new coin(s) inserted
+2026-09-30 15:10:19,149 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-09-30 15:10:19,149 [INFO] === Run finished ===
