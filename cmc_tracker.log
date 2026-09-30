@@ -4579,3 +4579,9 @@
 2026-09-30 15:10:18,957 [INFO] Detection pass: 8 new coin(s) inserted
 2026-09-30 15:10:19,149 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-09-30 15:10:19,149 [INFO] === Run finished ===
+2026-09-30 19:59:27,315 [INFO] === Run started 2026-09-30T19:59:27.315294+00:00 ===
+2026-09-30 19:59:27,582 [INFO] Fetched 200 listings sorted by date_added
+2026-09-30 19:59:27,583 [INFO] NEW LISTING: Super Inu (SI) - $0.056349064, mcap $n/a, platform Solana, contract DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP, added 2026-09-30T17:04:36.000Z (2.9h ago)
+2026-09-30 19:59:27,585 [INFO] Detection pass: 1 new coin(s) inserted
+2026-09-30 19:59:27,764 [INFO] Tracking pass: 17 snapshot(s) recorded for 17 active coin(s)
+2026-09-30 19:59:27,764 [INFO] === Run finished ===
