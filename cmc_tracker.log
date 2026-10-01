@@ -4601,3 +4601,9 @@
 2026-10-01 09:11:53,074 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-01 09:11:53,193 [INFO] Tracking pass: 11 snapshot(s) recorded for 11 active coin(s)
 2026-10-01 09:11:53,193 [INFO] === Run finished ===
+2026-10-01 16:26:12,560 [INFO] === Run started 2026-10-01T16:26:12.560384+00:00 ===
+2026-10-01 16:26:12,948 [INFO] Fetched 200 listings sorted by date_added
+2026-10-01 16:26:12,949 [INFO] NEW LISTING: CZR Token (CZR) - $0.063999869, mcap $n/a, platform Ethereum, contract 0xfeD863B6A995BE69c2BBc5089BcDa5414793CE24, added 2026-09-18T13:09:02.000Z (315.3h ago)
+2026-10-01 16:26:12,952 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-01 16:26:13,113 [INFO] Tracking pass: 3 snapshot(s) recorded for 4 active coin(s)
+2026-10-01 16:26:13,113 [INFO] === Run finished ===
