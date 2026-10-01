@@ -4607,3 +4607,9 @@
 2026-10-01 16:26:12,952 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-01 16:26:13,113 [INFO] Tracking pass: 3 snapshot(s) recorded for 4 active coin(s)
 2026-10-01 16:26:13,113 [INFO] === Run finished ===
+2026-10-01 21:10:52,738 [INFO] === Run started 2026-10-01T21:10:52.738618+00:00 ===
+2026-10-01 21:10:52,983 [INFO] Fetched 200 listings sorted by date_added
+2026-10-01 21:10:52,985 [INFO] NEW LISTING: FUSD (FUSD) - $0.99987171, mcap $n/a, platform Tron20, contract TB4ziMXwNpQYCYHvRQoyHFdDdPn3RMdFsS, added 2026-10-01T19:12:34.000Z (2.0h ago)
+2026-10-01 21:10:52,987 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-01 21:10:53,064 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-10-01 21:10:53,064 [INFO] === Run finished ===
