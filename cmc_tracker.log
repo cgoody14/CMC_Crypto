@@ -4595,3 +4595,9 @@
 2026-10-01 02:24:53,989 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-01 02:24:54,232 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
 2026-10-01 02:24:54,232 [INFO] === Run finished ===
+2026-10-01 09:11:52,797 [INFO] === Run started 2026-10-01T09:11:52.797463+00:00 ===
+2026-10-01 09:11:53,071 [INFO] Fetched 200 listings sorted by date_added
+2026-10-01 09:11:53,072 [INFO] NEW LISTING: Open USD (OUSD) - $0.9995903, mcap $n/a, platform Tempo, contract 0x20c0000000000000000000006a37DA5C996874BE, added 2026-10-01T03:22:35.000Z (5.8h ago)
+2026-10-01 09:11:53,074 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-01 09:11:53,193 [INFO] Tracking pass: 11 snapshot(s) recorded for 11 active coin(s)
+2026-10-01 09:11:53,193 [INFO] === Run finished ===
