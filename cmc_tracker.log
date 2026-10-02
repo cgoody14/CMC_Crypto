@@ -4625,3 +4625,9 @@
 2026-10-02 06:29:52,672 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-02 06:29:52,824 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-10-02 06:29:52,824 [INFO] === Run finished ===
+2026-10-02 13:02:40,964 [INFO] === Run started 2026-10-02T13:02:40.964198+00:00 ===
+2026-10-02 13:02:41,236 [INFO] Fetched 200 listings sorted by date_added
+2026-10-02 13:02:41,237 [INFO] NEW LISTING: H100 Group AB (Derivatives) (H100) - $2.6772682, mcap $n/a, platform own chain, contract n/a, added 2026-10-01T05:31:28.000Z (31.5h ago)
+2026-10-02 13:02:41,239 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-02 13:02:41,390 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-10-02 13:02:41,390 [INFO] === Run finished ===
