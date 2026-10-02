@@ -4618,3 +4618,10 @@
 2026-10-02 00:45:45,907 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-02 00:45:46,044 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-02 00:45:46,044 [INFO] === Run finished ===
+2026-10-02 06:29:52,413 [INFO] === Run started 2026-10-02T06:29:52.413772+00:00 ===
+2026-10-02 06:29:52,669 [INFO] Fetched 200 listings sorted by date_added
+2026-10-02 06:29:52,670 [INFO] NEW LISTING: Dolphin (POD) - $0.73142524, mcap $61,159,304, platform Base, contract 0xed664536023d8e4b1640c394777d34abaff1df8f, added 2026-10-02T05:05:29.000Z (1.4h ago)
+2026-10-02 06:29:52,670 [INFO] NEW LISTING: HoodPork (PORKU) - $0.031188091, mcap $n/a, platform Robinhood Chain, contract 0xf4c5015bbeaa89cb6c60b0ecafea05351533f4cd, added 2026-10-02T04:24:45.000Z (2.1h ago)
+2026-10-02 06:29:52,672 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-02 06:29:52,824 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-10-02 06:29:52,824 [INFO] === Run finished ===
