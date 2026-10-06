@@ -4739,3 +4739,9 @@
 2026-10-06 16:48:33,126 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-06 16:48:33,252 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-10-06 16:48:33,252 [INFO] === Run finished ===
+2026-10-06 21:24:21,728 [INFO] === Run started 2026-10-06T21:24:21.728611+00:00 ===
+2026-10-06 21:24:21,959 [INFO] Fetched 200 listings sorted by date_added
+2026-10-06 21:24:21,960 [INFO] NEW LISTING: United Microelectronics Corporation (Derivatives) (UMC) - $23.227017, mcap $n/a, platform own chain, contract n/a, added 2026-10-06T18:21:29.000Z (3.0h ago)
+2026-10-06 21:24:21,962 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-06 21:24:22,060 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-10-06 21:24:22,060 [INFO] === Run finished ===
