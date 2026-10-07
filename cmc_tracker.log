@@ -4750,3 +4750,9 @@
 2026-10-07 00:52:20,662 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-07 00:52:20,761 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-10-07 00:52:20,762 [INFO] === Run finished ===
+2026-10-07 06:44:51,826 [INFO] === Run started 2026-10-07T06:44:51.826901+00:00 ===
+2026-10-07 06:44:52,160 [INFO] Fetched 200 listings sorted by date_added
+2026-10-07 06:44:52,161 [INFO] NEW LISTING: NEARKAT (nearkat.xyz) (NEARKAT) - $0.0031429088, mcap $n/a, platform Solana, contract 6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr, added 2026-10-07T03:12:02.000Z (3.5h ago)
+2026-10-07 06:44:52,163 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-07 06:44:52,363 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-10-07 06:44:52,363 [INFO] === Run finished ===
