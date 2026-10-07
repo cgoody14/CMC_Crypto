@@ -4756,3 +4756,27 @@
 2026-10-07 06:44:52,163 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-07 06:44:52,363 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-07 06:44:52,363 [INFO] === Run finished ===
+2026-10-07 13:58:35,459 [INFO] === Run started 2026-10-07T13:58:35.459581+00:00 ===
+2026-10-07 13:58:35,695 [INFO] Fetched 200 listings sorted by date_added
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Microsoft Corporation Tokenized Stock (Coinbase) (MSFTc) - $526.81108, mcap $n/a, platform Base, contract 0xB200000000000000000000Ab99cFa739E253872B, added 2026-10-07T10:50:28.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Tesla Inc. Tokenized Stock (Coinbase) (TSLAc) - $377.03513, mcap $n/a, platform Base, contract 0xb2000000000000000000001e800a7f5189430cD0, added 2026-10-07T10:50:27.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Hims & Hers Health, Inc. Tokenized Stock (Coinbase) (HIMSc) - $28.996916, mcap $n/a, platform Base, contract 0xB20000000000000000000043a599976181Bcf336, added 2026-10-07T10:50:26.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Space Exploration Technologies Corp. Tokenized Stock (Coinbase) (SPCXc) - $168.26144, mcap $n/a, platform Base, contract 0xb2000000000000000000007b9fcbd005511aCBd5, added 2026-10-07T10:50:26.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Sandisk Corporation Tokenized Stock (Coinbase) (SNDKc) - $1648.9728, mcap $n/a, platform Base, contract 0xb200000000000000000000397293Cb8cda9a10c5, added 2026-10-07T10:50:23.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Advanced Micro Devices, Inc. Tokenized Stock (Coinbase) (AMDc) - $651.56921, mcap $n/a, platform Base, contract 0xB2000000000000000000000d8ce462E99ee7A47B, added 2026-10-07T10:50:21.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Strategy Inc. Tokenized Stock (Coinbase) (MSTRc) - $156.27601, mcap $n/a, platform Base, contract 0xb2000000000000000000004884b426556b92883d, added 2026-10-07T10:50:19.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: Palantir Technologies Inc. Tokenized Stock (Coinbase) (PLTRc) - $191.6021, mcap $n/a, platform Base, contract 0xb2000000000000000000007d16372840dF4dAbbe, added 2026-10-07T10:50:17.000Z (3.1h ago)
+2026-10-07 13:58:35,697 [INFO] NEW LISTING: NVIDIA Corporation Tokenized Stock (Coinbase) (NVDAc) - $238.11254, mcap $n/a, platform Base, contract 0xb20000000000000000000078ee7ce2fE4908108C, added 2026-10-07T10:50:17.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Meta Platforms Inc. Tokenized Stock (Coinbase) (METAc) - $722.52801, mcap $n/a, platform Base, contract 0xb2000000000000000000008bC8786B856E61707C, added 2026-10-07T10:50:09.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Hertz Global Holdings, Inc. Tokenized Stock (Coinbase) (HTZc) - $2.0679418, mcap $n/a, platform Base, contract 0xb2000000000000000000002601C5C94F435da168, added 2026-10-07T10:50:07.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Micron Technology Inc. Tokenized Stock (Coinbase) (MUc) - $1025.4545, mcap $n/a, platform Base, contract 0xb200000000000000000000Fd2f87532B90095211, added 2026-10-07T10:50:06.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Apple Inc. Tokenized Stock (Coinbase) (AAPLc) - $333.58942, mcap $n/a, platform Base, contract 0xb200000000000000000000C2e324d24d7eEcd1fb, added 2026-10-07T10:50:04.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Amazon.com Inc. Tokenized Stock (Coinbase) (AMZNc) - $254.48419, mcap $n/a, platform Base, contract 0xb200000000000000000000d9192b6B456483C2E8, added 2026-10-07T10:50:03.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Alphabet Inc. Tokenized Stock (Coinbase) (GOOGLc) - $345.48632, mcap $n/a, platform Base, contract 0xb2000000000000000000002D0BA3164cc74f58B7, added 2026-10-07T10:50:02.000Z (3.1h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: StablecoinX Tokenized bStocks (USDEB) - $13.247621, mcap $658,765, platform BNB Smart Chain (BEP20), contract 0xdfd3ba51d4591f243481a6f26059d1a5ee95252f, added 2026-10-07T06:14:56.000Z (7.7h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Eli Lilly Tokenized bStocks (LLYB) - $1181.7318, mcap $657,963, platform BNB Smart Chain (BEP20), contract 0x5407912f1aa4b9e05cbe6abeb9721547a643ec6b, added 2026-10-07T06:10:07.000Z (7.8h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: Securitize Tokenized bStocks (SECZB) - $12.114547, mcap $429,151, platform BNB Smart Chain (BEP20), contract 0x32c980f38907ace4fac643c3765d9b32842af60f, added 2026-10-07T06:06:38.000Z (7.9h ago)
+2026-10-07 13:58:35,698 [INFO] NEW LISTING: JPMorgan Chase Tokenized bStocks (JPMB) - $326.06652, mcap $635,777, platform BNB Smart Chain (BEP20), contract 0xbd49d695ba2cc46c8c603eb62afcd7fff4698281, added 2026-10-07T05:58:49.000Z (8.0h ago)
+2026-10-07 13:58:35,700 [INFO] Detection pass: 19 new coin(s) inserted
+2026-10-07 13:58:35,825 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
+2026-10-07 13:58:35,825 [INFO] === Run finished ===
