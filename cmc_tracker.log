@@ -4780,3 +4780,10 @@
 2026-10-07 13:58:35,700 [INFO] Detection pass: 19 new coin(s) inserted
 2026-10-07 13:58:35,825 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
 2026-10-07 13:58:35,825 [INFO] === Run finished ===
+2026-10-07 19:46:40,534 [INFO] === Run started 2026-10-07T19:46:40.534071+00:00 ===
+2026-10-07 19:46:40,828 [INFO] Fetched 200 listings sorted by date_added
+2026-10-07 19:46:40,829 [INFO] NEW LISTING: GameStop Corp. Tokenized Stock (Coinbase) (GMEc) - $22.544397, mcap $n/a, platform Base, contract 0xb2000000000000000000007790ed6E48e06eD935, added 2026-10-07T10:50:16.000Z (8.9h ago)
+2026-10-07 19:46:40,829 [INFO] NEW LISTING: Eli Lilly & Co Tokenized Stock (Coinbase) (LLYc) - $1122.9812, mcap $n/a, platform Base, contract 0xB200000000000000000000f1a0F91e34892E4718, added 2026-10-07T10:50:06.000Z (8.9h ago)
+2026-10-07 19:46:40,832 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-07 19:46:40,962 [INFO] Tracking pass: 23 snapshot(s) recorded for 23 active coin(s)
+2026-10-07 19:46:40,962 [INFO] === Run finished ===
