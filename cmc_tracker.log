@@ -4787,3 +4787,9 @@
 2026-10-07 19:46:40,832 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-07 19:46:40,962 [INFO] Tracking pass: 23 snapshot(s) recorded for 23 active coin(s)
 2026-10-07 19:46:40,962 [INFO] === Run finished ===
+2026-10-07 23:56:56,077 [INFO] === Run started 2026-10-07T23:56:56.077552+00:00 ===
+2026-10-07 23:56:56,475 [INFO] Fetched 200 listings sorted by date_added
+2026-10-07 23:56:56,476 [INFO] NEW LISTING: Jean Phil (JEANPHIL) - $0.0040068218, mcap $n/a, platform Solana, contract GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump, added 2026-10-07T20:48:03.000Z (3.1h ago)
+2026-10-07 23:56:56,478 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-07 23:56:56,629 [INFO] Tracking pass: 24 snapshot(s) recorded for 24 active coin(s)
+2026-10-07 23:56:56,629 [INFO] === Run finished ===
