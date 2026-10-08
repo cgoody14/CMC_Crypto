@@ -4799,3 +4799,10 @@
 2026-10-08 04:25:44,650 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-08 04:25:44,764 [INFO] Tracking pass: 25 snapshot(s) recorded for 25 active coin(s)
 2026-10-08 04:25:44,764 [INFO] === Run finished ===
+2026-10-08 11:30:36,440 [INFO] === Run started 2026-10-08T11:30:36.440295+00:00 ===
+2026-10-08 11:30:36,736 [INFO] Fetched 200 listings sorted by date_added
+2026-10-08 11:30:36,736 [INFO] NEW LISTING: Reddit, Inc. Tokenized Stock (Coinbase) (RDDTc) - $144.13299, mcap $56,948, platform Base, contract 0xb20000000000000000000066242d4067724cB7A1, added 2026-10-08T03:59:48.000Z (7.5h ago)
+2026-10-08 11:30:36,737 [INFO] NEW LISTING: staked ETH (steth.pro) (STETH) - $2538.5437, mcap $n/a, platform Base, contract 0x000000000493a27D6c7e4a6745B1f800013e2AcA, added 2026-09-14T06:45:03.000Z (580.8h ago)
+2026-10-08 11:30:36,739 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-08 11:30:36,927 [INFO] Tracking pass: 26 snapshot(s) recorded for 26 active coin(s)
+2026-10-08 11:30:36,927 [INFO] === Run finished ===
