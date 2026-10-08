@@ -4793,3 +4793,9 @@
 2026-10-07 23:56:56,478 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-07 23:56:56,629 [INFO] Tracking pass: 24 snapshot(s) recorded for 24 active coin(s)
 2026-10-07 23:56:56,629 [INFO] === Run finished ===
+2026-10-08 04:25:44,448 [INFO] === Run started 2026-10-08T04:25:44.448048+00:00 ===
+2026-10-08 04:25:44,646 [INFO] Fetched 200 listings sorted by date_added
+2026-10-08 04:25:44,648 [INFO] NEW LISTING: Netflix Inc Tokenized Stock (Coinbase) (NFLXc) - $64.958406, mcap $52,622, platform Base, contract 0xb20000000000000000000058B8c947e44011dFE6, added 2026-10-08T04:00:03.000Z (0.4h ago)
+2026-10-08 04:25:44,650 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-08 04:25:44,764 [INFO] Tracking pass: 25 snapshot(s) recorded for 25 active coin(s)
+2026-10-08 04:25:44,764 [INFO] === Run finished ===
