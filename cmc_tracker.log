@@ -4806,3 +4806,10 @@
 2026-10-08 11:30:36,739 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-08 11:30:36,927 [INFO] Tracking pass: 26 snapshot(s) recorded for 26 active coin(s)
 2026-10-08 11:30:36,927 [INFO] === Run finished ===
+2026-10-08 17:59:40,538 [INFO] === Run started 2026-10-08T17:59:40.538839+00:00 ===
+2026-10-08 17:59:40,731 [INFO] Fetched 200 listings sorted by date_added
+2026-10-08 17:59:40,733 [INFO] NEW LISTING: Whuffie (WHUF) - $3.6410788, mcap $n/a, platform Base, contract 0xeeee77bc7e82c0d4166d52f58239d4c5bf41eeee, added 2026-10-08T06:25:24.000Z (11.6h ago)
+2026-10-08 17:59:40,733 [INFO] NEW LISTING: Marvell Technology, Inc. Tokenized Stock (Coinbase) (MRVLc) - $410.73812, mcap $2,480, platform Base, contract 0xB200000000000000000000eC3c4c7395Cc609813, added 2026-10-08T03:59:43.000Z (14.0h ago)
+2026-10-08 17:59:40,735 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-08 17:59:40,855 [INFO] Tracking pass: 28 snapshot(s) recorded for 28 active coin(s)
+2026-10-08 17:59:40,855 [INFO] === Run finished ===
