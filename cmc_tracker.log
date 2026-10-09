@@ -4829,3 +4829,12 @@
 2026-10-09 09:52:51,476 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-09 09:52:51,617 [INFO] Tracking pass: 23 snapshot(s) recorded for 23 active coin(s)
 2026-10-09 09:52:51,617 [INFO] === Run finished ===
+2026-10-09 16:43:52,304 [INFO] === Run started 2026-10-09T16:43:52.304419+00:00 ===
+2026-10-09 16:43:52,525 [INFO] Fetched 200 listings sorted by date_added
+2026-10-09 16:43:52,526 [INFO] NEW LISTING: Wendy's Co Tokenized Stock (Coinbase) (WENc) - $6.0518629, mcap $1,463, platform Base, contract 0xb20000000000000000000044e3cd7a0e1028e57a, added 2026-10-08T04:00:04.000Z (36.7h ago)
+2026-10-09 16:43:52,526 [INFO] NEW LISTING: Take-Two Interactive Software, Inc. Tokenized Stock (Coinbase) (TTWOc) - $212.4595, mcap $3,138, platform Base, contract 0xB200000000000000000000f720C26062Bc3067Da, added 2026-10-08T03:59:59.000Z (36.7h ago)
+2026-10-09 16:43:52,526 [INFO] NEW LISTING: Roblox Corporation Tokenized Stock (Coinbase) (RBLXc) - $48.694871, mcap $55,366, platform Base, contract 0xB2000000000000000000005bd7AE89b9E6189Bb5, added 2026-10-08T03:59:57.000Z (36.7h ago)
+2026-10-09 16:43:52,527 [INFO] NEW LISTING: PayPal Holdings, Inc. Tokenized Stock (Coinbase) (PYPLc) - $58.0958, mcap $9,357, platform Base, contract 0xb200000000000000000000450ad3abe5d4846c6e, added 2026-10-08T03:59:50.000Z (36.7h ago)
+2026-10-09 16:43:52,529 [INFO] Detection pass: 4 new coin(s) inserted
+2026-10-09 16:43:52,625 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-10-09 16:43:52,625 [INFO] === Run finished ===
