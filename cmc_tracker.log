@@ -4859,3 +4859,9 @@
 2026-10-10 07:02:25,474 [INFO] Detection pass: 5 new coin(s) inserted
 2026-10-10 07:02:25,475 [INFO] All previously-tracked coins have completed their 48h window
 2026-10-10 07:02:25,475 [INFO] === Run finished ===
+2026-10-10 13:37:04,380 [INFO] === Run started 2026-10-10T13:37:04.380013+00:00 ===
+2026-10-10 13:37:04,683 [INFO] Fetched 200 listings sorted by date_added
+2026-10-10 13:37:04,685 [INFO] NEW LISTING: AST SpaceMobile, Inc. Tokenized Stock (Coinbase) (ASTSc) - $54.816355, mcap $2,312, platform Base, contract 0xB200000000000000000000B1a29cF17A1819288a, added 2026-10-08T03:59:52.000Z (57.6h ago)
+2026-10-10 13:37:04,687 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-10 13:37:04,688 [INFO] All previously-tracked coins have completed their 48h window
+2026-10-10 13:37:04,688 [INFO] === Run finished ===
