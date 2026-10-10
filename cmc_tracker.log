@@ -4849,3 +4849,13 @@
 2026-10-10 01:03:20,164 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-10 01:03:20,294 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-10-10 01:03:20,294 [INFO] === Run finished ===
+2026-10-10 07:02:25,139 [INFO] === Run started 2026-10-10T07:02:25.139505+00:00 ===
+2026-10-10 07:02:25,470 [INFO] Fetched 200 listings sorted by date_added
+2026-10-10 07:02:25,471 [INFO] NEW LISTING: Pfizer Inc Tokenized Stock (Coinbase) (PFEc) - $143.09782, mcap $1,412, platform Base, contract 0xb20000000000000000000018fe7ec7d6dfeeb528, added 2026-10-08T03:59:57.000Z (51.0h ago)
+2026-10-10 07:02:25,471 [INFO] NEW LISTING: Moderna, Inc. Tokenized Stock (Coinbase) (MRNAc) - $207.45729, mcap $2,731, platform Base, contract 0xB200000000000000000000e215e9B76ecBA02468, added 2026-10-08T03:59:56.000Z (51.0h ago)
+2026-10-10 07:02:25,471 [INFO] NEW LISTING: Bloom Energy Corporation Tokenized Stock (Coinbase) (BEc) - $299.63636, mcap $2,135, platform Base, contract 0xb20000000000000000000016f9dfe862feBA122b, added 2026-10-08T03:59:52.000Z (51.0h ago)
+2026-10-10 07:02:25,472 [INFO] NEW LISTING: Quantum Computing Inc. Tokenized Stock (Coinbase) (QUBTc) - $8.1734428, mcap $2,347, platform Base, contract 0xb200000000000000000000CA425ab42e07C35bC3, added 2026-10-08T03:59:50.000Z (51.0h ago)
+2026-10-10 07:02:25,472 [INFO] NEW LISTING: Trump Media & Technology Group Corp. Tokenized Stock (Coinbase) (DJTc) - $8.076863, mcap $41,927, platform Base, contract 0xb200000000000000000000428E3a3eebBb20692B, added 2026-10-08T03:59:44.000Z (51.0h ago)
+2026-10-10 07:02:25,474 [INFO] Detection pass: 5 new coin(s) inserted
+2026-10-10 07:02:25,475 [INFO] All previously-tracked coins have completed their 48h window
+2026-10-10 07:02:25,475 [INFO] === Run finished ===
