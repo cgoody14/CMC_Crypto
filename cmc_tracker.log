@@ -4843,3 +4843,9 @@
 2026-10-09 21:19:16,646 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-09 21:19:17,184 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-10-09 21:19:17,184 [INFO] === Run finished ===
+2026-10-10 01:03:19,883 [INFO] === Run started 2026-10-10T01:03:19.883569+00:00 ===
+2026-10-10 01:03:20,161 [INFO] Fetched 200 listings sorted by date_added
+2026-10-10 01:03:20,162 [INFO] NEW LISTING: Broadcom Inc. Tokenized Stock (Coinbase) (AVGOc) - $371.74241, mcap $99,327, platform Base, contract 0xB200000000000000000000Fc737aeA6196aB5a4c, added 2026-10-08T03:59:46.000Z (45.1h ago)
+2026-10-10 01:03:20,164 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-10 01:03:20,294 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-10-10 01:03:20,294 [INFO] === Run finished ===
