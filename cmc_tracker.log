@@ -4913,3 +4913,12 @@
 2026-10-12 06:31:09,632 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-12 06:31:09,717 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-10-12 06:31:09,717 [INFO] === Run finished ===
+2026-10-12 16:06:07,763 [INFO] === Run started 2026-10-12T16:06:07.763581+00:00 ===
+2026-10-12 16:06:07,928 [INFO] Fetched 200 listings sorted by date_added
+2026-10-12 16:06:07,930 [INFO] NEW LISTING: Incentiv (CENT) - $0.0043362406, mcap $42,505,565, platform BNB Smart Chain (BEP20), contract 0x1E9A8531548aEd9b7fb83e80eF66422d182998C3, added 2026-10-12T13:55:22.000Z (2.2h ago)
+2026-10-12 16:06:07,930 [INFO] NEW LISTING: Synopsys Inc (Derivatives) (SNPS) - $502.41935, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (467.5h ago)
+2026-10-12 16:06:07,930 [INFO] NEW LISTING: T-Rex 2X Long MSTR Daily Target ETF (Derivatives) (MSTU) - $39.721867, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (467.5h ago)
+2026-10-12 16:06:07,930 [INFO] NEW LISTING: Zcash ETF (Derivatives) (ZCSH) - $33.801665, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (467.5h ago)
+2026-10-12 16:06:07,932 [INFO] Detection pass: 4 new coin(s) inserted
+2026-10-12 16:06:08,058 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-10-12 16:06:08,058 [INFO] === Run finished ===
