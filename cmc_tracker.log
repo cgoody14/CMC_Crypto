@@ -4907,3 +4907,9 @@
 2026-10-12 00:39:40,644 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-12 00:39:40,818 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-10-12 00:39:40,818 [INFO] === Run finished ===
+2026-10-12 06:31:09,311 [INFO] === Run started 2026-10-12T06:31:09.311623+00:00 ===
+2026-10-12 06:31:09,629 [INFO] Fetched 200 listings sorted by date_added
+2026-10-12 06:31:09,630 [INFO] NEW LISTING: YAODIE (妖蝶) - $0.024790785, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x82741f086B0D87B1430400ea259d703C5dC37777, added 2026-10-12T04:27:13.000Z (2.1h ago)
+2026-10-12 06:31:09,632 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-12 06:31:09,717 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-10-12 06:31:09,717 [INFO] === Run finished ===
