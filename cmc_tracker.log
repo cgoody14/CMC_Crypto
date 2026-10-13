@@ -4939,3 +4939,14 @@
 2026-10-13 10:51:38,682 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-13 10:51:38,809 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-10-13 10:51:38,809 [INFO] === Run finished ===
+2026-10-13 17:52:35,647 [INFO] === Run started 2026-10-13T17:52:35.646992+00:00 ===
+2026-10-13 17:52:35,896 [INFO] Fetched 200 listings sorted by date_added
+2026-10-13 17:52:35,898 [INFO] NEW LISTING: Sony Group Corporation Tokenized Stock (Coinbase) (SONYc) - $24.515241, mcap $n/a, platform Base, contract 0xb200000000000000000000a26326a922ffa87f6c, added 2026-10-13T15:35:20.000Z (2.3h ago)
+2026-10-13 17:52:35,898 [INFO] NEW LISTING: Arm Holdings plc Tokenized Stock (Coinbase) (ARMc) - $248.76043, mcap $n/a, platform Base, contract 0xB20000000000000000000026215D755356E5043f, added 2026-10-13T15:35:17.000Z (2.3h ago)
+2026-10-13 17:52:35,898 [INFO] NEW LISTING: Nokia Corporation Tokenized Stock (Coinbase) (NOKc) - $9.6560229, mcap $n/a, platform Base, contract 0xB2000000000000000000005ac674f707E357409c, added 2026-10-13T15:35:16.000Z (2.3h ago)
+2026-10-13 17:52:35,898 [INFO] NEW LISTING: Sea Limited Tokenized Stock (Coinbase) (SEc) - $96.08023, mcap $n/a, platform Base, contract 0xb2000000000000000000003088798f6d0722aaac, added 2026-10-13T15:35:15.000Z (2.3h ago)
+2026-10-13 17:52:35,898 [INFO] NEW LISTING: SK hynix Inc. Tokenized Stock (Coinbase) (SKHYc) - $155.75689, mcap $n/a, platform Base, contract 0xb200000000000000000000187f7071d6e321a7d2, added 2026-10-13T15:35:08.000Z (2.3h ago)
+2026-10-13 17:52:35,898 [INFO] NEW LISTING: VAYLA (VAYLA) - $0.23257698, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x3b6b2593475FC2Bf546F237Fd401D63a655cE53f, added 2026-10-13T15:33:30.000Z (2.3h ago)
+2026-10-13 17:52:35,901 [INFO] Detection pass: 6 new coin(s) inserted
+2026-10-13 17:52:36,052 [INFO] Tracking pass: 11 snapshot(s) recorded for 11 active coin(s)
+2026-10-13 17:52:36,052 [INFO] === Run finished ===
