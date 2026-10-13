@@ -4932,3 +4932,10 @@
 2026-10-13 03:18:53,160 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-13 03:18:53,342 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-10-13 03:18:53,342 [INFO] === Run finished ===
+2026-10-13 10:51:38,420 [INFO] === Run started 2026-10-13T10:51:38.420570+00:00 ===
+2026-10-13 10:51:38,678 [INFO] Fetched 200 listings sorted by date_added
+2026-10-13 10:51:38,680 [INFO] NEW LISTING: Crawlerpad (CRAWLER) - $0.021614473, mcap $n/a, platform Solana, contract CQCDTp8rsFV3PhaPeYjcCW5LdGTxi6jFx7eC3UXnpump, added 2026-10-13T10:24:50.000Z (0.4h ago)
+2026-10-13 10:51:38,680 [INFO] NEW LISTING: RWUSD (RWUSD) - $0.99869444, mcap $4,323,730,654, platform own chain, contract n/a, added 2026-10-13T04:08:47.000Z (6.7h ago)
+2026-10-13 10:51:38,682 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-13 10:51:38,809 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-10-13 10:51:38,809 [INFO] === Run finished ===
