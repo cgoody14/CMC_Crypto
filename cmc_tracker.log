@@ -4986,3 +4986,11 @@
 2026-10-14 20:16:00,166 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-14 20:16:00,327 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-10-14 20:16:00,327 [INFO] === Run finished ===
+2026-10-14 23:19:58,821 [INFO] === Run started 2026-10-14T23:19:58.821720+00:00 ===
+2026-10-14 23:19:59,278 [INFO] Fetched 200 listings sorted by date_added
+2026-10-14 23:19:59,279 [INFO] NEW LISTING: Jio Platforms Ltd. (Derivatives) (JIO) - $11.882922, mcap $n/a, platform own chain, contract n/a, added 2026-10-14T13:54:24.000Z (9.4h ago)
+2026-10-14 23:19:59,280 [INFO] NEW LISTING: Chipotle Mexican Grill Inc (Backpack) (CMG) - $30.366146, mcap $n/a, platform Solana, contract CMGi497VQA9RiHVWpQi5B847vN8RLaEwcMhB5kEUhkAQ, added 2026-09-28T20:28:16.000Z (386.9h ago)
+2026-10-14 23:19:59,280 [INFO] NEW LISTING: Riot Platforms (Backpack) (RIOT) - $14.920818, mcap $n/a, platform Solana, contract RUKx7nBgm94pwRPbVm99xYVdcTDTUyGs8Cw3VSYQXHf, added 2026-09-28T20:28:16.000Z (386.9h ago)
+2026-10-14 23:19:59,281 [INFO] Detection pass: 3 new coin(s) inserted
+2026-10-14 23:19:59,456 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-10-14 23:19:59,456 [INFO] === Run finished ===
