@@ -4972,3 +4972,12 @@
 2026-10-14 11:46:25,615 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-14 11:46:25,695 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-10-14 11:46:25,695 [INFO] === Run finished ===
+2026-10-14 16:15:22,735 [INFO] === Run started 2026-10-14T16:15:22.735139+00:00 ===
+2026-10-14 16:15:22,944 [INFO] Fetched 200 listings sorted by date_added
+2026-10-14 16:15:22,945 [INFO] NEW LISTING: ProShares Ultra VIX Short-Term Futures ETF  Tokenized bStocks (UVXYB) - $16.372703, mcap $415,331, platform BNB Smart Chain (BEP20), contract 0x63ba610118fff2d6b6052cb681dcfab78cea1aa9, added 2026-10-12T15:37:14.000Z (48.6h ago)
+2026-10-14 16:15:22,945 [INFO] NEW LISTING: Penguin Solutions Tokenized bStocks (PENGB) - $70.02388, mcap $951,999, platform BNB Smart Chain (BEP20), contract 0x7f732f9d2f2ea3e7e223c2e737e5257007f90e01, added 2026-10-12T15:34:10.000Z (48.7h ago)
+2026-10-14 16:15:22,945 [INFO] NEW LISTING: Mongodb Tokenized bStocks (MDBB) - $366.88391, mcap $782,122, platform BNB Smart Chain (BEP20), contract 0x2e4127e92ebc1b7909267a820c9cb508373e5a5c, added 2026-10-12T15:31:04.000Z (48.7h ago)
+2026-10-14 16:15:22,945 [INFO] NEW LISTING: Blackberry Tokenized bStocks (BBB) - $8.1499271, mcap $953,140, platform BNB Smart Chain (BEP20), contract 0xcbb733b3dccbb983e49baac52abe7bc3a8e85a4f, added 2026-10-12T15:28:40.000Z (48.8h ago)
+2026-10-14 16:15:22,949 [INFO] Detection pass: 4 new coin(s) inserted
+2026-10-14 16:15:23,127 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-10-14 16:15:23,127 [INFO] === Run finished ===
