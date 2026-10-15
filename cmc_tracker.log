@@ -5007,3 +5007,18 @@
 2026-10-15 06:26:18,594 [INFO] Detection pass: 3 new coin(s) inserted
 2026-10-15 06:26:18,778 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
 2026-10-15 06:26:18,778 [INFO] === Run finished ===
+2026-10-15 11:52:02,226 [INFO] === Run started 2026-10-15T11:52:02.226287+00:00 ===
+2026-10-15 11:52:02,494 [INFO] Fetched 200 listings sorted by date_added
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Corvantis (corvantistoken.com) (CRVT) - $0.065051257, mcap $n/a, platform Arbitrum, contract 0xCfA9eCbbD834869fB0dea56434b924f4dD5496B1, added 2026-10-15T10:39:02.000Z (1.2h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: ATEG.DV (ATEG) - $0.27014966, mcap $n/a, platform Ethereum, contract 0x9F2C87A306cEbFFC7f4D9aB5f10E4679b55AFcEB, added 2026-10-14T14:12:03.000Z (21.7h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Vale S.A. Tokenized Stock (Coinbase) (VALEc) - $12.845786, mcap $28,389, platform Base, contract 0xb20000000000000000000063376b142c0764b489, added 2026-10-14T03:37:00.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Novo Nordisk A/S Tokenized Stock (Coinbase) (NVOc) - $38.878048, mcap $30,325, platform Base, contract 0xb2000000000000000000008d5328e9208773dc58, added 2026-10-14T03:36:59.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: NIO Inc. Tokenized Stock (Coinbase) (NIOc) - $3.3998084, mcap $28,337, platform Base, contract 0xb2000000000000000000002d2b5dc53c61f1ba06, added 2026-10-14T03:36:56.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Banco Santander, S.A. Tokenized Stock (Coinbase) (SANc) - $13.598122, mcap $30,229, platform Base, contract 0xB20000000000000000000017BB66E9301E913A99, added 2026-10-14T03:36:56.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Bilibili Inc. Tokenized Stock (Coinbase) (BILIc) - $14.217191, mcap $30,126, platform Base, contract 0xb200000000000000000000ca7C6D1438e7245eb6, added 2026-10-14T03:36:53.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: SAP SE Tokenized Stock (Coinbase) (SAPc) - $222.04402, mcap $31,086, platform Base, contract 0xb200000000000000000000da6f64c306234127e0, added 2026-10-14T03:36:52.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Baidu, Inc. Tokenized Stock (Coinbase) (BIDUc) - $79.838396, mcap $28,103, platform Base, contract 0xb200000000000000000000d2b7d9aee52f6c6bef, added 2026-10-14T03:36:50.000Z (32.3h ago)
+2026-10-15 11:52:02,495 [INFO] NEW LISTING: Anheuser-Busch InBev SA/NV Tokenized Stock (Coinbase) (BUDc) - $81.558288, mcap $31,808, platform Base, contract 0xb200000000000000000000c36ce081dd09e86ca2, added 2026-10-14T03:36:48.000Z (32.3h ago)
+2026-10-15 11:52:02,499 [INFO] Detection pass: 10 new coin(s) inserted
+2026-10-15 11:52:02,644 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
+2026-10-15 11:52:02,644 [INFO] === Run finished ===
