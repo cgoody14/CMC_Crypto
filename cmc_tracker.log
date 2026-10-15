@@ -5022,3 +5022,12 @@
 2026-10-15 11:52:02,499 [INFO] Detection pass: 10 new coin(s) inserted
 2026-10-15 11:52:02,644 [INFO] Tracking pass: 21 snapshot(s) recorded for 21 active coin(s)
 2026-10-15 11:52:02,644 [INFO] === Run finished ===
+2026-10-15 16:03:08,798 [INFO] === Run started 2026-10-15T16:03:08.798950+00:00 ===
+2026-10-15 16:03:09,078 [INFO] Fetched 200 listings sorted by date_added
+2026-10-15 16:03:09,080 [INFO] NEW LISTING: Flip (useflip.io) (FLIP) - $0.0014680305, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x96e562b76905b3892f847776ba1a54883cde02bf, added 2026-10-15T14:24:02.000Z (1.7h ago)
+2026-10-15 16:03:09,080 [INFO] NEW LISTING: Hesai Group Tokenized Stock (Coinbase) (HSAIc) - $13.35682, mcap $27,689, platform Base, contract 0xb200000000000000000000f3049F4aa834b23b64, added 2026-10-14T03:37:01.000Z (36.4h ago)
+2026-10-15 16:03:09,080 [INFO] NEW LISTING: Infosys Limited Tokenized Stock (Coinbase) (INFYc) - $12.106127, mcap $33,631, platform Base, contract 0xb200000000000000000000F6b0417af5F52341FC, added 2026-10-14T03:36:59.000Z (36.4h ago)
+2026-10-15 16:03:09,080 [INFO] NEW LISTING: Li Auto Inc. Tokenized Stock (Coinbase) (LIc) - $11.497898, mcap $31,746, platform Base, contract 0xb200000000000000000000D61eFD9F54A23ef9eB, added 2026-10-14T03:36:54.000Z (36.4h ago)
+2026-10-15 16:03:09,083 [INFO] Detection pass: 4 new coin(s) inserted
+2026-10-15 16:03:09,187 [INFO] Tracking pass: 19 snapshot(s) recorded for 19 active coin(s)
+2026-10-15 16:03:09,187 [INFO] === Run finished ===
