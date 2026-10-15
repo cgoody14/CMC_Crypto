@@ -4999,3 +4999,11 @@
 2026-10-15 01:36:48,569 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-15 01:36:48,862 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-10-15 01:36:48,862 [INFO] === Run finished ===
+2026-10-15 06:26:18,349 [INFO] === Run started 2026-10-15T06:26:18.349015+00:00 ===
+2026-10-15 06:26:18,591 [INFO] Fetched 200 listings sorted by date_added
+2026-10-15 06:26:18,592 [INFO] NEW LISTING: WeRide Inc. Tokenized Stock (Coinbase) (WRDc) - $4.2025517, mcap $26,997, platform Base, contract 0xb200000000000000000000e88EFe88D8aDE3f0dA, added 2026-10-14T03:37:03.000Z (26.8h ago)
+2026-10-15 06:26:18,592 [INFO] NEW LISTING: Unilever Plc Tokenized Stock (Coinbase) (ULc) - $67.204069, mcap $32,594, platform Base, contract 0xB200000000000000000000349ef3Aa93a0897476, added 2026-10-14T03:37:02.000Z (26.8h ago)
+2026-10-15 06:26:18,592 [INFO] NEW LISTING: PDD Holdings Inc. Tokenized Stock (Coinbase) (PDDc) - $80.872787, mcap $30,166, platform Base, contract 0xb200000000000000000000c8a7223510467d8563, added 2026-10-14T03:36:55.000Z (26.8h ago)
+2026-10-15 06:26:18,594 [INFO] Detection pass: 3 new coin(s) inserted
+2026-10-15 06:26:18,778 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
+2026-10-15 06:26:18,778 [INFO] === Run finished ===
