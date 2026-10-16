@@ -5046,3 +5046,9 @@
 2026-10-16 00:54:47,301 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-16 00:54:47,453 [INFO] Tracking pass: 19 snapshot(s) recorded for 19 active coin(s)
 2026-10-16 00:54:47,454 [INFO] === Run finished ===
+2026-10-16 05:18:35,944 [INFO] === Run started 2026-10-16T05:18:35.944884+00:00 ===
+2026-10-16 05:18:36,240 [INFO] Fetched 200 listings sorted by date_added
+2026-10-16 05:18:36,241 [INFO] NEW LISTING: Six Seven AI (67AI) - $0.00017694626, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x04f750A7ae4aFDbE79148731B4a69bAC3B0a1b22, added 2026-10-16T00:00:02.000Z (5.3h ago)
+2026-10-16 05:18:36,247 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-16 05:18:36,372 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
+2026-10-16 05:18:36,372 [INFO] === Run finished ===
