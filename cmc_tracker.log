@@ -5065,3 +5065,9 @@
 2026-10-16 14:40:54,323 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-16 14:40:54,448 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-16 14:40:54,448 [INFO] === Run finished ===
+2026-10-16 18:21:04,820 [INFO] === Run started 2026-10-16T18:21:04.820801+00:00 ===
+2026-10-16 18:21:05,087 [INFO] Fetched 200 listings sorted by date_added
+2026-10-16 18:21:05,088 [INFO] NEW LISTING: ESGIN Token (ESGIN) - $1.6841635, mcap $n/a, platform Ethereum, contract 0x9F293778c23DA45Eb7126DD4a8cB3923547e0C3D, added 2026-10-16T01:21:03.000Z (17.0h ago)
+2026-10-16 18:21:05,094 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-16 18:21:05,334 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-10-16 18:21:05,334 [INFO] === Run finished ===
