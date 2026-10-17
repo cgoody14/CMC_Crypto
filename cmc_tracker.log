@@ -5096,3 +5096,10 @@
 2026-10-17 11:34:42,231 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-17 11:34:42,386 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-17 11:34:42,386 [INFO] === Run finished ===
+2026-10-17 14:24:33,297 [INFO] === Run started 2026-10-17T14:24:33.297543+00:00 ===
+2026-10-17 14:24:33,546 [INFO] Fetched 200 listings sorted by date_added
+2026-10-17 14:24:33,547 [INFO] NEW LISTING: Novavax Inc Tokenized Stock (Coinbase) (NVAXc) - $182.75357, mcap $415, platform Base, contract 0xb200000000000000000000c597c476fcf9aed3a8, added 2026-10-08T03:59:54.000Z (226.4h ago)
+2026-10-17 14:24:33,548 [INFO] NEW LISTING: Philip Morris International Inc. Tokenized Stock (Coinbase) (PMc) - $3619.5867, mcap $910, platform Base, contract 0xb2000000000000000000008fc2a8c23cf5937b66, added 2026-10-08T03:59:48.000Z (226.4h ago)
+2026-10-17 14:24:33,550 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-17 14:24:33,627 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-10-17 14:24:33,627 [INFO] === Run finished ===
