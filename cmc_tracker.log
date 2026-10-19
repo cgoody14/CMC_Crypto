@@ -5168,3 +5168,8 @@
 2026-10-19 02:37:47,757 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-19 02:37:47,757 [INFO] No coins currently inside their 48h tracking window
 2026-10-19 02:37:47,757 [INFO] === Run finished ===
+2026-10-19 08:04:51,602 [INFO] === Run started 2026-10-19T08:04:51.602678+00:00 ===
+2026-10-19 08:04:51,858 [INFO] Fetched 200 listings sorted by date_added
+2026-10-19 08:04:51,859 [INFO] Detection pass: 0 new coin(s) inserted
+2026-10-19 08:04:51,860 [INFO] No coins currently inside their 48h tracking window
+2026-10-19 08:04:51,860 [INFO] === Run finished ===
