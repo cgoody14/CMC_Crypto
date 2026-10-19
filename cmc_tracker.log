@@ -5173,3 +5173,9 @@
 2026-10-19 08:04:51,859 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-19 08:04:51,860 [INFO] No coins currently inside their 48h tracking window
 2026-10-19 08:04:51,860 [INFO] === Run finished ===
+2026-10-19 15:33:52,507 [INFO] === Run started 2026-10-19T15:33:52.507424+00:00 ===
+2026-10-19 15:33:52,759 [INFO] Fetched 200 listings sorted by date_added
+2026-10-19 15:33:52,760 [INFO] NEW LISTING: Papertrade (PAPER) - $0.02609465, mcap $1,748,893, platform HyperEVM, contract 0xe40f17915daa230324030003a197cdaef2261c0e, added 2026-10-19T09:21:37.000Z (6.2h ago)
+2026-10-19 15:33:52,763 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-19 15:33:52,886 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-10-19 15:33:52,886 [INFO] === Run finished ===
