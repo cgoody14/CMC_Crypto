@@ -5219,3 +5219,9 @@
 2026-10-21 00:07:37,629 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-21 00:07:38,096 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-10-21 00:07:38,097 [INFO] === Run finished ===
+2026-10-21 04:40:39,444 [INFO] === Run started 2026-10-21T04:40:39.444755+00:00 ===
+2026-10-21 04:40:39,714 [INFO] Fetched 200 listings sorted by date_added
+2026-10-21 04:40:39,715 [INFO] NEW LISTING: Dacity Coin (DACITY) - $0.0066132691, mcap $n/a, platform Ethereum, contract 0x54ce4b27caabba24926865f035d432dbde2901f7, added 2026-10-21T03:57:02.000Z (0.7h ago)
+2026-10-21 04:40:39,717 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-21 04:40:39,830 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-10-21 04:40:39,830 [INFO] === Run finished ===
