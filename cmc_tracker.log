@@ -5235,3 +5235,16 @@
 2026-10-21 09:38:13,615 [INFO] Detection pass: 5 new coin(s) inserted
 2026-10-21 09:38:13,767 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-10-21 09:38:13,768 [INFO] === Run finished ===
+2026-10-21 14:39:35,509 [INFO] === Run started 2026-10-21T14:39:35.509462+00:00 ===
+2026-10-21 14:39:35,809 [INFO] Fetched 200 listings sorted by date_added
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: Aura Final Boss (KIMCHI) - $0.031556247, mcap $n/a, platform Solana, contract CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump, added 2026-10-21T14:10:16.000Z (0.5h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: Nova USD (USDN) - $0.99904963, mcap $n/a, platform Ethereum, contract 0xeC747DAf41A4Ca4ebE72356592F8301924132907, added 2026-10-21T10:27:53.000Z (4.2h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: Vistra Corp Tokenized bStocks (VSTB) - $154.67341, mcap $455,300, platform BNB Smart Chain (BEP20), contract 0xc7fb9c23f359b7e072706eb43db8cf489aa8f87f, added 2026-10-19T13:49:09.000Z (48.8h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: Berkshire Hathaway Tokenized bStocks (BRKBB) - $541.39489, mcap $534,188, platform BNB Smart Chain (BEP20), contract 0xd42890342929f9ee362a8de900b638bc10095346, added 2026-10-19T13:43:50.000Z (48.9h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: KraneShares STAR Market 50 ETF Tokenized bStocks (KSTRB) - $19.476432, mcap $603,689, platform BNB Smart Chain (BEP20), contract 0x5f1668b592cdf695b0c8e643a5a0078bb94cd80c, added 2026-10-19T13:41:11.000Z (49.0h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: RoboStrategy Inc Tokenized bStocks (BOTB) - $22.973241, mcap $364,033, platform BNB Smart Chain (BEP20), contract 0xd16c99b3f877b22a5dd42eef2fa77bd403306685, added 2026-10-19T13:38:30.000Z (49.0h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: Direxion Daily 20 Year Treasury Bull 3X ETF Tokenized bStocks (TMFB) - $28.217099, mcap $396,776, platform BNB Smart Chain (BEP20), contract 0x19568bf80e61e6272ff04403c4d5b09833cc7c54, added 2026-10-19T13:36:01.000Z (49.1h ago)
+2026-10-21 14:39:35,810 [INFO] NEW LISTING: Axis Robotics (AXIS) - $0.2933595, mcap $48,404,318, platform Base, contract 0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea, added 2026-10-11T05:41:41.000Z (249.0h ago)
+2026-10-21 14:39:35,817 [INFO] Detection pass: 8 new coin(s) inserted
+2026-10-21 14:39:35,978 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-10-21 14:39:35,978 [INFO] === Run finished ===
