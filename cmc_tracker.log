@@ -5225,3 +5225,13 @@
 2026-10-21 04:40:39,717 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-21 04:40:39,830 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-10-21 04:40:39,830 [INFO] === Run finished ===
+2026-10-21 09:38:13,323 [INFO] === Run started 2026-10-21T09:38:13.323960+00:00 ===
+2026-10-21 09:38:13,611 [INFO] Fetched 200 listings sorted by date_added
+2026-10-21 09:38:13,612 [INFO] NEW LISTING: Quantus (QTC) - $88.978022, mcap $n/a, platform Near, contract qtc.omft.near, added 2026-10-09T03:26:38.000Z (294.2h ago)
+2026-10-21 09:38:13,612 [INFO] NEW LISTING: Medtronic PLC (Derivatives) (MDT) - $94.837728, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (677.1h ago)
+2026-10-21 09:38:13,613 [INFO] NEW LISTING: Interactive Brokers Group, Inc. (Derivatives) (IBKR) - $83.421243, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (677.1h ago)
+2026-10-21 09:38:13,613 [INFO] NEW LISTING: Bank of America Corporation (Derivatives) (BAC) - $50.939032, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (677.1h ago)
+2026-10-21 09:38:13,613 [INFO] NEW LISTING: Constellation Energy Corp (Derivatives) (CEG) - $261.88997, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (677.1h ago)
+2026-10-21 09:38:13,615 [INFO] Detection pass: 5 new coin(s) inserted
+2026-10-21 09:38:13,767 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-10-21 09:38:13,768 [INFO] === Run finished ===
