@@ -5248,3 +5248,9 @@
 2026-10-21 14:39:35,817 [INFO] Detection pass: 8 new coin(s) inserted
 2026-10-21 14:39:35,978 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-10-21 14:39:35,978 [INFO] === Run finished ===
+2026-10-21 18:54:26,275 [INFO] === Run started 2026-10-21T18:54:26.275489+00:00 ===
+2026-10-21 18:54:26,648 [INFO] Fetched 200 listings sorted by date_added
+2026-10-21 18:54:26,650 [INFO] NEW LISTING: Predict.fun (PREDICT) - $2.3538252, mcap $n/a, platform own chain, contract n/a, added 2026-10-21T17:03:00.000Z (1.9h ago)
+2026-10-21 18:54:26,653 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-21 18:54:26,778 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-10-21 18:54:26,778 [INFO] === Run finished ===
