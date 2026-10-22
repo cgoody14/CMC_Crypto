@@ -5275,3 +5275,10 @@
 2026-10-22 10:22:09,555 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-22 10:22:09,680 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-10-22 10:22:09,680 [INFO] === Run finished ===
+2026-10-22 15:25:36,830 [INFO] === Run started 2026-10-22T15:25:36.830047+00:00 ===
+2026-10-22 15:25:37,038 [INFO] Fetched 200 listings sorted by date_added
+2026-10-22 15:25:37,039 [INFO] NEW LISTING: Universal High Income (UHI) - $0.024272044, mcap $n/a, platform Robinhood Chain, contract 0xE01aDA02FB4d1951cDb8cBb761d509db2FF02C94, added 2026-10-22T12:15:05.000Z (3.2h ago)
+2026-10-22 15:25:37,039 [INFO] NEW LISTING: Giga Tenev (GIGATENEV) - $0.0016947811, mcap $n/a, platform Robinhood Chain, contract 0xc9675fe679c7d4e1b94416f66d61c96127eb964a, added 2026-10-22T11:12:04.000Z (4.2h ago)
+2026-10-22 15:25:37,041 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-22 15:25:37,122 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-10-22 15:25:37,122 [INFO] === Run finished ===
