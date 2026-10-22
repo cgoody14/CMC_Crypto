@@ -5264,3 +5264,9 @@
 2026-10-22 00:39:58,264 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-22 00:39:58,338 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-22 00:39:58,338 [INFO] === Run finished ===
+2026-10-22 05:21:16,192 [INFO] === Run started 2026-10-22T05:21:16.192506+00:00 ===
+2026-10-22 05:21:16,291 [INFO] Fetched 200 listings sorted by date_added
+2026-10-22 05:21:16,292 [INFO] NEW LISTING: Infinite Money Glitch (glitchonsol.com) (GLITCH) - $0.0018189289, mcap $n/a, platform Solana, contract 8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump, added 2026-10-22T00:42:03.000Z (4.7h ago)
+2026-10-22 05:21:16,294 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-22 05:21:16,357 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-10-22 05:21:16,357 [INFO] === Run finished ===
