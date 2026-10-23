@@ -5304,3 +5304,12 @@
 2026-10-23 05:40:08,883 [INFO] Detection pass: 2 new coin(s) inserted
 2026-10-23 05:40:09,028 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-10-23 05:40:09,028 [INFO] === Run finished ===
+2026-10-23 10:30:16,480 [INFO] === Run started 2026-10-23T10:30:16.480624+00:00 ===
+2026-10-23 10:30:16,796 [INFO] Fetched 200 listings sorted by date_added
+2026-10-23 10:30:16,797 [INFO] NEW LISTING: Amgen Inc (Derivatives) (AMGN) - $442.83713, mcap $n/a, platform own chain, contract n/a, added 2026-10-23T07:11:09.000Z (3.3h ago)
+2026-10-23 10:30:16,797 [INFO] NEW LISTING: AbbVie Inc (Derivatives) (ABBV) - $284.49731, mcap $n/a, platform own chain, contract n/a, added 2026-10-23T07:08:51.000Z (3.4h ago)
+2026-10-23 10:30:16,797 [INFO] NEW LISTING: General Electric Company (Derivatives) (GE) - $293.39973, mcap $n/a, platform own chain, contract n/a, added 2026-10-23T07:05:45.000Z (3.4h ago)
+2026-10-23 10:30:16,797 [INFO] NEW LISTING: NeoIDR (NEOIDR) - $0.059422014, mcap $n/a, platform Ethereum, contract 0xc3313a63fb1f963b9ab927b35cdb99506e1a00f3, added 2026-10-23T07:03:04.000Z (3.5h ago)
+2026-10-23 10:30:16,799 [INFO] Detection pass: 4 new coin(s) inserted
+2026-10-23 10:30:16,974 [INFO] Tracking pass: 11 snapshot(s) recorded for 11 active coin(s)
+2026-10-23 10:30:16,974 [INFO] === Run finished ===
