@@ -5338,3 +5338,10 @@
 2026-10-24 05:22:31,552 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-24 05:22:31,684 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-10-24 05:22:31,685 [INFO] === Run finished ===
+2026-10-24 09:40:51,922 [INFO] === Run started 2026-10-24T09:40:51.922641+00:00 ===
+2026-10-24 09:40:52,218 [INFO] Fetched 200 listings sorted by date_added
+2026-10-24 09:40:52,218 [INFO] NEW LISTING: ETHFUN (EFUN) - $4.3684564e-14, mcap $n/a, platform Ethereum, contract 0xbe7f040CaeDE88af6d1A418c04aF1EF4d2a7a938, added 2026-10-24T05:23:08.000Z (4.3h ago)
+2026-10-24 09:40:52,219 [INFO] NEW LISTING: CoreWeave, Inc. Tokenized Stock (Coinbase) (CRWVc) - $73.884013, mcap $6,720, platform Base, contract 0xb200000000000000000000F111184A74720787E6, added 2026-10-08T03:59:54.000Z (389.7h ago)
+2026-10-24 09:40:52,221 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-24 09:40:52,372 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-10-24 09:40:52,373 [INFO] === Run finished ===
