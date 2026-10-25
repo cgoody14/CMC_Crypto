@@ -5401,3 +5401,9 @@
 2026-10-25 21:44:11,527 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-25 21:44:11,587 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-10-25 21:44:11,587 [INFO] === Run finished ===
+2026-10-25 23:34:34,745 [INFO] === Run started 2026-10-25T23:34:34.745815+00:00 ===
+2026-10-25 23:34:34,965 [INFO] Fetched 200 listings sorted by date_added
+2026-10-25 23:34:34,966 [INFO] NEW LISTING: Hellhound (HELL) - $1.9322352e-05, mcap $n/a, platform Solana, contract A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump, added 2026-10-24T11:06:05.000Z (36.5h ago)
+2026-10-25 23:34:34,968 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-25 23:34:35,088 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-10-25 23:34:35,088 [INFO] === Run finished ===
