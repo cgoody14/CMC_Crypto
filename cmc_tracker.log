@@ -5418,3 +5418,11 @@
 2026-10-26 06:59:13,880 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-26 06:59:14,086 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-10-26 06:59:14,086 [INFO] === Run finished ===
+2026-10-26 14:00:59,262 [INFO] === Run started 2026-10-26T14:00:59.262289+00:00 ===
+2026-10-26 14:00:59,580 [INFO] Fetched 200 listings sorted by date_added
+2026-10-26 14:00:59,582 [INFO] NEW LISTING: ESTV Token (ESTV) - $1.1326684, mcap $n/a, platform Solana, contract 6U6sCBJE7U2bnSPrEic1zNmpruWSnhHaSAiCa7o61VEd, added 2026-10-26T08:23:50.000Z (5.6h ago)
+2026-10-26 14:00:59,582 [INFO] NEW LISTING: STMicroelectronics NV (Derivatives) (STM) - $44.306104, mcap $n/a, platform own chain, contract n/a, added 2026-10-26T07:52:18.000Z (6.1h ago)
+2026-10-26 14:00:59,582 [INFO] NEW LISTING: EQT Corporation (Derivatives) (EQT) - $53.695946, mcap $n/a, platform own chain, contract n/a, added 2026-10-26T07:49:25.000Z (6.2h ago)
+2026-10-26 14:00:59,589 [INFO] Detection pass: 3 new coin(s) inserted
+2026-10-26 14:00:59,847 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-10-26 14:00:59,847 [INFO] === Run finished ===
