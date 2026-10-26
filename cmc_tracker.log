@@ -5426,3 +5426,10 @@
 2026-10-26 14:00:59,589 [INFO] Detection pass: 3 new coin(s) inserted
 2026-10-26 14:00:59,847 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-26 14:00:59,847 [INFO] === Run finished ===
+2026-10-26 19:54:38,881 [INFO] === Run started 2026-10-26T19:54:38.881779+00:00 ===
+2026-10-26 19:54:39,141 [INFO] Fetched 200 listings sorted by date_added
+2026-10-26 19:54:39,142 [INFO] NEW LISTING: Higgsfield AI (higgsfieldai.bar) (HIGGSFIELD) - $1.5282002e-13, mcap $n/a, platform Ethereum, contract 0xFF96CbaBB370cd3ED29fc9de6D12Ddfa13A31B3E, added 2026-10-26T14:04:23.000Z (5.8h ago)
+2026-10-26 19:54:39,142 [INFO] NEW LISTING: Ritual (RITUAL) - $0.018497612, mcap $33,295,701, platform BNB Smart Chain (BEP20), contract 0x256Ea35422b2F36B24aC1D66159Fe69e75918C37, added 2026-10-24T05:18:50.000Z (62.6h ago)
+2026-10-26 19:54:39,149 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-26 19:54:39,335 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-10-26 19:54:39,335 [INFO] === Run finished ===
