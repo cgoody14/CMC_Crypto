@@ -5412,3 +5412,9 @@
 2026-10-26 01:42:19,486 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-26 01:42:19,554 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
 2026-10-26 01:42:19,554 [INFO] === Run finished ===
+2026-10-26 06:59:13,449 [INFO] === Run started 2026-10-26T06:59:13.449006+00:00 ===
+2026-10-26 06:59:13,675 [INFO] Fetched 200 listings sorted by date_added
+2026-10-26 06:59:13,677 [INFO] NEW LISTING: Arus World ($ARUS) - $1366.2063, mcap $n/a, platform Ethereum, contract 0x349fBA1E47aE5a4ba4D949D752DE0502737A7898, added 2026-10-16T09:45:02.000Z (237.2h ago)
+2026-10-26 06:59:13,880 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-26 06:59:14,086 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
+2026-10-26 06:59:14,086 [INFO] === Run finished ===
