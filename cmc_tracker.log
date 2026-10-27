@@ -5438,3 +5438,9 @@
 2026-10-26 23:29:17,600 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-26 23:29:17,700 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-10-26 23:29:17,700 [INFO] === Run finished ===
+2026-10-27 02:20:16,915 [INFO] === Run started 2026-10-27T02:20:16.915743+00:00 ===
+2026-10-27 02:20:17,245 [INFO] Fetched 200 listings sorted by date_added
+2026-10-27 02:20:17,246 [INFO] NEW LISTING: Circle Internet Group Inc. Tokenized Stock (Coinbase) (CRCLc) - $83.614461, mcap $6,275, platform Base, contract 0xB20000000000000000000019f6E7C675b73C2e4D, added 2026-10-08T04:00:02.000Z (454.3h ago)
+2026-10-27 02:20:17,248 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-27 02:20:17,371 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-10-27 02:20:17,371 [INFO] === Run finished ===
