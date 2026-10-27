@@ -5450,3 +5450,11 @@
 2026-10-27 08:07:08,310 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-27 08:07:08,369 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-10-27 08:07:08,370 [INFO] === Run finished ===
+2026-10-27 14:25:47,692 [INFO] === Run started 2026-10-27T14:25:47.691979+00:00 ===
+2026-10-27 14:25:47,968 [INFO] Fetched 200 listings sorted by date_added
+2026-10-27 14:25:47,970 [INFO] NEW LISTING: ORAXEL (ORAX) - $4.8127276e-05, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x3b076dfa4fefec34ce356ec14f2f540e7e738b7d, added 2026-10-27T09:27:05.000Z (5.0h ago)
+2026-10-27 14:25:47,970 [INFO] NEW LISTING: Extended (XTEN) - $0.25839876, mcap $n/a, platform own chain, contract n/a, added 2026-10-27T09:16:35.000Z (5.2h ago)
+2026-10-27 14:25:47,970 [INFO] NEW LISTING: 紧跟马斯克叙事，TeslaSI启航 (TESLASI) - $0.0073492804, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xa17Df9706F3BE0AE1bd3c90003f279d124577777, added 2026-10-27T08:25:17.000Z (6.0h ago)
+2026-10-27 14:25:47,973 [INFO] Detection pass: 3 new coin(s) inserted
+2026-10-27 14:25:48,038 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-10-27 14:25:48,038 [INFO] === Run finished ===
