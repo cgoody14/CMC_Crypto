@@ -5458,3 +5458,9 @@
 2026-10-27 14:25:47,973 [INFO] Detection pass: 3 new coin(s) inserted
 2026-10-27 14:25:48,038 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-10-27 14:25:48,038 [INFO] === Run finished ===
+2026-10-27 19:31:24,056 [INFO] === Run started 2026-10-27T19:31:24.056827+00:00 ===
+2026-10-27 19:31:24,352 [INFO] Fetched 200 listings sorted by date_added
+2026-10-27 19:31:24,353 [INFO] NEW LISTING: ELON 2028 (ELON2028) - $4.6420023e-12, mcap $n/a, platform Ethereum, contract 0x5deef9a61128f713df881e76d0b91ee8f8e21602, added 2026-10-27T15:48:42.000Z (3.7h ago)
+2026-10-27 19:31:24,355 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-27 19:31:24,499 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-10-27 19:31:24,499 [INFO] === Run finished ===
