@@ -5444,3 +5444,9 @@
 2026-10-27 02:20:17,248 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-27 02:20:17,371 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-10-27 02:20:17,371 [INFO] === Run finished ===
+2026-10-27 08:07:08,038 [INFO] === Run started 2026-10-27T08:07:08.038282+00:00 ===
+2026-10-27 08:07:08,304 [INFO] Fetched 200 listings sorted by date_added
+2026-10-27 08:07:08,306 [INFO] NEW LISTING: Nifty 50 (Derivatives) (NIFTY) - $22693.4, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (819.5h ago)
+2026-10-27 08:07:08,310 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-27 08:07:08,369 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-10-27 08:07:08,370 [INFO] === Run finished ===
