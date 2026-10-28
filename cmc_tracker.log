@@ -5480,3 +5480,16 @@
 2026-10-28 08:29:56,226 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-28 08:29:56,416 [INFO] Tracking pass: 6 snapshot(s) recorded for 6 active coin(s)
 2026-10-28 08:29:56,416 [INFO] === Run finished ===
+2026-10-28 15:21:30,989 [INFO] === Run started 2026-10-28T15:21:30.989889+00:00 ===
+2026-10-28 15:21:31,265 [INFO] Fetched 200 listings sorted by date_added
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: Reliance Industries Ltd (Derivatives) (RELIANCE) - $12.259659, mcap $n/a, platform own chain, contract n/a, added 2026-10-28T11:49:13.000Z (3.5h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: Big Titty Coin (bigtittycoinrh.com) (BTC) - $0.029979183, mcap $n/a, platform Robinhood Chain, contract 0xA5B562D13486735D2a96D6B230489B1F33731440, added 2026-10-28T09:35:00.000Z (5.8h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: GraniteShares 2x Long SK Hynix Daily ETF Tokenized bStocks (SKUUB) - $20.659504, mcap $520,227, platform BNB Smart Chain (BEP20), contract 0x97e8cfe35467d7ad6ed672d519e466200fb394d0, added 2026-10-26T10:51:01.000Z (52.5h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: Bending Spoons Tokenized bStocks (BSPB) - $46.991708, mcap $393,341, platform BNB Smart Chain (BEP20), contract 0xc895d166fe59841dc71003f80d7ef2f00f40a4be, added 2026-10-26T10:51:00.000Z (52.5h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: GE Vernova Inc Tokenized bStocks (GEVB) - $871.50979, mcap $1,334,246, platform BNB Smart Chain (BEP20), contract 0x5eadd95a428bc66698620c093eddd8a4b3165269, added 2026-10-26T10:51:00.000Z (52.5h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: Applovin Corp Tokenized bStocks (APPB) - $258.31957, mcap $1,514,116, platform BNB Smart Chain (BEP20), contract 0x15ec59551096d5ae2df8cde08618035145828548, added 2026-10-26T10:51:00.000Z (52.5h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: GraniteShares 2x Short SK Hynix Daily ETF Tokenized bStocks (SKDDB) - $7.8838736, mcap $299,099, platform BNB Smart Chain (BEP20), contract 0x515f386fc664980db2ab30c574ec210983232493, added 2026-10-26T10:50:58.000Z (52.5h ago)
+2026-10-28 15:21:31,267 [INFO] NEW LISTING: Intel Corporation Tokenized Stock (Coinbase) (INTCc) - $96.882803, mcap $114,598, platform Base, contract 0xb2000000000000000000004aff16039ba04bdfbc, added 2026-10-08T03:59:28.000Z (491.4h ago)
+2026-10-28 15:21:31,270 [INFO] Detection pass: 8 new coin(s) inserted
+2026-10-28 15:21:31,373 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-10-28 15:21:31,373 [INFO] === Run finished ===
