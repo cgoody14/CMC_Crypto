@@ -5509,3 +5509,14 @@
 2026-10-29 05:41:50,142 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-29 05:41:50,379 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-10-29 05:41:50,379 [INFO] === Run finished ===
+2026-10-29 11:45:35,485 [INFO] === Run started 2026-10-29T11:45:35.485872+00:00 ===
+2026-10-29 11:45:35,706 [INFO] Fetched 200 listings sorted by date_added
+2026-10-29 11:45:35,707 [INFO] NEW LISTING: Amgen Inc (Derivative) (AMGN) - $465.55559, mcap $n/a, platform own chain, contract n/a, added 2026-10-29T11:03:58.000Z (0.7h ago)
+2026-10-29 11:45:35,707 [INFO] NEW LISTING: MercadoLibre Inc (Derivative) (MELI) - $1677.9098, mcap $n/a, platform own chain, contract n/a, added 2026-10-29T11:03:36.000Z (0.7h ago)
+2026-10-29 11:45:35,707 [INFO] NEW LISTING: Pfizer Inc (Derivative) (PFE) - $29.88313, mcap $n/a, platform own chain, contract n/a, added 2026-10-29T11:02:46.000Z (0.7h ago)
+2026-10-29 11:45:35,707 [INFO] NEW LISTING: NuScale Power Corporation Class A (Derivative) (SMR) - $5.6430376, mcap $n/a, platform own chain, contract n/a, added 2026-10-29T11:02:27.000Z (0.7h ago)
+2026-10-29 11:45:35,707 [INFO] NEW LISTING: iShares MSCI Brazil Small-Cap ETF (Derivative) (EWZS) - $10.886568, mcap $n/a, platform own chain, contract n/a, added 2026-10-29T11:02:02.000Z (0.7h ago)
+2026-10-29 11:45:35,707 [INFO] NEW LISTING: Occidental Petroleum Corporation (Derivative) (OXY) - $63.471688, mcap $n/a, platform own chain, contract n/a, added 2026-10-29T11:00:25.000Z (0.8h ago)
+2026-10-29 11:45:35,709 [INFO] Detection pass: 6 new coin(s) inserted
+2026-10-29 11:45:35,808 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-10-29 11:45:35,808 [INFO] === Run finished ===
