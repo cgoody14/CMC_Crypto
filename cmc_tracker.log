@@ -5503,3 +5503,9 @@
 2026-10-29 00:06:55,346 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-29 00:06:55,465 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-10-29 00:06:55,465 [INFO] === Run finished ===
+2026-10-29 05:41:49,901 [INFO] === Run started 2026-10-29T05:41:49.901146+00:00 ===
+2026-10-29 05:41:50,136 [INFO] Fetched 200 listings sorted by date_added
+2026-10-29 05:41:50,137 [INFO] NEW LISTING: iShares MSCI Indonesia ETF (Derivatives) (EIDO) - $10.335915, mcap $n/a, platform own chain, contract n/a, added 2026-10-27T05:07:48.000Z (48.6h ago)
+2026-10-29 05:41:50,142 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-29 05:41:50,379 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-10-29 05:41:50,379 [INFO] === Run finished ===
