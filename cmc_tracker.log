@@ -5531,3 +5531,9 @@
 2026-10-29 22:14:13,428 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-29 22:14:13,638 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-10-29 22:14:13,638 [INFO] === Run finished ===
+2026-10-30 01:58:00,236 [INFO] === Run started 2026-10-30T01:58:00.236402+00:00 ===
+2026-10-30 01:58:00,464 [INFO] Fetched 200 listings sorted by date_added
+2026-10-30 01:58:00,465 [INFO] NEW LISTING: Bitcoin New (bitcoinnewtoken.com) (BTCN) - $0.0040908985, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x5f0D55D366E0D1F37Ab7e150b989048b24DFc2ad, added 2026-10-29T22:30:04.000Z (3.5h ago)
+2026-10-30 01:58:00,467 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-30 01:58:00,611 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-10-30 01:58:00,611 [INFO] === Run finished ===
