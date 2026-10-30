@@ -5549,3 +5549,9 @@
 2026-10-30 15:01:05,198 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-30 15:01:05,394 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-10-30 15:01:05,394 [INFO] === Run finished ===
+2026-10-30 19:55:37,611 [INFO] === Run started 2026-10-30T19:55:37.611846+00:00 ===
+2026-10-30 19:55:37,817 [INFO] Fetched 200 listings sorted by date_added
+2026-10-30 19:55:37,818 [INFO] NEW LISTING: USD TRON (USD) - $0.99995653, mcap $n/a, platform Tron20, contract TVFFMr8ptkymEt6MdQ1i9NPZqn7W6RXkg8, added 2026-10-24T21:12:04.000Z (142.7h ago)
+2026-10-30 19:55:37,827 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-30 19:55:37,915 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-10-30 19:55:37,915 [INFO] === Run finished ===
