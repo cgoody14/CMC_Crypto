@@ -5537,3 +5537,10 @@
 2026-10-30 01:58:00,467 [INFO] Detection pass: 1 new coin(s) inserted
 2026-10-30 01:58:00,611 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-10-30 01:58:00,611 [INFO] === Run finished ===
+2026-10-30 08:08:50,176 [INFO] === Run started 2026-10-30T08:08:50.176544+00:00 ===
+2026-10-30 08:08:50,417 [INFO] Fetched 200 listings sorted by date_added
+2026-10-30 08:08:50,418 [INFO] NEW LISTING: Anthropic meme (ANT) - $6.395376e-14, mcap $n/a, platform Ethereum, contract 0xA7d5E50e939b75E66315Ea32a5312C3f58B07110, added 2026-10-30T04:19:22.000Z (3.8h ago)
+2026-10-30 08:08:50,418 [INFO] NEW LISTING: Super Inu (superinuerc20.vip) (SI) - $0.009298504, mcap $n/a, platform Ethereum, contract 0x6d34013052c8fe696805dde682ae8086be5655cc, added 2026-10-30T03:21:04.000Z (4.8h ago)
+2026-10-30 08:08:50,420 [INFO] Detection pass: 2 new coin(s) inserted
+2026-10-30 08:08:50,565 [INFO] Tracking pass: 11 snapshot(s) recorded for 11 active coin(s)
+2026-10-30 08:08:50,565 [INFO] === Run finished ===
