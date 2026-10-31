@@ -5579,3 +5579,9 @@
 2026-10-31 14:55:18,641 [INFO] Detection pass: 4 new coin(s) inserted
 2026-10-31 14:55:18,770 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-10-31 14:55:18,770 [INFO] === Run finished ===
+2026-10-31 18:57:57,253 [INFO] === Run started 2026-10-31T18:57:57.253540+00:00 ===
+2026-10-31 18:57:57,493 [INFO] Fetched 200 listings sorted by date_added
+2026-10-31 18:57:57,494 [INFO] NEW LISTING: 1win Token (1WIN) - $0.054896582, mcap $n/a, platform Solana, contract FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win, added 2026-10-27T12:33:05.000Z (102.4h ago)
+2026-10-31 18:57:57,496 [INFO] Detection pass: 1 new coin(s) inserted
+2026-10-31 18:57:57,650 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-10-31 18:57:57,650 [INFO] === Run finished ===
