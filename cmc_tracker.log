@@ -5570,3 +5570,12 @@
 2026-10-31 08:51:47,800 [INFO] Detection pass: 0 new coin(s) inserted
 2026-10-31 08:51:47,987 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-10-31 08:51:47,987 [INFO] === Run finished ===
+2026-10-31 14:55:18,482 [INFO] === Run started 2026-10-31T14:55:18.482910+00:00 ===
+2026-10-31 14:55:18,636 [INFO] Fetched 200 listings sorted by date_added
+2026-10-31 14:55:18,638 [INFO] NEW LISTING: KIM JONG UN (KIMJONGUN) - $5.1263166e-14, mcap $n/a, platform Ethereum, contract 0xf070D13bdEaC16ba1eF6F2fEA9A7f48cB547D4BD, added 2026-10-31T12:41:53.000Z (2.2h ago)
+2026-10-31 14:55:18,638 [INFO] NEW LISTING: Gilead Sciences, Inc (Derivatives) (GILD) - $169.93563, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (922.3h ago)
+2026-10-31 14:55:18,638 [INFO] NEW LISTING: Baidu Inc (Derivatives) (BIDU) - $75.312088, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (922.3h ago)
+2026-10-31 14:55:18,638 [INFO] NEW LISTING: WuXi Biologics (Cayman) Inc (Derivatives) (2269.HK) - $5.7886286, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (922.3h ago)
+2026-10-31 14:55:18,641 [INFO] Detection pass: 4 new coin(s) inserted
+2026-10-31 14:55:18,770 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-10-31 14:55:18,770 [INFO] === Run finished ===
