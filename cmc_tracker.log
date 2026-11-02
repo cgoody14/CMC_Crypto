@@ -5627,3 +5627,9 @@
 2026-11-02 09:06:04,508 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-02 09:06:04,660 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-11-02 09:06:04,660 [INFO] === Run finished ===
+2026-11-02 19:26:53,429 [INFO] === Run started 2026-11-02T19:26:53.429409+00:00 ===
+2026-11-02 19:26:53,675 [INFO] Fetched 200 listings sorted by date_added
+2026-11-02 19:26:53,676 [INFO] NEW LISTING: iShares Semiconductor ETF (Derivatives) (SOXX) - $465.77328, mcap $n/a, platform own chain, contract n/a, added 2026-09-23T04:34:25.000Z (974.9h ago)
+2026-11-02 19:26:53,679 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-02 19:26:53,728 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-11-02 19:26:53,728 [INFO] === Run finished ===
