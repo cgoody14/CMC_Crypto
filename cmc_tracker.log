@@ -5638,3 +5638,15 @@
 2026-11-03 01:42:57,466 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-03 01:42:57,717 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-11-03 01:42:57,717 [INFO] === Run finished ===
+2026-11-03 08:35:04,279 [INFO] === Run started 2026-11-03T08:35:04.279185+00:00 ===
+2026-11-03 08:35:04,515 [INFO] Fetched 200 listings sorted by date_added
+2026-11-03 08:35:04,516 [INFO] NEW LISTING: PepsiCo Inc (Derivatives) (PEP) - $140.4611, mcap $n/a, platform own chain, contract n/a, added 2026-11-03T04:39:02.000Z (3.9h ago)
+2026-11-03 08:35:04,516 [INFO] NEW LISTING: U.S. Dollar Index (Derivatives) (DXY) - $101.60867, mcap $n/a, platform own chain, contract n/a, added 2026-11-03T03:11:30.000Z (5.4h ago)
+2026-11-03 08:35:04,516 [INFO] NEW LISTING: NYSE FANG+ Index (Derivatives) (FNG) - $17475.689, mcap $n/a, platform own chain, contract n/a, added 2026-11-03T03:07:26.000Z (5.5h ago)
+2026-11-03 08:35:04,517 [INFO] NEW LISTING: S&P MidCap 400 Index (Derivatives) (SP400) - $3696.4312, mcap $n/a, platform own chain, contract n/a, added 2026-11-03T03:04:52.000Z (5.5h ago)
+2026-11-03 08:35:04,517 [INFO] NEW LISTING: Russell 2000 Index (Derivatives) (RUT) - $2809.8605, mcap $n/a, platform own chain, contract n/a, added 2026-11-03T03:02:56.000Z (5.5h ago)
+2026-11-03 08:35:04,517 [INFO] NEW LISTING: Dow Jones Industrial Average (Derivatives) (DJIA) - $51826.303, mcap $n/a, platform own chain, contract n/a, added 2026-11-03T02:55:42.000Z (5.7h ago)
+2026-11-03 08:35:04,517 [INFO] NEW LISTING: eCash (ECX) - $46.647469, mcap $n/a, platform Solana, contract 6ombVv3YMs9qpx1QkycD9XW8HKSfv7vGrCFX3cxCYMVY, added 2026-11-03T01:42:56.000Z (6.9h ago)
+2026-11-03 08:35:04,520 [INFO] Detection pass: 7 new coin(s) inserted
+2026-11-03 08:35:04,684 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-11-03 08:35:04,684 [INFO] === Run finished ===
