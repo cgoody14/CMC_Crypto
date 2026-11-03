@@ -5650,3 +5650,9 @@
 2026-11-03 08:35:04,520 [INFO] Detection pass: 7 new coin(s) inserted
 2026-11-03 08:35:04,684 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-11-03 08:35:04,684 [INFO] === Run finished ===
+2026-11-03 16:31:27,814 [INFO] === Run started 2026-11-03T16:31:27.814311+00:00 ===
+2026-11-03 16:31:28,002 [INFO] Fetched 200 listings sorted by date_added
+2026-11-03 16:31:28,003 [INFO] NEW LISTING: Ape.fun (ape.fun) (APE) - $0.0032525426, mcap $n/a, platform Robinhood Chain, contract 0xE08739259de3B3864417DCdEa9f4aAEDDb8eddb9, added 2026-10-30T16:57:04.000Z (95.6h ago)
+2026-11-03 16:31:28,005 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-03 16:31:28,153 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-11-03 16:31:28,153 [INFO] === Run finished ===
