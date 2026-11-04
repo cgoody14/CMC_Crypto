@@ -5672,3 +5672,10 @@
 2026-11-04 09:05:30,213 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-04 09:05:30,365 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-11-04 09:05:30,365 [INFO] === Run finished ===
+2026-11-04 17:10:58,418 [INFO] === Run started 2026-11-04T17:10:58.418845+00:00 ===
+2026-11-04 17:10:58,687 [INFO] Fetched 200 listings sorted by date_added
+2026-11-04 17:10:58,688 [INFO] NEW LISTING: Anthropic (antcoin.fun) (ANT) - $0.0017981716, mcap $1,798,172, platform Robinhood Chain, contract 0x36c2861a1f94c6f277a388338a4f8a686e0d9b30, added 2026-11-04T12:09:05.000Z (5.0h ago)
+2026-11-04 17:10:58,688 [INFO] NEW LISTING: Kor Protocol (KOR) - $0.015302939, mcap $n/a, platform Base, contract 0xD3679306360705ba3580BC4130b56460FB4e6926, added 2026-11-03T03:30:05.000Z (37.7h ago)
+2026-11-04 17:10:58,690 [INFO] Detection pass: 2 new coin(s) inserted
+2026-11-04 17:10:58,921 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-11-04 17:10:58,922 [INFO] === Run finished ===
