@@ -5661,3 +5661,9 @@
 2026-11-03 21:59:28,573 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-03 21:59:28,778 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
 2026-11-03 21:59:28,778 [INFO] === Run finished ===
+2026-11-04 02:01:14,692 [INFO] === Run started 2026-11-04T02:01:14.692641+00:00 ===
+2026-11-04 02:01:14,864 [INFO] Fetched 200 listings sorted by date_added
+2026-11-04 02:01:14,865 [INFO] NEW LISTING: USDŦ (USDŦ) - $0.99972331, mcap $n/a, platform Tron20, contract TEhXmFxTV1g7Ba56q9VLT78YKhQvrtxyd2, added 2026-11-03T06:24:09.000Z (19.6h ago)
+2026-11-04 02:01:14,867 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-04 02:01:14,985 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-11-04 02:01:14,985 [INFO] === Run finished ===
