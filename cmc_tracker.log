@@ -5689,3 +5689,9 @@
 2026-11-05 02:45:47,366 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-05 02:45:47,529 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-11-05 02:45:47,529 [INFO] === Run finished ===
+2026-11-05 10:07:21,784 [INFO] === Run started 2026-11-05T10:07:21.784431+00:00 ===
+2026-11-05 10:07:22,040 [INFO] Fetched 200 listings sorted by date_added
+2026-11-05 10:07:22,041 [INFO] NEW LISTING: Western Digital Corporation Tokenized Stock (Coinbase) (WDCc) - $314.52125, mcap $101,267, platform Base, contract 0xb2000000000000000000008fde21a1f5c69fec0b, added 2026-10-14T03:36:47.000Z (534.5h ago)
+2026-11-05 10:07:22,044 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-05 10:07:22,197 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-11-05 10:07:22,197 [INFO] === Run finished ===
