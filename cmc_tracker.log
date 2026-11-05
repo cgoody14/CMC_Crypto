@@ -5695,3 +5695,11 @@
 2026-11-05 10:07:22,044 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-05 10:07:22,197 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-11-05 10:07:22,197 [INFO] === Run finished ===
+2026-11-05 17:58:49,522 [INFO] === Run started 2026-11-05T17:58:49.522708+00:00 ===
+2026-11-05 17:58:49,785 [INFO] Fetched 200 listings sorted by date_added
+2026-11-05 17:58:49,786 [INFO] NEW LISTING: LumiWave Protocol (LWP) - $0.0022804829, mcap $n/a, platform own chain, contract n/a, added 2026-11-05T16:11:59.000Z (1.8h ago)
+2026-11-05 17:58:49,786 [INFO] NEW LISTING: Layer One X (L1X) - $7.0040154, mcap $n/a, platform Ethereum, contract 0x399ef659fdead53b3e7f97e9491e727925667945, added 2026-11-05T15:46:44.000Z (2.2h ago)
+2026-11-05 17:58:49,786 [INFO] NEW LISTING: higher.fun (HIGH) - $0.002191625, mcap $n/a, platform Solana, contract 7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh, added 2026-11-05T14:54:22.000Z (3.1h ago)
+2026-11-05 17:58:49,789 [INFO] Detection pass: 3 new coin(s) inserted
+2026-11-05 17:58:49,837 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-11-05 17:58:49,837 [INFO] === Run finished ===
