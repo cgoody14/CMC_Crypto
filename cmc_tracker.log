@@ -5708,3 +5708,9 @@
 2026-11-06 03:29:55,441 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-06 03:29:55,551 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-11-06 03:29:55,551 [INFO] === Run finished ===
+2026-11-06 11:23:18,867 [INFO] === Run started 2026-11-06T11:23:18.867100+00:00 ===
+2026-11-06 11:23:19,205 [INFO] Fetched 200 listings sorted by date_added
+2026-11-06 11:23:19,206 [INFO] NEW LISTING: State Street Health Care Select Sector SPDR ETF (Derivative) (XLV) - $183.2245, mcap $n/a, platform own chain, contract n/a, added 2026-11-06T05:38:52.000Z (5.7h ago)
+2026-11-06 11:23:19,209 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-06 11:23:19,362 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-11-06 11:23:19,362 [INFO] === Run finished ===
