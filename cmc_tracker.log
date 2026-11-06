@@ -5720,3 +5720,9 @@
 2026-11-06 18:09:09,841 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-06 18:09:10,012 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-11-06 18:09:10,013 [INFO] === Run finished ===
+2026-11-06 23:04:53,254 [INFO] === Run started 2026-11-06T23:04:53.254894+00:00 ===
+2026-11-06 23:04:53,557 [INFO] Fetched 200 listings sorted by date_added
+2026-11-06 23:04:53,558 [INFO] NEW LISTING: ConConAI (CON) - $0.0093864931, mcap $750,919, platform Ethereum, contract 0x7ad1A8Fc42Ac150B04dED5825D21a0C90b6d28D8, added 2026-09-23T08:00:03.000Z (1071.1h ago)
+2026-11-06 23:04:53,625 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-06 23:04:53,756 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-11-06 23:04:53,756 [INFO] === Run finished ===
