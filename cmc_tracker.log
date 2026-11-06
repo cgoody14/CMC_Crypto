@@ -5714,3 +5714,9 @@
 2026-11-06 11:23:19,209 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-06 11:23:19,362 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-11-06 11:23:19,362 [INFO] === Run finished ===
+2026-11-06 18:09:09,504 [INFO] === Run started 2026-11-06T18:09:09.504517+00:00 ===
+2026-11-06 18:09:09,838 [INFO] Fetched 200 listings sorted by date_added
+2026-11-06 18:09:09,839 [INFO] NEW LISTING: Rich Thailand Green NovaX Project (RTGX) - $0.0073953292, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xF2a2C1e4D5D4F2A11A2220e95c9b486Aa493E9Af, added 2026-11-06T13:15:05.000Z (4.9h ago)
+2026-11-06 18:09:09,841 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-06 18:09:10,012 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-11-06 18:09:10,013 [INFO] === Run finished ===
