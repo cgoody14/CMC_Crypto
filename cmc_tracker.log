@@ -5731,3 +5731,9 @@
 2026-11-07 02:46:00,917 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-07 02:46:01,040 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-11-07 02:46:01,041 [INFO] === Run finished ===
+2026-11-07 09:28:20,289 [INFO] === Run started 2026-11-07T09:28:20.289074+00:00 ===
+2026-11-07 09:28:20,662 [INFO] Fetched 200 listings sorted by date_added
+2026-11-07 09:28:20,663 [INFO] NEW LISTING: Applied Optoelectronics Inc Tokenized Stock (Coinbase) (AAOIc) - $50.036896, mcap $123,519, platform Base, contract 0xb200000000000000000000cf36d05963a3e2205c, added 2026-10-14T03:36:45.000Z (581.9h ago)
+2026-11-07 09:28:20,669 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-07 09:28:20,778 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-11-07 09:28:20,778 [INFO] === Run finished ===
