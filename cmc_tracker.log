@@ -5737,3 +5737,9 @@
 2026-11-07 09:28:20,669 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-07 09:28:20,778 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-11-07 09:28:20,778 [INFO] === Run finished ===
+2026-11-07 15:50:26,746 [INFO] === Run started 2026-11-07T15:50:26.746669+00:00 ===
+2026-11-07 15:50:26,928 [INFO] Fetched 200 listings sorted by date_added
+2026-11-07 15:50:26,929 [INFO] NEW LISTING: USD Universal (USDU) - $0.99852, mcap $n/a, platform Ethereum, contract 0xe4ca6596D2C28014C6f89964F57838e0bE9f369B, added 2026-11-05T14:56:01.000Z (48.9h ago)
+2026-11-07 15:50:26,935 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-07 15:50:27,047 [INFO] Tracking pass: 3 snapshot(s) recorded for 3 active coin(s)
+2026-11-07 15:50:27,047 [INFO] === Run finished ===
