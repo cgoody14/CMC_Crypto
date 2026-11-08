@@ -5758,3 +5758,9 @@
 2026-11-08 02:36:22,613 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-08 02:36:22,757 [INFO] Tracking pass: 2 snapshot(s) recorded for 2 active coin(s)
 2026-11-08 02:36:22,757 [INFO] === Run finished ===
+2026-11-08 09:28:12,386 [INFO] === Run started 2026-11-08T09:28:12.386676+00:00 ===
+2026-11-08 09:28:12,650 [INFO] Fetched 200 listings sorted by date_added
+2026-11-08 09:28:12,651 [INFO] NEW LISTING: Lumentum Holdings Inc Tokenized Stock (Coinbase) (LITEc) - $537.54151, mcap $111,698, platform Base, contract 0xb200000000000000000000eda6c2c6f11e0f838f, added 2026-10-14T03:36:57.000Z (605.9h ago)
+2026-11-08 09:28:12,658 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-08 09:28:12,809 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-11-08 09:28:12,809 [INFO] === Run finished ===
