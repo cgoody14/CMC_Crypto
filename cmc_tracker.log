@@ -5799,3 +5799,9 @@
 2026-11-10 04:18:49,466 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-10 04:18:49,466 [INFO] No coins currently inside their 48h tracking window
 2026-11-10 04:18:49,466 [INFO] === Run finished ===
+2026-11-10 12:50:30,765 [INFO] === Run started 2026-11-10T12:50:30.765634+00:00 ===
+2026-11-10 12:50:30,951 [INFO] Fetched 200 listings sorted by date_added
+2026-11-10 12:50:30,952 [INFO] NEW LISTING: SpaceX Inu (spacexinu.dog) (SI) - $4.7928838e-09, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0x725CCC7B5cEaCb0324B64CCb7DA3EcA2cd3a6666, added 2026-11-10T05:54:03.000Z (6.9h ago)
+2026-11-10 12:50:30,956 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-10 12:50:31,016 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
+2026-11-10 12:50:31,016 [INFO] === Run finished ===
