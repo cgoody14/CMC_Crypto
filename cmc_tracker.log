@@ -5853,3 +5853,9 @@
 2026-11-12 18:28:30,137 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-12 18:28:30,360 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-11-12 18:28:30,360 [INFO] === Run finished ===
+2026-11-12 23:46:19,413 [INFO] === Run started 2026-11-12T23:46:19.413347+00:00 ===
+2026-11-12 23:46:19,666 [INFO] Fetched 200 listings sorted by date_added
+2026-11-12 23:46:19,667 [INFO] NEW LISTING: Big Guy (bigguy.win) (BIG) - $0.00089907679, mcap $n/a, platform Solana, contract 34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump, added 2026-11-12T14:21:04.000Z (9.4h ago)
+2026-11-12 23:46:19,673 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-12 23:46:19,909 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-11-12 23:46:19,909 [INFO] === Run finished ===
