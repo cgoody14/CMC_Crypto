@@ -5864,3 +5864,12 @@
 2026-11-13 04:24:30,732 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-13 04:24:30,857 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-11-13 04:24:30,857 [INFO] === Run finished ===
+2026-11-13 12:26:31,408 [INFO] === Run started 2026-11-13T12:26:31.408217+00:00 ===
+2026-11-13 12:26:31,612 [INFO] Fetched 200 listings sorted by date_added
+2026-11-13 12:26:31,612 [INFO] NEW LISTING: Gilead Sciences tokenized stock (xStock) (GILDx) - $169.0973, mcap $45,192, platform Ethereum, contract 0x5BFF193f267052D62B2E1Cf319ce8305936b1f03, added 2026-11-12T05:32:53.000Z (30.9h ago)
+2026-11-13 12:26:31,612 [INFO] NEW LISTING: Interactive Brokers Group tokenized stock (xStock) (IBKRx) - $81.64627, mcap $48,969, platform Ethereum, contract 0x8563a53804f4a195Fd2c960A8d5e16c997c394ab, added 2026-11-12T05:32:53.000Z (30.9h ago)
+2026-11-13 12:26:31,612 [INFO] NEW LISTING: Monolithic Power Systems Inc tokenized stock (xStock) (MPWRx) - $1432.0068, mcap $49,214, platform Ethereum, contract 0xF78E8b9441FBBfB674d35101dF0658D88B3bb33F, added 2026-11-12T05:32:53.000Z (30.9h ago)
+2026-11-13 12:26:31,613 [INFO] NEW LISTING: Mp Materials Corp tokenized stock (xStock) (MPx) - $37.817849, mcap $61,865, platform Ethereum, contract 0x75D3C07dCe9F1424Dce574f78242e7eF1696B8A2, added 2026-11-12T05:32:53.000Z (30.9h ago)
+2026-11-13 12:26:31,614 [INFO] Detection pass: 4 new coin(s) inserted
+2026-11-13 12:26:31,728 [INFO] Tracking pass: 7 snapshot(s) recorded for 7 active coin(s)
+2026-11-13 12:26:31,728 [INFO] === Run finished ===
