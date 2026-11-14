@@ -5893,3 +5893,9 @@
 2026-11-14 14:06:28,953 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-14 14:06:29,069 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-11-14 14:06:29,070 [INFO] === Run finished ===
+2026-11-14 19:07:28,582 [INFO] === Run started 2026-11-14T19:07:28.582035+00:00 ===
+2026-11-14 19:07:29,383 [INFO] Fetched 200 listings sorted by date_added
+2026-11-14 19:07:29,384 [INFO] NEW LISTING: Identity.md 6900 (IMD6900) - $0.00026452053, mcap $264,521, platform Robinhood Chain, contract 0xe3e3df8bfb891d269a78ee33a456d36fb7344ec1, added 2026-10-13T10:12:27.000Z (776.9h ago)
+2026-11-14 19:07:29,386 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-14 19:07:29,388 [INFO] All previously-tracked coins have completed their 48h window
+2026-11-14 19:07:29,388 [INFO] === Run finished ===
