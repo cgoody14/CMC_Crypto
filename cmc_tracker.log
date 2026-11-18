@@ -5968,3 +5968,22 @@
 2026-11-18 09:06:13,159 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-18 09:06:13,224 [INFO] Tracking pass: 1 snapshot(s) recorded for 1 active coin(s)
 2026-11-18 09:06:13,224 [INFO] === Run finished ===
+2026-11-18 17:59:41,548 [INFO] === Run started 2026-11-18T17:59:41.548380+00:00 ===
+2026-11-18 17:59:41,801 [INFO] Fetched 200 listings sorted by date_added
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: MZGrid (MZG) - $0.0025736595, mcap $n/a, platform Base, contract 0x0018b7E238DBfB210645B88072F32a77bd00C66e, added 2026-11-18T10:08:08.000Z (7.9h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: Cameco Corp (Derivatives) (CCJ) - $63.041775, mcap $n/a, platform own chain, contract n/a, added 2026-11-18T09:17:19.000Z (8.7h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: Eaton Corporation PLC (Derivatives) (ETN) - $338.64819, mcap $n/a, platform own chain, contract n/a, added 2026-11-18T09:17:19.000Z (8.7h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares Bitcoin Trust ETF (Derivatives) (IBIT) - $35.633889, mcap $n/a, platform own chain, contract n/a, added 2026-11-18T09:11:09.000Z (8.8h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares Future AI & Tech ETF (Derivatives) (ARTY) - $61.591563, mcap $n/a, platform own chain, contract n/a, added 2026-11-18T09:05:16.000Z (8.9h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares Expanded Tech-Software ETF (Derivatives) (IGV) - $96.799418, mcap $n/a, platform own chain, contract n/a, added 2026-11-18T08:59:23.000Z (9.0h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: INDR (INDR) - $54.876847, mcap $n/a, platform Ethereum, contract 0x25260044d244DBA9C787e6108600709Eb160EaE9, added 2026-11-17T13:00:06.000Z (29.0h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares MSCI Japan ETF Tokenized bStocks (EWJB) - $88.354373, mcap $637,228, platform BNB Smart Chain (BEP20), contract 0x26e32dab9f844d7256db4195b3a43750272a51e9, added 2026-11-16T12:30:48.000Z (53.5h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares MSCI Brazil ETF Tokenized bStocks (EWZB) - $30.36668, mcap $317,759, platform BNB Smart Chain (BEP20), contract 0xb17d6ec90fd85315cd1bbcd330c3ebb07dcc822d, added 2026-11-16T12:25:57.000Z (53.6h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares Russell 2000 Index Fund Tokenized bStocks (IWMB) - $271.18244, mcap $329,240, platform BNB Smart Chain (BEP20), contract 0x5e0ec7c48f2da6d8db1a2c95d71c535bf8a77c41, added 2026-11-16T12:20:32.000Z (53.7h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares MSCI Brazil Small-Cap ETF Tokenized bStocks (EWZSB) - $10.408579, mcap $328,156, platform BNB Smart Chain (BEP20), contract 0xc5a784b9bc0d9c526a1ef582c107ab2ff1c8fe14, added 2026-11-16T12:17:30.000Z (53.7h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: iShares MSCI Taiwan ETF Tokenized bStocks (EWTB) - $88.852989, mcap $534,457, platform BNB Smart Chain (BEP20), contract 0x24824404bb9577697d11a07a5d88341191de6578, added 2026-11-16T12:14:54.000Z (53.7h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: Nu Holdings Tokenized bStocks (NUB) - $12.216595, mcap $347,665, platform BNB Smart Chain (BEP20), contract 0x3cf7b2b634bac8c5e977e1576d79ea667e62f31c, added 2026-11-16T12:10:58.000Z (53.8h ago)
+2026-11-18 17:59:41,802 [INFO] NEW LISTING: MercadoLibre Tokenized bStocks (MELIB) - $1432.8877, mcap $430,246, platform BNB Smart Chain (BEP20), contract 0xe1fc8b12eeda0b7f8ed1330477ba330d3b5afbc9, added 2026-11-16T12:07:05.000Z (53.9h ago)
+2026-11-18 17:59:41,809 [INFO] Detection pass: 14 new coin(s) inserted
+2026-11-18 17:59:42,046 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
+2026-11-18 17:59:42,046 [INFO] === Run finished ===
