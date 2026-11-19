@@ -5998,3 +5998,11 @@
 2026-11-19 07:17:39,818 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-19 07:17:39,928 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-11-19 07:17:39,929 [INFO] === Run finished ===
+2026-11-19 16:40:58,203 [INFO] === Run started 2026-11-19T16:40:58.203939+00:00 ===
+2026-11-19 16:40:58,594 [INFO] Fetched 200 listings sorted by date_added
+2026-11-19 16:40:58,595 [INFO] NEW LISTING: iShares 20+ Year Treasury Bond tokenized ETF (xStock) (TLTx) - $80.680907, mcap $178,132, platform Ethereum, contract 0xd066Eaac44d53EC47304048a33CdFA58C2015cd5, added 2026-11-19T10:23:06.000Z (6.3h ago)
+2026-11-19 16:40:58,595 [INFO] NEW LISTING: T-REX 2X Long MSTR Daily Target tokenized ETF (xStock) (MSTUx) - $12.17267, mcap $43,614, platform Ethereum, contract 0xA9beED5e64BfA36BB7b83b39b3682e0D84E7ac21, added 2026-11-19T09:43:57.000Z (7.0h ago)
+2026-11-19 16:40:58,595 [INFO] NEW LISTING: Make Better Generation (mbg21.com) (MBG) - $0.00064516414, mcap $n/a, platform Solana, contract HzQQyPcBZgqiarw9R8jYDqb89xLUsyHAwezk8CvEpump, added 2026-11-19T08:30:05.000Z (8.2h ago)
+2026-11-19 16:40:58,602 [INFO] Detection pass: 3 new coin(s) inserted
+2026-11-19 16:40:58,792 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-11-19 16:40:58,792 [INFO] === Run finished ===
