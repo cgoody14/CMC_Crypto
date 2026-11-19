@@ -5992,3 +5992,9 @@
 2026-11-19 00:04:26,315 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-19 00:04:26,377 [INFO] Tracking pass: 8 snapshot(s) recorded for 8 active coin(s)
 2026-11-19 00:04:26,377 [INFO] === Run finished ===
+2026-11-19 07:17:39,388 [INFO] === Run started 2026-11-19T07:17:39.388671+00:00 ===
+2026-11-19 07:17:39,814 [INFO] Fetched 200 listings sorted by date_added
+2026-11-19 07:17:39,815 [INFO] NEW LISTING: State Street Financial Sel Sec SPDR ETF (Derivatives) (XLF) - $56.60856, mcap $n/a, platform own chain, contract n/a, added 2026-11-19T03:31:57.000Z (3.8h ago)
+2026-11-19 07:17:39,818 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-19 07:17:39,928 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-11-19 07:17:39,929 [INFO] === Run finished ===
