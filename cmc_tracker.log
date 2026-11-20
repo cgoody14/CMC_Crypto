@@ -6022,3 +6022,10 @@
 2026-11-20 03:58:46,741 [INFO] Detection pass: 3 new coin(s) inserted
 2026-11-20 03:58:46,889 [INFO] Tracking pass: 13 snapshot(s) recorded for 13 active coin(s)
 2026-11-20 03:58:46,890 [INFO] === Run finished ===
+2026-11-20 12:35:31,564 [INFO] === Run started 2026-11-20T12:35:31.564733+00:00 ===
+2026-11-20 12:35:31,822 [INFO] Fetched 200 listings sorted by date_added
+2026-11-20 12:35:31,823 [INFO] NEW LISTING: NIO Inc. ADR (Derivatives) (NIO) - $2.6285933, mcap $n/a, platform own chain, contract n/a, added 2026-11-20T08:37:15.000Z (4.0h ago)
+2026-11-20 12:35:31,823 [INFO] NEW LISTING: GraniteShares 2x Long AMD Daily ETF (Derivatives) (AMDL) - $37.076037, mcap $n/a, platform own chain, contract n/a, added 2026-11-20T08:31:59.000Z (4.1h ago)
+2026-11-20 12:35:31,829 [INFO] Detection pass: 2 new coin(s) inserted
+2026-11-20 12:35:31,878 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-11-20 12:35:31,878 [INFO] === Run finished ===
