@@ -6089,3 +6089,9 @@
 2026-11-23 11:44:52,939 [INFO] Detection pass: 5 new coin(s) inserted
 2026-11-23 11:44:53,062 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-11-23 11:44:53,062 [INFO] === Run finished ===
+2026-11-23 22:55:35,529 [INFO] === Run started 2026-11-23T22:55:35.529745+00:00 ===
+2026-11-23 22:55:35,609 [INFO] Fetched 200 listings sorted by date_added
+2026-11-23 22:55:35,610 [INFO] NEW LISTING: Montra (MONTRA) - $0.0060397367, mcap $n/a, platform Elysium, contract 0x063f7cc5339f92a5fd7baf3d22233044fda1f327, added 2026-11-23T13:00:02.000Z (9.9h ago)
+2026-11-23 22:55:35,611 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-23 22:55:35,650 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
+2026-11-23 22:55:35,650 [INFO] === Run finished ===
