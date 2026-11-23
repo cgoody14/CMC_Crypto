@@ -6079,3 +6079,13 @@
 2026-11-23 02:56:51,091 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-23 02:56:51,091 [INFO] No coins currently inside their 48h tracking window
 2026-11-23 02:56:51,091 [INFO] === Run finished ===
+2026-11-23 11:44:52,594 [INFO] === Run started 2026-11-23T11:44:52.593990+00:00 ===
+2026-11-23 11:44:52,936 [INFO] Fetched 200 listings sorted by date_added
+2026-11-23 11:44:52,937 [INFO] NEW LISTING: Robinhood Markets, Inc. Tokenized Stock (Coinbase) (HOODc) - $66.379288, mcap $178,521, platform Base, contract 0xb2000000000000000000006F944897540579D3f2, added 2026-11-23T07:21:30.000Z (4.4h ago)
+2026-11-23 11:44:52,937 [INFO] NEW LISTING: McDonald's Corporation Tokenized Stock (Coinbase) (MCDc) - $272.81907, mcap $141,621, platform Base, contract 0xb200000000000000000000d2f4cf2f7DEBB244BB, added 2026-11-23T07:21:29.000Z (4.4h ago)
+2026-11-23 11:44:52,937 [INFO] NEW LISTING: The Coca-Cola Company Tokenized Stock (Coinbase) (KOc) - $96.730075, mcap $145,289, platform Base, contract 0xb200000000000000000000ffef181DB6dC5ed6A3, added 2026-11-23T07:21:28.000Z (4.4h ago)
+2026-11-23 11:44:52,937 [INFO] NEW LISTING: FLOAT (FLOAT) - $0.0034247055, mcap $n/a, platform Solana, contract Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr, added 2026-11-23T05:58:03.000Z (5.8h ago)
+2026-11-23 11:44:52,937 [INFO] NEW LISTING: Moogent (MOOG) - $0.95195951, mcap $n/a, platform BNB Smart Chain (BEP20), contract 0xBC65B0C8E247d2f0fa655CCD69f95007cB776C52, added 2026-11-20T02:45:04.000Z (81.0h ago)
+2026-11-23 11:44:52,939 [INFO] Detection pass: 5 new coin(s) inserted
+2026-11-23 11:44:53,062 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-11-23 11:44:53,062 [INFO] === Run finished ===
