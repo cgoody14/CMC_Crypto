@@ -6105,3 +6105,10 @@
 2026-11-24 06:39:19,717 [INFO] Detection pass: 5 new coin(s) inserted
 2026-11-24 06:39:19,833 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
 2026-11-24 06:39:19,833 [INFO] === Run finished ===
+2026-11-24 18:18:34,555 [INFO] === Run started 2026-11-24T18:18:34.555570+00:00 ===
+2026-11-24 18:18:34,806 [INFO] Fetched 200 listings sorted by date_added
+2026-11-24 18:18:34,807 [INFO] NEW LISTING: Rocket Raccoon (rocketraccoon.xyz) (ROCKET) - $0.00077185789, mcap $n/a, platform Solana, contract 6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump, added 2026-11-24T17:57:04.000Z (0.4h ago)
+2026-11-24 18:18:34,807 [INFO] NEW LISTING: SPARK Token (SPUSD) - $0.99932409, mcap $n/a, platform Polygon, contract 0xE979926C0Bf5Af833a98a0C2e9818e8B637F6d0A, added 2026-11-24T07:27:04.000Z (10.9h ago)
+2026-11-24 18:18:34,808 [INFO] Detection pass: 2 new coin(s) inserted
+2026-11-24 18:18:34,938 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
+2026-11-24 18:18:34,938 [INFO] === Run finished ===
