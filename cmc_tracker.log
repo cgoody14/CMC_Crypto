@@ -6095,3 +6095,13 @@
 2026-11-23 22:55:35,611 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-23 22:55:35,650 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-11-23 22:55:35,650 [INFO] === Run finished ===
+2026-11-24 06:39:19,503 [INFO] === Run started 2026-11-24T06:39:19.503491+00:00 ===
+2026-11-24 06:39:19,712 [INFO] Fetched 200 listings sorted by date_added
+2026-11-24 06:39:19,713 [INFO] NEW LISTING: Franklin US Core Bond Tokenized ETF (Ondo) (FLCBon) - $20.764504, mcap $100, platform Ethereum, contract 0xf1F558C95B14Ad95D4da1822770Dc4Ff0f1BCc30, added 2026-11-24T02:27:53.000Z (4.2h ago)
+2026-11-24 06:39:19,713 [INFO] NEW LISTING: Franklin US Equity Bitcoin DRIP Index Tokenized ETF (Ondo) (FBEQon) - $23.537771, mcap $102, platform Ethereum, contract 0x7FA8725e25b0C005a22499461AAA3f1b1C2962FE, added 2026-11-24T02:27:53.000Z (4.2h ago)
+2026-11-24 06:39:19,713 [INFO] NEW LISTING: Franklin US Equity Index Tokenized ETF (Ondo) (USPXon) - $63.88395, mcap $103, platform Ethereum, contract 0x3CCF4f79B5D6Aceb786c20F74B8DF07C7e14160F, added 2026-11-24T02:27:52.000Z (4.2h ago)
+2026-11-24 06:39:19,713 [INFO] NEW LISTING: Franklin US Treasury Bond Tokenized ETF (Ondo) (FLGVon) - $19.798125, mcap $100, platform Ethereum, contract 0xfeebbDDDA97D26605050e85099E697fd9567D597, added 2026-11-24T02:27:51.000Z (4.2h ago)
+2026-11-24 06:39:19,713 [INFO] NEW LISTING: Take-Two Interactive Software Tokenized Stock (Ondo) (TTWOon) - $209.45617, mcap $10,795, platform Ethereum, contract 0x6C190f0b8f7525244C6dcf0363A1241a99509101, added 2026-11-24T02:27:51.000Z (4.2h ago)
+2026-11-24 06:39:19,717 [INFO] Detection pass: 5 new coin(s) inserted
+2026-11-24 06:39:19,833 [INFO] Tracking pass: 10 snapshot(s) recorded for 10 active coin(s)
+2026-11-24 06:39:19,833 [INFO] === Run finished ===
