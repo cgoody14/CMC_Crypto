@@ -6117,3 +6117,9 @@
 2026-11-25 02:40:00,363 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-25 02:40:00,482 [INFO] Tracking pass: 12 snapshot(s) recorded for 12 active coin(s)
 2026-11-25 02:40:00,482 [INFO] === Run finished ===
+2026-11-25 11:43:07,203 [INFO] === Run started 2026-11-25T11:43:07.203085+00:00 ===
+2026-11-25 11:43:07,279 [INFO] Fetched 200 listings sorted by date_added
+2026-11-25 11:43:07,279 [INFO] NEW LISTING: JD.Com Inc  (Derivatives) (JD) - $25.593814, mcap $n/a, platform own chain, contract n/a, added 2026-11-25T05:46:02.000Z (6.0h ago)
+2026-11-25 11:43:07,281 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-25 11:43:07,318 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
+2026-11-25 11:43:07,318 [INFO] === Run finished ===
