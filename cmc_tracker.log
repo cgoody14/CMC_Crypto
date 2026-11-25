@@ -6123,3 +6123,16 @@
 2026-11-25 11:43:07,281 [INFO] Detection pass: 1 new coin(s) inserted
 2026-11-25 11:43:07,318 [INFO] Tracking pass: 9 snapshot(s) recorded for 9 active coin(s)
 2026-11-25 11:43:07,318 [INFO] === Run finished ===
+2026-11-25 20:39:51,711 [INFO] === Run started 2026-11-25T20:39:51.711536+00:00 ===
+2026-11-25 20:39:51,916 [INFO] Fetched 200 listings sorted by date_added
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: Vanta Network (VANTA) - $6.935055, mcap $29,779,716, platform Bittensor, contract 8, added 2026-11-25T20:30:58.000Z (0.1h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: Gnodi (GNOD) - $0.0050525369, mcap $n/a, platform Osmosis, contract ibc/9005151AB92A888293B05E8D0C679032F86639EC2251430565FA38CF3BB6226B, added 2026-11-25T15:59:11.000Z (4.7h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: TetherCoin V5 (V5SDT) - $1.0020306, mcap $n/a, platform Tron20, contract TDmQKXg8eVqy3gaMRxRNdtsCWS7AMDgRfT, added 2026-11-25T13:54:04.000Z (6.8h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: iShares Expanded Tech-Software Sector ETF Tokenized bStocks (IGVB) - $93.820777, mcap $353,837, platform BNB Smart Chain (BEP20), contract 0x3f9550a5355e11c4c4e24a82e47b53a4a5d1e17d, added 2026-11-24T01:47:42.000Z (42.9h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: iShares Semiconductor ETF Tokenized bStocks (SOXXB) - $124.06186, mcap $900,143, platform BNB Smart Chain (BEP20), contract 0xcd1e9a6d7416674347c44e7a95b1f5954540fffd, added 2026-11-24T01:47:42.000Z (42.9h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: iShares Future AI & Tech ETF Tokenized bStocks (ARTYB) - $55.566641, mcap $367,192, platform BNB Smart Chain (BEP20), contract 0x4c7ae9c293641cd1530ba3ab1b14ef004193e928, added 2026-11-24T01:47:41.000Z (42.9h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: Freedom Holding Corp Tokenized bStocks (FRHCB) - $175.13814, mcap $2,485,778, platform BNB Smart Chain (BEP20), contract 0x091d185e0702131a3047beb6460454f43d667e80, added 2026-11-24T01:47:41.000Z (42.9h ago)
+2026-11-25 20:39:51,917 [INFO] NEW LISTING: iShares Bitcoin Trust Tokenized bStocks (IBITB) - $33.067198, mcap $357,312, platform BNB Smart Chain (BEP20), contract 0x2480a1b8e5f68752fe880fba96e5517369a5f6a1, added 2026-11-24T01:47:40.000Z (42.9h ago)
+2026-11-25 20:39:51,924 [INFO] Detection pass: 8 new coin(s) inserted
+2026-11-25 20:39:52,075 [INFO] Tracking pass: 16 snapshot(s) recorded for 16 active coin(s)
+2026-11-25 20:39:52,075 [INFO] === Run finished ===
