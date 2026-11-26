@@ -6146,3 +6146,9 @@
 2026-11-26 12:21:24,302 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-26 12:21:24,614 [INFO] Tracking pass: 5 snapshot(s) recorded for 5 active coin(s)
 2026-11-26 12:21:24,614 [INFO] === Run finished ===
+2026-11-26 21:47:15,133 [INFO] === Run started 2026-11-26T21:47:15.133230+00:00 ===
+2026-11-26 21:47:15,412 [INFO] Fetched 200 listings sorted by date_added
+2026-11-26 21:47:15,413 [INFO] NEW LISTING: Bitcoin Hyper (bitcoinhyper.com) (HYPER) - $0.00041342561, mcap $n/a, platform Ethereum, contract 0xA86c39fa8341aDC5219f355468fc78Cec7e8702B, added 2026-11-24T02:43:04.000Z (67.1h ago)
+2026-11-26 21:47:15,416 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-26 21:47:15,610 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-11-26 21:47:15,610 [INFO] === Run finished ===
