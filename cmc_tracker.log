@@ -6157,3 +6157,9 @@
 2026-11-27 03:52:59,745 [INFO] Detection pass: 0 new coin(s) inserted
 2026-11-27 03:52:59,937 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
 2026-11-27 03:52:59,937 [INFO] === Run finished ===
+2026-11-27 13:21:33,303 [INFO] === Run started 2026-11-27T13:21:33.303577+00:00 ===
+2026-11-27 13:21:33,714 [INFO] Fetched 200 listings sorted by date_added
+2026-11-27 13:21:33,715 [INFO] NEW LISTING: Crypto of Thrones (cot.gg) (COT) - $0.0064679328, mcap $n/a, platform Solana, contract 5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW, added 2026-11-27T12:45:05.000Z (0.6h ago)
+2026-11-27 13:21:33,716 [INFO] Detection pass: 1 new coin(s) inserted
+2026-11-27 13:21:33,887 [INFO] Tracking pass: 4 snapshot(s) recorded for 4 active coin(s)
+2026-11-27 13:21:33,887 [INFO] === Run finished ===
